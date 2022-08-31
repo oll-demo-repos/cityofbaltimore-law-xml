@@ -578,7 +578,7 @@
   <container>
     <prefix>Subtitle</prefix>
     <num>4</num>
-    <text>{Reserved}</text>
+    <heading>{Reserved}</heading>
   </container>
   <container>
     <prefix>Subtitle</prefix>
@@ -1345,7 +1345,8 @@
       <annotation>(Ord. 11-424.)</annotation>
     </section>
     <section>
-      <text>§ 7-9.  {Reserved}</text>
+      <num>7-9</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>7-10</num>
@@ -1692,7 +1693,8 @@
       <annotation>(Ord. 19-308; Ord. 21-068.)</annotation>
     </section>
     <section>
-      <text>§ 8-2. {Reserved}</text>
+      <num>8-2</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>8-3</num>
@@ -1714,7 +1716,8 @@
       <annotation>(Ord. 19-308.)</annotation>
     </section>
     <section>
-      <text>§ 8-4.  {Reserved}</text>
+      <num>8-4</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>8-5</num>
@@ -1938,7 +1941,8 @@
       <annotation>(Ord. 21-068.)</annotation>
     </section>
     <section>
-      <text>§ 8-9.  {Reserved}</text>
+      <num>8-9</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>8-10</num>
@@ -2121,7 +2125,8 @@
       <annotation>(Ord. 16-463.)</annotation>
     </section>
     <section>
-      <text>§§ 9-4 to 9-5.  {Reserved}</text>
+      <num>9-4 to 9-5</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>9-6</num>
@@ -2270,7 +2275,8 @@
       <annotation>(Ord. 16-463.)</annotation>
     </section>
     <section>
-      <text>§§ 9-10 to 9-14.  {Reserved}</text>
+      <num>9-10 to 9-14</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>9-15</num>
@@ -2447,7 +2453,8 @@
       <heading>{Repealed by Ord. 22-125}</heading>
     </section>
     <section>
-      <text>§§ 10-3 to 10-4.  {Reserved}</text>
+      <num>10-3 to 10-4</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>10-5</num>
@@ -2521,7 +2528,8 @@
       <annotation>(Ord. 20-407; Text Conformed 02/09/21.)</annotation>
     </section>
     <section>
-      <text>§§ 10-7 to 10-8.  {Reserved}</text>
+      <num>10-7 to 10-8</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>10-9</num>
@@ -2632,7 +2640,7 @@
   <container>
     <prefix>Subtitle</prefix>
     <num>11</num>
-    <text>{Reserved}</text>
+    <heading>{Reserved}</heading>
   </container>
   <container>
     <prefix>Subtitle</prefix>
@@ -4024,7 +4032,8 @@
         <annotation>(City Code, 1976/83, art. 1, §208.) (Ord. 86-781; Ord. 04-820; Ord. 07-431; Ord. 20-341.)</annotation>
       </section>
       <section>
-        <text>§ 22-2.  {Reserved}</text>
+        <num>22-2</num>
+        <heading>{Reserved}</heading>
       </section>
     </container>
     <container>
@@ -4288,7 +4297,8 @@
         <annotation>(City Code, 1976/83, art. 1, §211(b).) (Ord. 86-781; Ord. 04-820.)</annotation>
       </section>
       <section>
-        <text>§ 22-8.  {Reserved}</text>
+        <num>22-8</num>
+        <heading>{Reserved}</heading>
       </section>
     </container>
     <container>
@@ -4377,7 +4387,8 @@
         <annotation>(City Code, 1976/83, art. 1, §216.) (Ord. 86-781; Ord. 04-820.)</annotation>
       </section>
       <section>
-        <text>§§ 22-13 to 22-14. {Reserved}</text>
+        <num>22-13 to 22-14</num>
+        <heading>{Reserved}</heading>
       </section>
     </container>
     <container>
@@ -6372,7 +6383,8 @@
     <num>29</num>
     <heading>Violence Prevention</heading>
     <section>
-      <text>§§ 29-1 to 29-9.  {Reserved}</text>
+      <num>29-1 to 29-9</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>29-10</num>
@@ -7273,7 +7285,8 @@
       <annotation>(City Code, 1976/83, art. 1, §49.) (Ord. 80-057; Ord. 94-370; Ord. 04-822.)</annotation>
     </section>
     <section>
-      <text>§ 31-3. {Reserved}</text>
+      <num>31-3</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>31-4</num>
@@ -7807,7 +7820,8 @@
       <annotation>(Ord. 07-484; Ord. 22-125; Ord.  22-131.)</annotation>
     </section>
     <section>
-      <text>§ 34-2.  {Reserved}</text>
+      <num>34-2</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>34-3</num>
@@ -7841,7 +7855,8 @@
       <annotation>(Ord. 07-484.)</annotation>
     </section>
     <section>
-      <text>§ 34-6.  {Reserved}</text>
+      <num>34-6</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>34-7</num>
@@ -7886,7 +7901,8 @@
       <annotation>(Ord. 07-484.)</annotation>
     </section>
     <section>
-      <text>§ 34-8.  {Reserved}</text>
+      <num>34-8</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>34-9</num>
@@ -8167,7 +8183,8 @@
       <annotation>(City Code, 1927, art. 1, §90; 1950, art. 1, §28; 1966, art. 1, §57; 1976/83, art. 1, §52.) (Ord. 14-565.)</annotation>
     </section>
     <section>
-      <text>§ 35-7.  {Reserved}</text>
+      <num>35-7</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>35-8</num>
@@ -8662,7 +8679,8 @@
       <annotation>(Ord. 16-586.)</annotation>
     </section>
     <section>
-      <text>§ 38-9. {Reserved}</text>
+      <num>38-9</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>38-10</num>
@@ -8734,7 +8752,8 @@
       <annotation>(Ord. 16-586.)</annotation>
     </section>
     <section>
-      <text>§ 38-12. {Reserved}</text>
+      <num>38-12</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>38-13</num>
@@ -8809,7 +8828,8 @@
       <annotation>(Ord. 18-160.)</annotation>
     </section>
     <section>
-      <text>§§ 39-2 to 39-5.  {Reserved}</text>
+      <num>39-2 to 39-5</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>39-6</num>
@@ -8848,7 +8868,8 @@
       <annotation type="Editor's Notes" dest="Container">Editor's Note:  Ordinance 18-160 was "enacted" on August 10, 2018, "effect[ive] on the 30th day after the date ... enacted" (i.e., on September 9, 2018).</annotation>
     </section>
     <section>
-      <text>§ 39-7.  {Reserved}</text>
+      <num>39-7</num>
+      <heading>{Reserved}</heading>
     </section>
     <section>
       <num>39-8</num>
