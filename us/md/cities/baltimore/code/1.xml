@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of Baltimore, Md., Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Article</prefix>
   <num>1</num>
   <heading>Mayor, City Council, and Municipal Agencies</heading>
@@ -9411,56 +9411,6 @@
       <annotation>(City Code, 1976/83, art. 1, §304.) (Ord. 98-326; Ord. 04-672; Ord. 19-332.)</annotation>
     </section>
     <section>
-      <num>40-11</num>
-      <heading>Enforcement of Board orders.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Penalty as debt and lien</em>.</text>
-        <text>Any civil penalty imposed on a person by the Board, whether on hearing, on default, or otherwise:</text>
-        <para>
-          <num>(1)</num>
-          <text>is a personal debt owed by that person to the City; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>if the offense involves real property owned by that person, creates a lien on that property in favor of the City.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Collection of penalties and liens</em>.</text>
-        <text>All penalties and liens incurred under this subtitle:</text>
-        <para>
-          <num>(1)</num>
-          <text>are collectible from and enforceable against any of the assets of the person who incurred the penalty; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>may be collected and enforced in the same way that the City collects and enforces other debts due to it or liens in its favor.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Priority over other liens and encumbrances.</em>
-        </text>
-        <text>All penalties and liens incurred under this subtitle have priority over all other liens and encumbrances, except taxes or other government assessments.</text>
-      </para>
-      <annotation>(City Code, 1976/83, art. 1, §305.) (Ord. 98-326.)</annotation>
-    </section>
-    <section>
-      <num>40-12</num>
-      <heading>Judicial assistance in enforcement.</heading>
-      <text>The Board may apply to a court of competent jurisdiction for enforcement of any decision, order, or subpoena issued by the Board.</text>
-      <annotation>(City Code, 1976/83, art. 1, §306.) (Ord. 98-326.)</annotation>
-    </section>
-    <section>
-      <num>40-13</num>
-      <heading>Subtitle not exclusive.</heading>
-      <text>The issuance of an environmental citation does not preclude pursuit of any other remedy or enforcement action authorized by law.</text>
-      <annotation>(City Code, 1976/83, art. 1, §307.) (Ord. 98-326.)</annotation>
-    </section>
-    <section>
       <num>40-14</num>
       <heading>Violations to which subtitle applies.</heading>
       <para>
@@ -9510,3402 +9460,1464 @@
       <para>
         <num>(e)</num>
         <text><em>Provisions and penalties enumerated</em>.</text>
-        <text>(.5)  <strong><em>Article 2.  Consumer Protections</em></strong></text>
-        <text>Subtitle 16.  Ticket Sales - Charges by Operators and Agents			$750</text>
-        <text>Subtitle 17.  Ticket Sales – Ticket Purchasing Software					$750</text>
-        <text>(.5a)  <strong><em>Article 5.  Finance, Property, and Procurement</em></strong></text>
-        <text>Subtitle 11.  Fair Election Fund								$500</text>
-        <text>Subtitle 26A.  Labor Trafficking Notice Requirements					$50</text>
-        <text>(.5b)  <strong><em>Article 7.  Natural Resources</em></strong></text>
-        <text>Division I.  Floodplain Management							$500</text>
-        <text>Division VI.  Miscellaneous</text>
-        <text>Subtitle 62.  Plastic Bag Reduction</text>
-        <text>1st offense													$250</text>
-        <text>2nd  offense in same 6-month period							$500</text>
-        <text>3rd or subsequent offense in same 6-month period					$1,000</text>
         <para>
-          <num>(1)</num>
-          <heading>Article 13.</heading>
+          <num>(.5)</num>
+          <heading>Article 2.  Consumer Protections</heading>
           <text>
-            <strong>
-              <em>Housing and Urban Renewal</em>
-            </strong>
+            <table>
+              <tbody>
+                <tr>
+                  <td>Subtitle 16.  Ticket Sales - Charges by Operators and Agents</td>
+                  <td>$750</td>
+                </tr>
+                <tr>
+                  <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
+                  <td>$750</td>
+                </tr>
+              </tbody>
+            </table>
           </text>
-          <text>Subtitle 4.	Registration of Non-Owner-Occupied Dwellings,</text>
-          <text>Rooming Houses, and Vacant Structures</text>
-          <text>Non-owner-occupied dwelling units							$100</text>
-          <text>Rooming houses												$100</text>
-          <text>Vacant structures											$500</text>
-          <text>Subtitle 5.  Licensing of Rental Dwellings</text>
-          <text>§ 5-4.  License required										$1,000</text>
         </para>
-      </para>
-    </section>
-    <section>
-      <num>5-15</num>
-      <heading>{Offenses there listed as cause for}</heading>
-      <text>Denial, suspension, or revocation of license						$750</text>
-      <text>All other provisions											$500</text>
-      <text>Subtitle 8.  Rent Increases									$1,000</text>
-      <para>
-        <num>(2)</num>
-        <heading>Article 15.</heading>
-        <text>
-          <strong>
-            <em>Licensing and Regulation</em>
-          </strong>
-        </text>
-        <text>Subtitle 12.  Commercial Parking Facilities						$1,000</text>
-        <text>Subtitle 13.  Special-Event Parking Lots							$750</text>
-        <text>Subtitle 17.  Street Vendors									$500</text>
-        <text>Subtitle 21.  Third-Party Food Delivery Platform					$1,000</text>
-        <text>Subtitle 42.  Human Trafficking Notice Requirements</text>
-        <text>1st offense 											 		$500</text>
-        <text>Subsequent offense								  			$1,000</text>
-        <text>Subtitle 43.  Public Restrooms								$100</text>
-        <text>Subtitle 48.  Short-Term Residential Rentals</text>
-        <text>§ 48-6.  License required <em>{for host}</em>							$500</text>
-        <text>§ 48-16.  <em>{Operational requirements for} </em>hosting platforms		$1,000</text>
-      </para>
-    </section>
-    <section>
-      <num>48-21</num>
-      <heading>{Offenses there listed as cause for} denial,</heading>
-      <text>suspension, or revocation of license						$500</text>
-      <text>All other provisions								 			$250</text>
-      <para>
-        <num>(3)</num>
-        <heading>Article 19.</heading>
-        <text>
-          <strong>
-            <em>Police Ordinances</em>
-          </strong>
-        </text>
-      </para>
-    </section>
-    <section>
-      <num>1-2</num>
-      <heading>Placement {of advertising circulars} without permission</heading>
-      <text>1<sup>st</sup> offense													$  50</text>
-      <text>2<sup>nd</sup> offense													$100</text>
-      <text>3<sup>rd</sup> or subsequent offense									$500</text>
-      <text>§ 7-2.  Vehicle alarms: Prohibited devices						$100</text>
-      <text>Subtitle 8.  Burglar Alarms - Registration and Regulation</text>
-    </section>
-    <section>
-      <num>8-8</num>
-      <heading>False alarm fees.</heading>
-      <text>Failure to pay-</text>
-      <text>Residential users										$100</text>
-      <text>Non-residential users									$500</text>
-      <text>All other provisions.</text>
-      <text>Users														$100</text>
-      <text>Contractors, Monitors, Others							$500</text>
-    </section>
-    <section>
-      <num>14-2</num>
-      <heading>Drinking or possessing open containers in public</heading>
-      <text>places – In general											$250</text>
-    </section>
-    <section>
-      <num>14-3</num>
-      <heading>Drinking or possessing open containers in public</heading>
-      <text>places – Parents or guardians of minors							$150</text>
-      <text>§ 32-3.  Sales to minors [in proximity to liquor stores]					$500</text>
-      <text>§ 32-4.  Inducing minor to purchase							$500</text>
-    </section>
-    <section>
-      <num>32-5</num>
-      <heading>False representation by minor</heading>
-      <text>1<sup>st</sup> offense													$  50</text>
-      <text>2<sup>nd</sup> or subsequent offense									$150</text>
-      <text>§ 41-2.  Outdoor telephones:  Prohibited placement					$500</text>
-      <text>§ 45-2.  Signs on or affecting public property: Posting prohibited		$500</text>
-      <text>§ 50-2.  Obstructing street, etc., or gutter						$  50</text>
-      <text>§ 50-3.  Merchandise projecting from building						$  50</text>
-    </section>
-    <section>
-      <num>51-2</num>
-      <heading>Compliance with park rules</heading>
-      <text>1<sup>st</sup> offense													$250</text>
-      <text>2<sup>nd</sup> offense													$500</text>
-      <text>3<sup>rd</sup> or subsequent offense									$1,000</text>
-      <para>
-        <num>(4)</num>
-        <heading>Article 23.</heading>
-        <text>
-          <strong>
-            <em>Sanitation</em>
-          </strong>
-        </text>
-      </para>
-    </section>
-    <section>
-      <num>2-1</num>
-      <heading>Mixed refuse: Receptacles</heading>
-      <text>Residential properties										$  50</text>
-      <text>Commercial properties										$100</text>
-    </section>
-    <section>
-      <num>2-2</num>
-      <heading>Mixed refuse: Handling</heading>
-      <text>Residential properties										$  50</text>
-      <text>Commercial properties										$100</text>
-      <text>§ 4-1 or § 4-2.  Receptacles on collection days</text>
-      <text>Residential properties										$  50</text>
-      <text>Commercial properties										$100</text>
-      <text>(4a)  <strong><em>Article 24.  Water</em></strong></text>
-    </section>
-    <section>
-      <num>21-1</num>
-      <heading>Rules and regulations {to protect water supply and facilities}</heading>
-      <text>Watershed Regulations</text>
-      <text>Polluting or depositing trash, etc.,  in reservoir waters</text>
-      <text>or tributaries											$500</text>
-      <text>Trespassing or otherwise entering or traversing</text>
-      <text>property in violation of rule or regulation						$150</text>
-      <text>Boating without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$100</text>
-      <text>Hunting without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$100</text>
-      <text>Fishing without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$  60</text>
-      <text>Other recreational activity (horseback riding,</text>
-      <text>bicycling, picnicking, etc.) in violation of rule</text>
-      <text>or regulation											$  60</text>
-      <text>Smoking except where expressly allowed						$  75</text>
-      <text>All other violations										$100</text>
-      <text>All other rules and regulations of Department</text>
-      <text>to protect water supply and facilities							$250</text>
-      <text>§ 21-2.  Suspension, etc., of certain uses							$100</text>
-      <text>§ 21-3.  Injuring fire hydrants								$250</text>
-      <text>§ 21-4.  Wrongful use after cut-off							$150</text>
-      <text>§ 21-5.  Refusal of entry										$100</text>
-      <text>§ 21-6.  Interference with equipment; illegal use of water				$500</text>
-      <text>(4b) <strong><em>Article 26.  Surveys, Streets, and Highways</em></strong></text>
-      <text>Subtitle 6.  Building Address Numbers							$  25</text>
-      <text>Subtitle 23.  Underground Conduit System						$1,000</text>
-      <text>(5a)  <strong><em>Article 31.  Transit and Traffic</em></strong></text>
-      <text>Subtitle 14.  Valet Parking</text>
-      <text>
-        <em>Part II.  Valet Operator's License</em>
-      </text>
-    </section>
-    <section>
-      <num>14-7</num>
-      <heading>License required</heading>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-      <text>§ 14-8(c). Liability insurance <em>{required}</em></text>
-      <text>1<sup>st</sup> offense													$250</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$500</text>
-      <text>
-        <em>Part III.  Valet Parking Zone Permit</em>
-      </text>
-    </section>
-    <section>
-      <num>14-16</num>
-      <heading>Permit required</heading>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-      <text>
-        <em>Part IV.  Standards of Operation</em>
-      </text>
-    </section>
-    <section>
-      <num>14-31</num>
-      <heading>Licensed operator {required}</heading>
-      <text>1<sup>st</sup> offense													$250</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$500</text>
-    </section>
-    <section>
-      <num>14-32</num>
-      <heading>{Authorized} locations and hours</heading>
-      <text>1<sup>st</sup> offense													$200</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$400</text>
-    </section>
-    <section>
-      <num>14-33</num>
-      <heading>{Required, prohibited uses of} valet parking zones</heading>
-      <text>1<sup>st</sup> offense													$250</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$500</text>
-      <text>§ 14-34(a).  Attendants' qualifications</text>
-      <text>1<sup>st</sup> offense													$200</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$400</text>
-    </section>
-    <section>
-      <num>14-35</num>
-      <heading>Transporting and parking vehicles</heading>
-      <text>1<sup>st</sup> offense													$250</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$500</text>
-    </section>
-    <section>
-      <num>14-36</num>
-      <heading>{Required} signage</heading>
-      <text>1<sup>st</sup> offense													$100</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$200</text>
-    </section>
-    <section>
-      <num>14-37</num>
-      <heading>Permit and operator's license {available for}</heading>
-      <text>inspection</text>
-      <text>1<sup>st</sup> offense													$100</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$200</text>
-      <text>§ 14-41(3).  Operators: Providing valet services in way</text>
-      <text>that endangers public safety</text>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-      <text>§ 14-41(4).  Operators: Providing valet services that</text>
-      <text>unreasonably disrupt vehicular or pedestrian traffic</text>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-      <text>§ 14-42(3).  Hosts: Providing or allowing valet services</text>
-      <text>in way that endangers public safety</text>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-      <text>§ 14-42(4).  Hosts: Providing or allowing valet services</text>
-      <text>that unreasonably disrupt vehicular or pedestrian traffic</text>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$1,000</text>
-    </section>
-    <section>
-      <num>14-43</num>
-      <heading>Any other violation that is cause for suspending</heading>
-      <text>or revoking a license or permit</text>
-      <text>1<sup>st</sup> offense													$150</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup>				$300</text>
-      <text>Subtitle 16.  Use-of-the-Road Regulations</text>
-      <text>§ 16-12. Vehicles on sidewalks 								$ 50</text>
-      <text>Subtitle 38.  Dockless Vehicles</text>
-      <text>§ 38-7(b)(2).  Exceeding the maximum number or type of</text>
-      <text>dockless vehicles permitted to operate						$1,000</text>
-      <text>§ 38-8(a).  Operating a dockless-vehicle-for-hire business</text>
-      <text>without a permit 											$1,000</text>
-    </section>
-    <section>
-      <num>38-12</num>
-      <heading>Failure of provider to provide</heading>
-      <text>required data or reports									$1,000</text>
-      <text>§ 38-15.  Failure of provider to notify of data breach				$1,000</text>
-      <text>§ 38-18.  Unlawful operation of e-bike or e-scooter 				      $ 20</text>
-      <text>§ 38-19.  Unlawful parking of dockless vehicle						$ 20</text>
-      <text>§ 38-21.  Display of advertisements on dockless vehicles			$1,000</text>
-    </section>
-    <section>
-      <num>38-22</num>
-      <heading>Provider operational responsibilities:</heading>
-      <text>Item (1).  Failure to maintain 24-hour customer service</text>
-      <text>phone support											$1,000</text>
-      <text>Item (2).  Failure to remove dockless vehicles from public</text>
-      <text>rights-of-way between dusk and dawn, as determined in</text>
-      <text>rules and regulations									   $500</text>
-      <text>Item (3).  Failure to ensure that dockless vehicles are</text>
-      <text>parked as required by law, rule, or regulation				$500</text>
-      <text>Item (4).  Failure to remove or reposition illegally parked</text>
-      <text>dockless vehicles within required time						$500</text>
-      <text>Item (5).  Failure to ensure that dockless vehicles adhere</text>
-      <text>to national safety standards        							$1,000</text>
-      <text>Item (6).  Failure to ensure that provider operations</text>
-      <text>adhere to equitable access requirements       					$1,000</text>
-      <text>Item (7).  Failure to comply with any other requirement</text>
-      <text>established by the Director             			                        $1,000</text>
-      <text>(5b) <strong><em>Article 32.  Zoning</em></strong></text>
-      <text>§ 19-101.  Prohibited Conduct								$500</text>
-      <text>(5c) <strong><em>Building, Fire, and Related Codes Article –</em></strong></text>
-      <text>
-        <strong>
-          <em>Building Code</em>
-        </strong>
-      </text>
-      <text>§ 105.11.  Post-work proof of disposal 							$1000</text>
-      <text>§ 114.14. Work without permit								$500</text>
-      <text>§ 115.3. Stop-work order:  Unlawful continuance					$500</text>
-      <text>§ 123.8.  Failure to comply with notice or citation</text>
-      <text>Unsafe structures {§ 116}									$900</text>
-      <text>Condemnation proceedings {§ 120}							$500</text>
-      <text>All other notices (excluding citations)							$250</text>
-      <text>§ 1209.4  Diaper-Changing Amenities							$500</text>
-      <text>§ 3302.2. Construction Safeguards: Waste and debris					$250</text>
-      <text>§ 3808.  Traffic-Mitigation Enforcement						$1,000</text>
-      <para>
-        <num>(6)</num>
-        <text>
-          <strong>
-            <em>Building, Fire, and Related Codes Article –</em>
-          </strong>
-        </text>
-        <text>
-          <strong>
-            <em>Fire Code</em>
-          </strong>
-        </text>
-        <text>§ 108.6.  Maintenance: Overcrowding</text>
-        <text>1-99 persons over capacity									$250</text>
-        <text>100-199 persons over capacity								$500</text>
-        <text>200 or more persons over capacity							$1,000</text>
-        <text>§ 916.4  Telephone Access to City's 9-1-1 System: General</text>
-        <text>1<sup>st</sup> offense													$100</text>
-        <text>2<sup>nd</sup> and subsequent offenses									$200</text>
-        <text>§ 1111.  Unsafe buildings: General							$250</text>
-        <text>§ 1001.2. Means of Egress: Minimum requirements					$250</text>
-        <text>(6a) <strong><em>Building, Fire, and Related Codes Article –</em></strong></text>
-        <text>
-          <strong>
-            <em>Property Maintenance Code</em>
-          </strong>
-        </text>
-        <text>Chapter 3.  General Requirements</text>
-        <text>§ 305.5.1.  Motor vehicles and trailers: Registered owner</text>
-        <text>responsible												$150</text>
-        <text>All other provisions</text>
-        <text>Residential properties									$  50</text>
-        <text>Commercial properties									$100</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>
-          <strong>
-            <em>Health Code</em>
-          </strong>
-        </text>
-        <text>Title 3:  Health Facilities</text>
-        <text>Subtitle 5:  Limited-Service Pregnancy Centers					$150</text>
-        <text>Title 4:  Disease Control</text>
-        <text>Subtitle 6:  Screening for Lead Poisoning</text>
-        <text>§ 4-601.  Parental Responsibility							$100</text>
-        <text>Title 5:  Nuisance Control</text>
-        <text>Subtitle 2:  Nuisance Abatement</text>
-        <text>§ 5-210.  Abatement notice								$100</text>
-        <text>Subtitle 4:  Lead-Based Paint								$100</text>
-        <text>Subtitle 5:  Bodily Wastes</text>
-        <text>§ 5-501.  Spitting											$100</text>
-        <text>§ 5-503.  Urinating, etc. - In general							$500</text>
-        <text>§ 5-504.  Urinating, etc. - Parents							$150</text>
-        <text>Subtitle 7:  Weeds											$  50</text>
-        <text>Title 6:  Food Service Facilities</text>
-        <text>Subtitle 2:  License Required</text>
-        <text>§ 6-201.  In general										$300</text>
-        <text>Subtitle 5:  Miscellaneous Regulations</text>
-        <text>§ 6-506.  Litter and rubbish prohibited						$200</text>
-        <text>§ 6-508.  Polystyrene foam products							$200</text>
-        <text>All other provisions											$100</text>
-        <text>Title 7:  Waste Control</text>
-        <text>Subtitle 2:  Solid Waste Collection							$100</text>
-        <text>Subtitle 4:  Landfills											$200</text>
-        <text>Subtitle 6:  Prohibited Disposal								$1,000</text>
-        <text>Subtitle 7:  Littering											$500</text>
-        <text>Title 8:  Air Pollution											$100</text>
-        <text>Title 9:  Noise Regulation</text>
-        <text>Subtitle 2:  Basic Sound Level Standards						$100</text>
-        <text>Subtitle 3:  Entertainment and Commercial Noise					$  50</text>
-        <text>Subtitle 4:  Amplified Sounds in Market Center					$  50</text>
-        <text>Title 10:  Animal Control and Protection</text>
-        <text>Subtitle 1:  General Provisions</text>
-        <text>§ 10-112. Obstructing, etc., officer; False Statements			$500</text>
-        <text>Subtitle 2:  Licensing</text>
-        <text>Part I.  Dog and Cat Licenses							$100</text>
-        <text>Part II.  Facility Licenses</text>
-        <text>Animal fanciers										$100</text>
-        <text>All other facilities									$250</text>
-        <text>Subtitle 3:  General Care and Control</text>
-        <text>§ 10-301.  Rabies – Vaccinations							$250</text>
-        <text>§ 10-302.  Rabies – Possible exposure						$250</text>
-        <text>§ 10-303.  Humane care required							$500</text>
-      </para>
-    </section>
-    <section>
-      <num>10-307</num>
-      <heading>Restraints required</heading>
-      <text>1<sup>st</sup> offense												$200</text>
-      <text>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup>						$400</text>
-      <text>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup>						$600</text>
-      <text>§ 10-313.  Animal waste									$200</text>
-      <text>All other provisions										      $1,000</text>
-      <text>Subtitle 4:  Animal Protection								$1,000</text>
-      <text>Subtitle 5: Public Nuisance Animals							$200</text>
-      <text>Subtitle 6:  Wild Animals, etc.; Prohibited Animals					$500</text>
-      <text>Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</text>
-      <text>§ 10-701.  Attack dogs									$1,000</text>
-      <text>§ 10-702.  Dangerous animals							$250</text>
-      <text>§ 10-706.  Vicious animals – Keeping prohibited				$1,000</text>
-      <text>Subtitle 9:  Horse Riding and Driving</text>
-      <text>§ 10-918.  Sick or injured horses							$1,000</text>
-      <text>All other provisions										$200</text>
-      <text>Title 11:  Swimming Pools</text>
-      <text>Subtitle 3:  Public Swimming Pools							$200</text>
-      <text>Title 12:  Tobacco Products and Smoking Devices</text>
-      <text>Subtitle 1:  Indoor Smoking</text>
-      <text>Person smoking											$500</text>
-      <text>Employer, other person in charge							$750</text>
-      <text>Subtitle 2:  Sale of Unpackaged Cigarettes						$500</text>
-      <text>Subtitle 4:  Placement of Tobacco Products and Smoking</text>
-      <text>Devices											$500</text>
-      <text>Subtitle 5:  Unlawful Distribution							$500</text>
-      <text>Subtitle 6:  Flavored Tobacco Wrappings						$500</text>
-      <text>Subtitle 7:  Mobile Vendors									$500</text>
-      <text>Subtitle 8:  Smoking Near Playgrounds   		                              $500</text>
-      <text>Subtitle 9:  Nicotine Replacement Therapy Products				$100</text>
-      <text>Title 15:  Ephedrine Products</text>
-      <text>Subtitle 2:  Distribution to Minors							$500</text>
-      <text>Subtitle 3:  Product Placement								$500</text>
-      <text>Title 16:  Psychoactive Substances</text>
-      <text>Subtitle 2:  Prohibited Conduct								$1,000</text>
-      <text>Title 19:  Pesticides											$250</text>
-      <text>
-        <em>(City Code, 1976/83, art. 1, §308.) (Ord. 98-326; Ord. 99-487; Ord. 99-491; Ord. 99-520; Ord. 99-547; Ord. 99-548; Ord. 00-030; Ord. 00-069; Ord. 00-118; Ord. 01-172; Ord. 01-176; Ord. 02-322; Ord. 02-475; Ord. 02-476; Ord. 03-572; Ord. 03-621; Ord. 04-672; Ord. 04-854; Ord. 06-183; Ord. 06-205; Ord. 06-232; Ord. 06-247; Ord. 07-392; Ord. 07-424; Ord. 07-430; Ord. 07-623; Ord. 08-040; Ord. 08-058; Ord. 08-063; Ord. 09-100; Ord. 09-113; Ord. 09-148; Ord. 09-169; Ord. 09-171; Ord. 09-172; Ord. 09-175; Ord. 09-217; Ord. 09-232; Ord. 09-234; Ord. 09-241; Ord. 09-252; Ord. 10-268; Ord. 10-340; Ord. 10-342; Ord. 11-414; Ord. 11-478; Ord. 11-520; Ord. 11-523; Ord. 11-529; Ord. 11-572; Ord. 11-573; Ord. 12-046; Ord. 12-061; Ord. 12-065; Ord. 13-093; Ord. 13-098; Ord. 13-111; Ord. 13-157; Ord. 13-161; Ord. 14-208;</em>
-      </text>
-      <text>
-        <em>Ord. 14-212; Ord. 14-237; Ord. 14-310; Ord. 15-389; Ord. 15-427; Ord. 16-440; Ord. 16-545; Ord. 16-581; Ord. 16-587; Ord. 17-015; Ord. 18-125; Ord. 18-130; Ord. 18-182; Ord. 19-217; Ord. 19-218; Ord. 19-251; Ord. 19-263; Ord. 19-264; Ord. 19-265; Ord. 20-338; Ord. 20-340; Ord. 20-337; Ord. 20-361; Ord. 20-364; Ord. 20-364A; Ord. 20-430; Ord. 21-001; Ord. 21-034;</em>
-      </text>
-      <text><em>Ord. 21-039; Ord. 22-110; Ord. 22-124; Ord. 22-133.</em>)</text>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>41</num>
-    <heading>Civil Citations</heading>
-    <section>
-      <num>41-1</num>
-      <heading>Definitions.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>In this subtitle, the following terms have the meanings indicated.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Civil citation</em>.</text>
-        <text>"Civil citation" means a prepayable civil citation issued under this subtitle for violation of any offense listed in § 41-14 of this subtitle.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Enforcement officer.</em>
-        </text>
-        <text>"Enforcement officer" means:</text>
         <para>
-          <num>(1)</num>
-          <text>a police officer; or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>a Special Enforcement Officer appointed under City Code Article 19, § 71-1 and authorized by the Police Commissioner to issue citations under this subtitle.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>{Repealed}</em>
-        </text>
-      </para>
-      <annotation>(Ord. 03-595; Ord . 22-125.)</annotation>
-    </section>
-    <section>
-      <num>41-2</num>
-      <heading>Subtitle not exclusive.</heading>
-      <text>The issuance and enforcement of a civil citation under this subtitle does not preclude pursuit of any other remedy or enforcement action authorized by law.</text>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-3</num>
-      <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Police Commissioner, in consultation with the Director of Finance, may adopt rules and regulations to carry out this subtitle.</text>
-      <annotation type="Editor's Notes" dest="Container">Editor's Note: Cf. Editor's Note to § 40-6(a) of this article.</annotation>
-      <annotation>(Ord. 03-595; Text Conformed 02/09/21.)</annotation>
-    </section>
-    <section>
-      <num>41-4</num>
-      <heading>Authority to issue citation.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>An enforcement officer may issue a civil citation to any adult who the officer, on observation, report, or investigation, believes is committing or has committed an offense listed in § 41-14 of this subtitle.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Prior notice not required</em>.</text>
-        <text>Notwithstanding any other provision of the City Code to the contrary, notice need not be given before issuance and enforcement of a civil citation under this subtitle.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-5</num>
-      <heading>Form, etc., of citation.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Form.</em>
-        </text>
-        <text>The civil citation shall be in the form specified by the Chief Judge of the District Court.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Contents.</em>
-        </text>
-        <text>The citation shall contain:</text>
-        <para>
-          <num>(1)</num>
-        </para>
-        <text>the name and address, if known, of the person charged;</text>
-        <para>
-          <num>(2)</num>
-          <text>the violation with which the person is charged, including a narrative statement of the cause for issuing the citation;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the time when and place where the violation occurred;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>the amount of the fine;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>the manner and time within which the person must either:</text>
-          <para>
-            <num>(i)</num>
-            <text>pay the fine specified in the citation; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>request a trial on the violation.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Certification.</em>
-        </text>
-        <text>The citation also shall contain a certification, signed by the issuing enforcement officer under penalties of perjury, that the facts contained in it are true to the best of the officer's information, knowledge, and belief.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-6</num>
-      <heading>Service; copies.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>The citation may be served on the person charged by 1 of the following methods:</text>
-        <para>
-          <num>(1)</num>
-          <text>in person;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>by certified mail, return receipt requested;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>by delivery to a person of suitable age and discretion who resides at the last-known address of the person charged; or</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>for service on an occupant of the premises at which the violation occurred, by:</text>
-          <para>
-            <num>(i)</num>
-            <text>posting on the main entrance of the premises; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>mailing by regular mail to the person charged, at that person's last-known address.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Copy to be retained.</em>
-        </text>
-        <text>The enforcement officer shall retain a copy of the citation and file it with the Department of Finance.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-7</num>
-      <heading>Tenor of citation.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>On certification, issuance, and service, the citation:</text>
-        <para>
-          <num>(1)</num>
-          <text>constitutes full and complete notice of the violation charged in it; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>is prima facie evidence of the facts contained in it.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>No administrative appeal</em>.</text>
-        <text>The issuance of the civil citation is not appealable to any City board or agency.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-8</num>
-      <heading>Payment of fine.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>When due.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The fine specified in a civil citation is due and payable by the date specified in the citation.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The date specified must be at least 30 days from the date the citation is issued.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>To whom payable.</em>
-        </text>
-        <text>The fine shall be paid to the Director of Finance.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-9</num>
-      <heading>Election to stand trial.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>In general</em>.</text>
-        <text>The person charged under a civil citation may elect to stand trial for the alleged violation by filing with the Director of Finance, at least 5 days before the due date of the fine, a notice of intent to stand trial.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Notice to Court.</em>
-        </text>
-        <text>On timely receipt of a notice of intent to stand trial, the Director of Finance shall send a copy of the notice and of the citation to the District Court.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Scheduling trial.</em>
-        </text>
-        <text>On receipt of the notice and citation, the District Court shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>schedule the case for trial; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>notify all parties of the trial date.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-10</num>
-      <heading>Default.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>A person charged under a civil citation is in default and is conclusively considered to have admitted liability for the violation charged if the person neither:</text>
-        <para>
-          <num>(1)</num>
-          <text>pays the fine specified in the citation by its due date; nor</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>files a timely notice of intent to stand trial.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Default notice.</em>
-        </text>
-        <text>On a default, the Director of Finance shall send a default notice to the person charged, at that person's last-known address.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Default penalty</em>.</text>
-        <text>If the fine specified in the citation is not paid within 15 days of the date of the default notice, the person is liable to the City for both:</text>
-        <para>
-          <num>(1)</num>
-          <text>the fine specified in the citation; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>a default penalty equal to the lesser of:</text>
-          <para>
-            <num>(i)</num>
-            <text>$1,000; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>3 times the fine specified in the citation.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Request for adjudication.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>If the fine and default penalty are not paid within 35 days of the date of the default notice, the Director of Finance may request the District Court to adjudicate the case.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>On the Director's request, the District Court shall:</text>
-          <para>
-            <num>(i)</num>
-            <text>schedule the case for trial; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>notify all parties of the trial date.</text>
-          </para>
-        </para>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-11</num>
-      <heading>Adjudication by District Court.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>This section applies to proceedings in the District Court to enforce a civil citation issued under this subtitle.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Adjudication of a civil citation is not a criminal proceeding, and a finding of guilty does not impose any civil disability ordinarily imposed by a criminal conviction.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Burden of proof.</em>
-        </text>
-        <text>Except in the case of a default under § 41-10 of this subtitle, the City has the burden to prove, by a preponderance of the evidence, that the defendant has committed the offense charged.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Right to counsel.</em>
-        </text>
-        <text>The defendant may be represented by counsel of her or his own choice, at her or his own expense.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Plea.</em>
-        </text>
-        <text>The defendant shall enter a plea of "guilty" or "not guilty".</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>
-          <em>Testimony, etc.</em>
-        </text>
-        <text>The defendant may:</text>
-        <para>
-          <num>(1)</num>
-          <text>testify on his or her own behalf;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>produce evidence and witnesses in his or her own behalf; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>cross-examine witnesses who testify against the defendant.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>
-          <em>Verdict.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The court shall issue a verdict of "guilty" or "not guilty" of the offense charged.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>If the court finds the defendant guilty, the court may:</text>
-          <para>
-            <num>(i)</num>
-            <text>impose on the defendant the fine and, if applicable, default penalty prescribed;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>impose court costs on the defendant; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>suspend or defer payment of a fine or penalty under conditions, including the performance of community service, that the court sets.</text>
-          </para>
-        </para>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-12</num>
-      <heading>Enforcement of court verdict.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>Any fine or penalty imposed by the District Court under this subtitle is a judgment in favor of the City.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Contempt for willful failure to pay.</em>
-        </text>
-        <text>If a defendant willfully fails to pay any fine, penalty, or costs imposed by the court, the court may punish that failure as a contempt of court.</text>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-13</num>
-      <heading>Offenses to which subtitle applies – General.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>A civil citation may be issued under this subtitle only for violation of a provision of the Baltimore City Code listed in § 41-14 of this subtitle.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Prepayable-fine amounts</em>.</text>
-        <text>The prepayable civil fine for the violation of a provision is as specified next to the listing of that provision in § 41-14 of this subtitle.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Continuing or recurring violations.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>If a provision of law provides that the continuation or recurrence of a violation constitutes a separate offense, a separate civil citation may be issued for each separate offense.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The payment of a fine or penalty under this subtitle does not relieve the offender of the duty to fully abate and correct any continuing violation or other unlawful act.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 03-595.)</annotation>
-    </section>
-    <section>
-      <num>41-14</num>
-      <heading>Offenses to which subtitle applies – Listing.</heading>
-      <text>(.25)  <strong><em>Article 1.  Mayor, City Council, and Municipal Agencies</em></strong></text>
-      <text>§ 38-13.  Counterfeit and fraudulent Baltimore City ID Cards				$100</text>
-      <text>(.5)  <strong><em>Article 2.  Consumer Protections</em></strong></text>
-      <text>Subtitle 16.  Ticket Sales – Charges by Operators and Agents				$750</text>
-      <text>Subtitle 17.  Ticket Sales – Ticket Purchasing Software					$750</text>
-      <text>(.5a)  <strong><em>Article 5.  Finance, Property, and Procurement</em></strong></text>
-      <text>Subtitle 11.  Fair Election Fund									$500</text>
-      <text>(.5b)  <strong><em>Article 7.  Natural Resources</em></strong></text>
-      <text>Division I.  Floodplain Management 							$500</text>
-      <para>
-        <num>(1)</num>
-        <heading>Article 15.</heading>
-        <text>
-          <strong>
-            <em>Licensing and Regulation</em>
-          </strong>
-        </text>
-        <text>Subtitle 17.  Street Vendors										$500</text>
-        <text>Subtitle 18.  Itinerant Wholesale Produce Dealers						$ 50</text>
-        <text>Subtitle 42.  Human Trafficking Notice Requirements</text>
-        <text>1st offense 											  	  	$500</text>
-        <text>Subsequent offense									  		$1,000</text>
-        <text>Subtitle 43.  Public Restrooms									$100</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <heading>Article 19.</heading>
-        <text>
-          <strong>
-            <em>Police Ordinances</em>
-          </strong>
-        </text>
-      </para>
-    </section>
-    <section>
-      <num>1-2</num>
-      <heading>Placement {of advertising circulars} without permission</heading>
-      <text>1<sup>st</sup> offense														$  50</text>
-      <text>2<sup>nd</sup> offense													$100</text>
-      <text>3<sup>rd</sup> or subsequent offense										$500</text>
-      <text>§ 7-2.  Vehicle alarms: Prohibited devices							$100</text>
-      <text>Subtitle 8.  Burglar Alarms - Registration and Regulation</text>
-    </section>
-    <section>
-      <num>8-8</num>
-      <heading>False alarm fees.</heading>
-      <text>Failure to pay -</text>
-      <text>Residential users											$100</text>
-      <text>Non-residential users										$500</text>
-      <text>All other provisions</text>
-      <text>Users															$100</text>
-      <text>Contractors, Monitors, Others								$500</text>
-      <text>§ 13-1.  Disorderly drinking – In general							$500</text>
-      <text>§ 13-2.  Disorderly drinking – Parents or guardians of minors				$150</text>
-    </section>
-    <section>
-      <num>14-2</num>
-      <heading>Drinking or possessing open containers in public</heading>
-      <text>places – In general											$250</text>
-    </section>
-    <section>
-      <num>14-3</num>
-      <heading>Drinking or possessing open containers in public</heading>
-      <text>places – Parents or guardians of minors							$150</text>
-      <text>Subtitle 25.  Loitering – General									$  50</text>
-      <text>§ 26-6.  Loitering – Drug-Free Zone					     			$  50</text>
-      <text>§ 27-3.  Loitering – For assignation, etc.				     			$  50</text>
-      <text>§ 27-15.  Loitering – Prostitution-Free Zone				     			$  50</text>
-      <text>§ 32-3.  Sales to minors [in proximity to liquor stores]					$500</text>
-      <text>§ 32-4.  Inducing minor to purchase								$500</text>
-    </section>
-    <section>
-      <num>32-5</num>
-      <heading>False representation by minor</heading>
-      <text>1<sup>st</sup> offense														$  50</text>
-      <text>2<sup>nd</sup> or subsequent offense										$150</text>
-      <text>§ 34-5.  Curfews: Prohibited conduct of parents, guardians, etc.			$  50</text>
-      <text>§ 34-6.  Curfews: Prohibited conduct of establishments					$500</text>
-    </section>
-    <section>
-      <num>39-2</num>
-      <heading>Replica gun possession prohibited.</heading>
-      <text>1<sup>st</sup> offense														$250</text>
-      <text>2<sup>nd</sup> or subsequent offense										$1,000</text>
-      <text>§ 40-9.  Dirt Bikes, etc. – Motor fuel sales							$100</text>
-      <text>§ 41-2.  Outdoor telephones:  Prohibited placement						$500</text>
-      <text>Subtitle 43B.  Neighborhood Nuisances and Unruly Social Events</text>
-      <text>1<sup>st</sup> offense														$500</text>
-      <text>2<sup>nd</sup> or subsequent offense within 12 months of previous offense		$1,000</text>
-      <text>§ 45-2.  Signs on or affecting public property: Posting prohibited			$500</text>
-      <text>§ 47-5.  Nighttime soliciting										$100</text>
-      <text>§ 50-2.  Obstructing street, etc., or gutter							$  50</text>
-      <text>§ 50-3.  Merchandise projecting from building						$  50</text>
-      <text>§ 50-56.  Soliciting customers.									$100</text>
-    </section>
-    <section>
-      <num>51-2</num>
-      <heading>Compliance with park rules</heading>
-      <text>1<sup>st</sup> offense														$250</text>
-      <text>2<sup>nd</sup> offense													$500</text>
-      <text>3<sup>rd</sup> or subsequent offense										$1,000</text>
-    </section>
-    <section>
-      <num>59-18</num>
-      <heading>Reporting {theft or loss of firearm} required</heading>
-      <text>1<sup>st</sup> offense													$500</text>
-      <text>Subsequent offense											$750</text>
-      <para>
-        <num>(3)</num>
-        <heading>Article 24.</heading>
-        <text>
-          <strong>
-            <em>Water</em>
-          </strong>
-        </text>
-      </para>
-    </section>
-    <section>
-      <num>21-1</num>
-      <heading>Rules and regulations {to protect water supply and facilities}</heading>
-      <text>Watershed Regulations</text>
-      <text>Polluting or depositing trash, etc.,  in reservoir waters</text>
-      <text>or tributaries												$500</text>
-      <text>Trespassing or otherwise entering or traversing</text>
-      <text>property in violation of rule or regulation						$150</text>
-      <text>Boating without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$100</text>
-      <text>Hunting without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$100</text>
-      <text>Fishing without a required permit or otherwise</text>
-      <text>in violation of rule or regulation							$  60</text>
-      <text>Other recreational activity (horseback riding,</text>
-      <text>bicycling, picnicking, etc.) in violation of rule</text>
-      <text>or regulation												$  60</text>
-      <text>Smoking except where expressly allowed						$  75</text>
-      <text>All other violations											$100</text>
-      <text>All other rules and regulations of Department</text>
-      <text>to protect water supply and facilities							$250</text>
-      <text>§ 21-2.  Suspension, etc., of certain uses							$100</text>
-      <text>§ 21-3.  Injuring fire hydrants									$250</text>
-      <text>§ 21-4.  Wrongful use after cut-off								$150</text>
-      <text>§ 21-5.  Refusal of entry											$100</text>
-      <text>§ 21-6.  Interference with equipment; illegal use of water					$500</text>
-      <text>(3a) <strong><em>Article 26.  Surveys, Streets, and Highways</em></strong></text>
-      <text>Subtitle 23.  Underground Conduit System							$1,000</text>
-      <para>
-        <num>(4)</num>
-        <heading>Article 31.</heading>
-        <text>
-          <strong>
-            <em>Transit and Traffic</em>
-          </strong>
-        </text>
-        <text>Subtitle 10.  Residential Permit Parking Program</text>
-        <text>§ 10-40.  Falsifying or concealing information						$500</text>
-        <text>§ 10-41.  Fraudulent obtaining, etc., permit						$500</text>
-        <text>§ 10-42.  Counterfeiting or altering permits						$500</text>
-        <text>§ 10-43.  Using invalid permits								$500</text>
-        <text>§ 10-44.  Misusing visitor's permit							$500</text>
-        <text>§ 10-45.  Landlord abuse										$500</text>
-        <text>§ 10-46.  Aiding another in violation							$500</text>
-        <text>Subtitle 16.  Use-of-the-Road Regulations</text>
-        <text>§ 16-12.  Vehicles on sidewalks								$  50</text>
-        <text>Subtitle 18.  Bicycles</text>
-        <text>§ 18-8.  Riding <em>{bicycles}</em> on sidewalk							$  50</text>
-        <text>Subtitle 22.  Towing Services – Accident Towing						$750</text>
-        <text>Subtitle 38.  Dockless Vehicles</text>
-        <text>§ 38-7(b)(2).  Exceeding the maximum number or type of</text>
-        <text>dockless vehicles permitted to operate							$1,000</text>
-        <text>§ 38-8(a).  Operating a dockless-vehicle-for-hire business</text>
-        <text>without a permit 												$1,000</text>
-      </para>
-    </section>
-    <section>
-      <num>38-12</num>
-      <heading>Failure of provider to provide</heading>
-      <text>required data or reports										$1,000</text>
-      <text>§ 38-15.  Failure of provider to notify of data breach					$1,000</text>
-      <text>§ 38-18.  Unlawful operation of e-bike or e-scooter 				      	$ 20</text>
-      <text>§ 38-19.  Unlawful parking of dockless vehicle						$ 20</text>
-      <text>§ 38-21.  Display of advertisements on dockless vehicles				$1,000</text>
-    </section>
-    <section>
-      <num>38-22</num>
-      <heading>Provider operational responsibilities:</heading>
-      <text>Item (1).  Failure to maintain 24-hour customer service</text>
-      <text>phone support												$1,000</text>
-      <text>Item (2).  Failure to remove dockless vehicles from public</text>
-      <text>rights-of-way between dusk and dawn, as determined in</text>
-      <text>rules and regulations									   	$500</text>
-      <text>Item (3).  Failure to ensure that dockless vehicles are</text>
-      <text>parked as required by law, rule, or regulation					$500</text>
-      <text>Item (4).  Failure to remove or reposition illegally parked</text>
-      <text>dockless vehicles within required time						$500</text>
-      <text>Item (5).  Failure to ensure that dockless vehicles adhere</text>
-      <text>to national safety standards        							$1,000</text>
-      <text>Item (6).  Failure to ensure that provider operations</text>
-      <text>adhere to equitable access requirements       						$1,000</text>
-      <text>Item (7).  Failure to comply with any other requirement</text>
-      <text>established by the Director             			                        	$1,000</text>
-      <text>(4a) <strong><em>Article 32.  Zoning</em></strong></text>
-      <text>§ 19-101.  Prohibited conduct									$500</text>
-      <para>
-        <num>(5)</num>
-        <text>
-          <strong>
-            <em>Building, Fire, and Related Codes Article –</em>
-          </strong>
-        </text>
-        <text>
-          <strong>
-            <em>Fire Code</em>
-          </strong>
-        </text>
-        <text>§ 108.6.  Maintenance: Overcrowding</text>
-        <text>1-99 persons over capacity									$250</text>
-        <text>100-199 persons over capacity								$500</text>
-        <text>200 or more persons over capacity							$1,000</text>
-        <text>§ 1001.2.  Means of Egress: Minimum requirements					$250</text>
-        <text>(5a) <strong><em>Building, Fire, and Related Codes Article –</em></strong></text>
-        <text>
-          <strong>
-            <em>Property Maintenance Code</em>
-          </strong>
-        </text>
-        <text>§ 305.8.  Snow and ice on sidewalks</text>
-        <text>Residential properties										$  50</text>
-        <text>Commercial properties										$100</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>
-          <strong>
-            <em>Health Code</em>
-          </strong>
-        </text>
-        <text>Title 3:  Health Facilities</text>
-        <text>Subtitle 5:  Limited-Service Pregnancy Centers						$150</text>
-        <text>Title 5:  Nuisance Control</text>
-        <text>Subtitle 5:  Bodily Wastes</text>
-        <text>§ 5-501.  Spitting											$100</text>
-        <text>§ 5-503.  Urinating, etc. - In general							$500</text>
-        <text>§ 5-504.  Urinating, etc. - Parents							$150</text>
-        <text>Title 7:  Waste Control</text>
-        <text>Subtitle 2:  Solid Waste Collection							$100</text>
-        <text>Subtitle 4:  Landfills											$200</text>
-        <text>Subtitle 6:  Prohibited Disposal                                             			$1,000</text>
-        <text>Subtitle 7:  Littering											$500</text>
-        <text>Title 8:  Air Pollution												$100</text>
-        <text>Title 9:  Noise Regulation</text>
-        <text>Subtitle 2:  Basic Sound Level Standards						$100</text>
-        <text>Subtitle 3:  Entertainment and Commercial Noise					$  50</text>
-        <text>Subtitle 4:  Amplified Sounds in Market Center						$  50</text>
-        <text>Title 10:  Animal Control and Protection</text>
-        <text>Subtitle 1: General Provisions</text>
-        <text>§ 1-112.  Obstructing, etc., officer; False statements				$500</text>
-        <text>Subtitle 2:  Licensing</text>
-        <text>Part I.  Dog and Cat Licenses								$100</text>
-        <text>Part II.  Facility Licenses</text>
-        <text>Animal fanciers											$100</text>
-        <text>All other facilities										$250</text>
-        <text>Subtitle 3:  General Care and Control</text>
-        <text>§ 10-301.  Rabies – Vaccinations							$250</text>
-        <text>§ 10-302.  Rabies – Possible exposure							$250</text>
-        <text>§ 10-303.  Humane care required							$500</text>
-      </para>
-    </section>
-    <section>
-      <num>10-307</num>
-      <heading>Restraints required</heading>
-      <text>1<sup>st</sup> offense													$200</text>
-      <text>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup>							$400</text>
-      <text>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup>							$600</text>
-      <text>§ 10-313.  Animal waste										$200</text>
-      <text>All other provisions											$1,000</text>
-      <text>Subtitle 4:  Animal Protection								$1,000</text>
-      <text>Subtitle 5: Public Nuisance Animals							$200</text>
-      <text>Subtitle 6:  Wild Animals, etc.; Prohibited Animals					$500</text>
-      <text>Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</text>
-      <text>§ 10-701.  Attack dogs										$1,000</text>
-      <text>§ 10-702.  Dangerous animals								$250</text>
-      <text>§ 10-706.  Vicious animals – Keeping prohibited					$1,000</text>
-      <text>Subtitle 9: Horse Riding and Driving</text>
-      <text>§ 10-918.  Sick or injured horses							$1,000</text>
-      <text>All other provisions											$200</text>
-      <text>Title 12:  Tobacco Products and Smoking Devices</text>
-      <text>Subtitle 1:  Indoor Smoking</text>
-      <text>Person smoking												$500</text>
-      <text>Employer, other person in charge							$750</text>
-      <text>Subtitle 2:  Sale of Unpackaged Cigarettes						$500</text>
-      <text>Subtitle 4:  Placement of Tobacco Products and</text>
-      <text>Smoking Devices										$500</text>
-      <text>Subtitle 5:  Unlawful Distribution							$500</text>
-      <text>Subtitle 6:  Flavored Tobacco Wrappings						$500</text>
-      <text>Subtitle 7:  Mobile Vendors									$500</text>
-      <text>Subtitle 8:  Smoking Near Playgrounds                    		                        $500</text>
-      <text>Subtitle 9: Nicotine Replacement Therapy Products					$100</text>
-      <text>Title 16:  Psychoactive Substances</text>
-      <text>Subtitle 2.  Prohibited Conduct								$1,000</text>
-      <text>Title 19: Pesticides												$250</text>
-      <text>
-        <em>(Ord. 03-595; Ord. 04-672; Ord. 04-675; Ord. 04-683; Ord. 06-183; Ord. 06-205; Ord. 06-232; Ord. 06-247; Ord. 06-316; Ord. 07-392; Ord. 07-430; Ord. 08-040; Ord. 08-058; Ord. 08-063; Ord. 08-065; Ord. 08-077; Ord. 09-100; Ord. 09-148; Ord. 09-172; Ord. 09-234; Ord. 09-252; Ord. 10-340; Ord. 11-478; Ord. 11-523; Ord. 11-573; Ord. 12-046; Ord 12-061; Ord. 12-065; Ord. 13-093; Ord. 13-111; Ord. 13-157; Ord. 13-161; Ord. 14-208; Ord. 14-212; Ord. 14-237; Ord. 14-310; Ord. 15-389; Ord. 15-427; Ord. 15-435; Ord. 16-440; Ord. 16-503; Ord. 16-545; Ord. 16-581; Ord. 16-586; Ord. 16-593; Ord. 17-015; Ord. 19-218; Ord. 19-251; Ord. 19-263; Ord. 19-264; Ord. 20-338; Ord. 20-340; Ord. 20-353; Ord. 20-361; Ord. 20-364A; Ord. 20-430;</em>
-      </text>
-      <text>
-        <em>Ord. 21-034; Ord. 22-124.)</em>
-      </text>
-      <text class="center">
-        <strong>Subtitles 42 to 48</strong>
-      </text>
-      <text class="center">
-        <strong>
-          <em>{Reserved}</em>
-        </strong>
-      </text>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>49</num>
-    <heading>Commission on HIV/AIDS</heading>
-    <section>
-      <num>49-1</num>
-      <heading>Commission established.</heading>
-      <text>There is a Commission on HIV/AIDS.</text>
-      <annotation>(Ord. 03-516.)</annotation>
-    </section>
-    <section>
-      <num>49-2</num>
-      <heading>Members.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>The Commission consists of 34 members.  Of these, 22 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter, 4 members are appointed by the President of the City Council, and 8 members serve ex officio.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Appointed members.</em>
-        </text>
-        <text>Of the 26 appointed members, 2 shall be appointed from each of the following categories:</text>
-        <para>
-          <num>(1)</num>
-          <text>Charitable foundations (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Business community (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Faith community (1 by Mayor, 1 by Council President).</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Recovery community (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Community-based organizations (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Local universities and university researchers (1 by Mayor, 1 by Council President).</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Community, infected and affected (1 by Mayor, 1 by Council President).</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>Physicians (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>Prevention providers (1 by Mayor, 1 by Council President).</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>Treatment providers (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>Mental health providers (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>Correctional institution (2 by Mayor).</text>
-        </para>
-        <para>
-          <num>(13)</num>
-          <text>Criminal justice system, including juvenile justice (2 by Mayor).</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Ex officio members.</em>
-        </text>
-        <text>The 8 ex-officio members of the Commission are the following or their designated representatives:</text>
-        <para>
-          <num>(1)</num>
-          <text>Secretary of Health and Mental Hygiene.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Director of State AIDS Administration.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>President of the Baltimore City Board of School Commissioners.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Health Commissioner.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>a person appointed by the Health Commissioner.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>President of the City Council.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Director of the Department of Social Services.</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>Commissioner of Housing.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 03-516.)</annotation>
-    </section>
-    <section>
-      <num>49-3</num>
-      <heading>Terms, organization, etc.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Terms</em>.</text>
-        <text>Appointed members serve for a term of 4 years concurrent with the Mayor's term of office.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Compensation</em>.</text>
-        <text>Members serve without compensation.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Vacancies</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>At the end of a term, an appointed member serves until a successor is appointed and qualifies.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A member who is appointed after a term has begun serves out the rest of the term and until a successor is appointed and qualifies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Meetings; quorum</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission shall meet on the call of the Mayor or its Chair.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A majority of the members of the Commission constitutes a quorum for the transaction of business, and an affirmative vote by the majority of a quorum is sufficient for any official action.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text><em>Rules</em>.</text>
-        <text>The Commission may adopt rules to govern its meetings and operations.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text><em>Officers</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Mayor shall designate an appointed member as Chair of the Commission.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Chair may select other officers.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 03-516.)</annotation>
-    </section>
-    <section>
-      <num>49-4</num>
-      <heading>Duties.</heading>
-      <text>The Commission shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>assess and maintain an accurate demographic profile on HIV/AIDS incidence and prevalence rates;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>design and develop a Strategic Plan for Baltimore, with input from key stakeholders in the community, and provide leadership to implement the Strategic Plan;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>recommend appropriate legislation and other actions to control, treat, and prevent the further spread of HIV/AIDS in Baltimore;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>provide policy guidance, recommendations, and consultation to the City Health Department and the City's health community on the best prevention and treatment programs available to protect our citizens;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>serve as advocates for program development and funding for programs most productive for Baltimore; and</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>keep the City Council and the Mayor informed of critical HIV/AIDS prevention strategies and programs.</text>
-      </para>
-      <annotation>(Ord. 03-516.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>50</num>
-    <heading>Baltimore Benefits Commission</heading>
-    <section>
-      <num>50-1</num>
-      <heading>Commission established.</heading>
-      <text>There is a Baltimore Benefits Commission.</text>
-      <annotation>(Ord. 04-890.)</annotation>
-    </section>
-    <section>
-      <num>50-2</num>
-      <heading>Members.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission consists of 21 members.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Of these:</text>
-          <para>
-            <num>(i)</num>
-            <text>19 members serve ex officio; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>2 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Ex officio members.</em>
-        </text>
-        <text>The ex officio members are the following or their designated representatives:</text>
-        <para>
-          <num>(1)</num>
-          <text>Mayor.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>President of the City Council.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Director, Department of Human Resources.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Labor Commissioner.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Director, Department of Finance.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Budget Chief, Department of Finance.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Chief, Fire Department</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>Executive Director, Commission on the Aging and Retirement Education.</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>Executive Director, Employees' Retirement System.</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>Executive Director, Fire and Police Employees' Retirement System.</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>President, Metropolitan Baltimore Council, AFL-CIO.</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>President, Managerial and Professional Society of Baltimore, Inc.</text>
-        </para>
-        <para>
-          <num>(13)</num>
-          <text>President, Baltimore Teachers Union.</text>
-        </para>
-        <para>
-          <num>(14)</num>
-          <text>President, City Union of Baltimore.</text>
-        </para>
-        <para>
-          <num>(15)</num>
-          <text>President, American Federation of State, County, and Municipal Employees, Local 44.</text>
-        </para>
-        <para>
-          <num>(16)</num>
-          <text>President, Baltimore Fire Fighters Association, Local 734.</text>
-        </para>
-        <para>
-          <num>(17)</num>
-          <text>President, Baltimore City Fire Fighters, Local 964.</text>
-        </para>
-        <para>
-          <num>(18)</num>
-          <text>President, Fraternal Order of Police, Lodge #3.</text>
-        </para>
-        <para>
-          <num>(19)</num>
-          <text>Commissioner, Baltimore City Police Department.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Appointed members.</em>
-        </text>
-        <text>Of the appointed members:</text>
-        <para>
-          <num>(1)</num>
-          <text>1 must be an active City employee; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>1 must be a retired City employee.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 04-890; Ord. 09-165.)</annotation>
-    </section>
-    <section>
-      <num>50-3</num>
-      <heading>Organization, Meetings, etc.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Officers</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Mayor shall designate a member as Chair of the Commission.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Chair may select other officers.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Quorum; action</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>A majority of the members of the Commission constitutes a quorum for the transaction of business</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>An affirmative vote by the majority of a quorum is sufficient for any official action.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Rules</em>.</text>
-        <text>The Commission may adopt rules to govern its meetings and operations.</text>
-      </para>
-      <annotation>(Ord. 04-890.)</annotation>
-    </section>
-    <section>
-      <num>50-4</num>
-      <heading>Staff.</heading>
-      <text>In consultation with the Commission, the Director of Finance shall assign staff from the Department of Finance to assist the Commission in its efforts.</text>
-      <annotation>(Ord. 04-890.)</annotation>
-    </section>
-    <section>
-      <num>50-5</num>
-      <heading>Duties.</heading>
-      <text>The Commission shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>study and monitor the compensation and other benefits (including health, retirement, life and disability insurance, and other benefits) provided or, from time to time, proposed to be provided by the City to its employees and retirees; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>on or before June 30 of each year, submit a report to the Board of Estimates recommending specific methods to:</text>
-        <para>
-          <num>(i)</num>
-          <text>improve communications between administrators and beneficiaries concerning available benefits and proposed changes to them; and</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>generally improve the administration of benefits for employees and retirees.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 04-890.)</annotation>
-    </section>
-    <section>
-      <num>50-6</num>
-      <heading>Cooperation with Commission.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>Any information that the Commission requests from a City department or agency shall be provided to the Commission in a timely manner, so as not to impede the Commission's purpose and function.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Department of Human Resources</em>.</text>
-        <text>The City Department of Human Resources shall make available to the Commission the findings of all health care or prescription drug plans that pertain to City employees and retirees.</text>
-      </para>
-      <annotation>(Ord. 04-890.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>51</num>
-    <heading>Baltimore City Veterans Commission</heading>
-    <annotation type="Editor's Notes" dest="Container">Editor's Note:  Ordinance 06-362 (effective January 1, 2007) designated this new subtitle to be "Subtitle 49".  That number, however, was already spoken for.  Hence the placement here, with a different number.</annotation>
-    <section>
-      <num>51-1</num>
-      <heading>"Veteran" defined.</heading>
-      <text>In this subtitle, "veteran" means a person who:</text>
-      <para>
-        <num>(1)</num>
-        <text>served in the active military service of:</text>
-        <para>
-          <num>(i)</num>
-          <text>the Army, Navy, Marine Corps, or Air Force;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>the Coast Guard, Public Health Service Commissioned Corps, or Merchant Marines;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>the Army, Air, or State National Guard; or</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>a reserve component of one of these services; and</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>was released from that service other than by dishonorable discharge.</text>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-2</num>
-      <heading>Commission established.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>There is a Baltimore City Veterans Commission.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Composition.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission comprises 11 members, who shall be appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The 11 members shall include:</text>
-          <para>
-            <num>(i)</num>
-            <text>4 members recommended by the President of the City Council;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>the Police Commissioner or the Commissioner's designee; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>the Fire Chief or the Chief's designee.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Qualifications</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>Except as provided in this subsection. each appointed member must be a veteran.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Of the 4 members recommended by the City Council President, 1 shall be a member of the City Council, who need not be a veteran.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Police Commissioner or designee and the Fire Chief or designee need not be veterans.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 06-362; Ord.  12-002.)</annotation>
-    </section>
-    <section>
-      <num>51-3</num>
-      <heading>Purpose.</heading>
-      <text>The Veterans Commission is dedicated to:</text>
-      <para>
-        <num>(1)</num>
-        <text>providing assistance to veterans who reside in the City, are employed by the City, or are retired City employees, and their families, when in need; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>working with the Mayor and City Council, veterans groups, and others on policies, programs, and concerns related to veterans and their families.</text>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-4</num>
-      <heading>Terms, compensation, vacancies.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Terms of office.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Commission members serve for a term of 4 years, concurrent with the terms of the Mayor and the City Council.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>At the end of a term, a member continues to serve until a successor is appointed and qualifies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Compensation; expenses.</em>
-        </text>
-        <text>The members of the Commission:</text>
-        <para>
-          <num>(1)</num>
-          <text>serve without compensation; but</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>are entitled to reimbursement for reasonable expenses incurred in the performance of their duties, as provided in the Ordinance of Estimates.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Vacancies.</em>
-        </text>
-        <text>A member appointed to fill a vacancy in an unexpired term or to succeed a member who is holding over serves only for the remainder of that term.</text>
-      </para>
-      <annotation>(Ord. 06-362; Ord. 16-503.)</annotation>
-    </section>
-    <section>
-      <num>51-5</num>
-      <heading>Officers; committees.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Officers.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Mayor shall designate a member of the Commission to serve as its Chair.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Members of the Commission may select any other officers they consider necessary or appropriate.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Committees.</em>
-        </text>
-        <text>The Chair may appoint committees to assist the Commission in carrying out its functions and duties.</text>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-6</num>
-      <heading>Meetings; quorum.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission shall meet at the call of the Chair as frequently as required to perform its duties.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A majority of the members of the Commission constitutes a quorum for the transaction of business.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>An affirmative vote by the majority of a quorum is needed  for any official action.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Rules of procedure.</em>
-        </text>
-        <text>The Commission may adopt rules of procedure to govern its meetings and operations.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Failure to attend meetings.</em>
-        </text>
-        <text>If any member is absent from regularly scheduled meetings more than 3 times in 1 year, not counting absences excused by the Chair:</text>
-        <para>
-          <num>(1)</num>
-          <text>the member is considered to have resigned; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Chair shall request that member's appointing authority to fill the resultant vacancy.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-7</num>
-      <heading>Personnel; budget.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Executive Director.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission may appoint a properly qualified person as its Executive Director.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Executive Director is entitled to a salary, as provided in the Ordinance of Estimates.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Executive Director shall perform the duties that the Commission prescribes.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Staff.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Executive Director may employ a staff as provided in the Ordinance of Estimates.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Staff members shall be members of the classified service.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Volunteers.</em>
-        </text>
-        <text>The Commission may engage the services of volunteer workers and consultants, without salary, as it considers necessary from time to time.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Budget.</em>
-        </text>
-        <text>The Commission may expend funds as authorized in the Ordinance of Estimates or in any supplemental appropriations.</text>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-8</num>
-      <heading>Powers and duties.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Assistance to veterans, etc.</em>
-        </text>
-        <text>The Commission shall assist veterans who reside in the City, are employed by the City, or are retired City employees, and their families, in matters relating to:</text>
-        <para>
-          <num>(1)</num>
-          <text>educational training and retraining services and facilities;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>health, medical, and rehabilitation services and facilities;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>special rights and privileges provided by federal, state, and local laws and regulations;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>employment and reemployment services; and</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>other matters of a related or similar nature.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Information resource.</em>
-        </text>
-        <text>The Commission shall serve as a  resource for information relating to veterans' issues.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Community awareness</em>.</text>
-        <text>The Commission shall undertake and support activities and programs to:</text>
-        <para>
-          <num>(1)</num>
-          <text>increase community awareness of veterans' rights;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>honor and memorialize deceased veterans; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>honor those currently serving in the armed forces.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-    <section>
-      <num>51-9</num>
-      <heading>Agency cooperation.</heading>
-      <text>At the request of the Commission, all City officials and agencies shall cooperate with the Commission and extend the services and facilities that the Commission requires.</text>
-      <annotation>(Ord. 06-362.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>52</num>
-    <heading>Baltimore City Hispanic Commission</heading>
-    <section>
-      <num>52-1</num>
-      <heading>Commission established.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>There is a Baltimore City Hispanic Commission.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Composition – Voting members.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission comprises 13 voting members, appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>1 of the voting members shall be a member of the City Council, nominated by the City Council President.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>At least 7 of the voting members shall be representatives of the Hispanic community in Baltimore City.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Composition – Non-voting members</em>.</text>
-        <text>The following non-voting members also serve on the Commission:</text>
-        <para>
-          <num>(1)</num>
-          <text>a representative of the Mayor's Office;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Director of the Department of Public Works, or the Director's designee;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the Commissioner of Housing and Community Development, or the Commissioner's designee;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>the Director of the Department of Health, or the Director's designee; and</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>the CEO of the  Baltimore City Public School System, or the CEO's designee.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 07-620; Ord. 12-048.)</annotation>
-    </section>
-    <section>
-      <num>52-2</num>
-      <heading>Purpose.</heading>
-      <text>The Hispanic Commission is dedicated to:</text>
-      <para>
-        <num>(1)</num>
-        <text>Identifying and defining issues concerning the rights and needs of Baltimore's Hispanic Community.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Advising the Mayor and City agencies on the development of relevant policies, plans, and programs that affect Hispanics.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Advising the City Council on issues of concern to the City's Hispanic community.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Establishing and maintaining relationships with city agencies and members of the private sector.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Creating a central source of information for Baltimore's Hispanic Community.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Reviewing and commenting on any proposed legislation, regulation, policy, or program that affects the Hispanic population.</text>
-      </para>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-3</num>
-      <heading>Terms, compensation, vacancies.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Terms of office.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Commission members appointed by the Mayor serve for a term of 4 years, concurrent with the term of the Mayor.  The member appointed from the City Council serves for a term concurrent with that member's term on the City Council.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>At the end of a term, a member continues to serve until a successor is appointed and qualifies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Compensation; expenses.</em>
-        </text>
-        <text>The members of the Commission:</text>
-        <para>
-          <num>(1)</num>
-          <text>serve without compensation; but</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>are entitled to reimbursement for reasonable expenses incurred in the performance of their duties, as provided in the Ordinance of Estimates.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Vacancies.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>A member appointed to fill a vacancy must meet the same qualifications for appointment as the member being succeeded.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A member appointed to fill a vacancy in an unexpired term or to succeed a member who is holding over serves only for the remainder of that term.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 07-620; Ord. 16-503.)</annotation>
-    </section>
-    <section>
-      <num>52-4</num>
-      <heading>Officers; committees.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Officers.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Mayor shall designate a voting member of the Commission to serve as the Chair of the Commission.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Members of the Commission shall by majority vote select any other officers they consider necessary or appropriate.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Committees.</em>
-        </text>
-        <text>The Chair may appoint committees to assist the Commission in carrying out its functions and duties.</text>
-      </para>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-5</num>
-      <heading>Meetings; quorum.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission shall meet at the call of the Chair as frequently as required to perform its duties.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A majority of the voting members of the Commission constitutes a quorum for the transaction of business.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>An affirmative vote by the majority of a quorum is needed  for any official action.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Rules of procedure.</em>
-        </text>
-        <text>The Commission may adopt rules of procedure to govern its meetings and operations.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Failure to attend meetings.</em>
-        </text>
-        <text>If any member is absent from regularly scheduled meetings more than 3 times in 1 year, not counting absences excused by the Chair:</text>
-        <para>
-          <num>(1)</num>
-          <text>the member is considered to have resigned; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Chair shall request the Mayor to fill the resultant vacancy.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-6</num>
-      <heading>Personnel; budget.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Executive Director.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission may appoint a properly qualified person as the Executive Director of the Commission, to serve for a term of 4 years concurrent with the term of the Mayor.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Executive Director is entitled to a salary, as provided in the Ordinance of Estimates.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Executive Director shall perform the duties that the Commission prescribes.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Staff.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Executive Director may employ a staff as provided in the Ordinance of Estimates.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Staff members shall be members of the classified service.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Volunteers.</em>
-        </text>
-        <text>The Commission may engage the services of volunteer workers and consultants, without salary, as it considers necessary from time to time.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Budget.</em>
-        </text>
-        <text>The Commission may expend funds as authorized in the Ordinance of Estimates.</text>
-      </para>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-7</num>
-      <heading>Powers and duties.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Assistance to Hispanic population</em>.</text>
-        <text>The Commission shall assist Hispanics who reside in the City in matters relating to:</text>
-        <para>
-          <num>(1)</num>
-          <text>education or workforce training;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>health and medical services;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>special rights and privileges provided by federal, state, and local laws and regulations;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>employment; and</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>any other matters.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Information resource</em>.</text>
-        <text>The Commission shall serve as a resource for information relating to issues affecting Baltimore Hispanics.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Research and education</em>.</text>
-        <text>The Commission shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>conduct research, policy analysis, and public information and education programs on issues affecting Hispanics; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>institute and conduct other programs, meetings, and conferences to promote equal rights and opportunities for Hispanics</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Monitor workforce</em>.</text>
-        <text>The Commission shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>review and monitor the conditions of Hispanics in the workforce in Baltimore City; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>direct attention to the problems facing Hispanics in the workforce.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text><em>Advise and counsel</em>.</text>
-        <text>The Commission shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>advise and counsel the Mayor, the City Council, and the various departments and agencies of the City on all issues of concern to the Hispanic community; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>recommend programs and legislation it considers necessary and proper.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text><em>Evaluate policies and programs</em>.</text>
-        <text>The Commission shall review and evaluate the impact of existing and proposed policies, programs, and legislation affecting Hispanics.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text><em>Representing City</em>.</text>
-        <text>The Commission shall act as a representative of the Mayor and City Council in dealing with the private sector and with other governments in an effort to develop additional private and public resources to provide better programs for the Hispanic community.</text>
-      </para>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-8</num>
-      <heading>Agency cooperation.</heading>
-      <text>At the request of the Commission, all City officials and agencies shall cooperate with the Commission and extend the services and facilities that the Commission requires, to the extent that the officials and agencies are able to do so given their personnel and budgets as provided in the Ordinance of Estimates.</text>
-      <annotation>(Ord. 07-620.)</annotation>
-    </section>
-    <section>
-      <num>52-9</num>
-      <heading>Annual report.</heading>
-      <text>The Commission shall submit to the Mayor an annual report on its activities.</text>
-      <annotation>(Ord. 07-620.)</annotation>
-      <text class="center">
-        <strong>Subtitles 53 to 54</strong>
-      </text>
-      <text class="center">
-        <strong>
-          <em>{Reserved}</em>
-        </strong>
-      </text>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>55</num>
-    <heading>Mayor's Anti-Animal Abuse Advisory Commission</heading>
-    <section>
-      <num>55-1</num>
-      <heading>Definitions.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>In this subtitle, the following terms have the meanings indicated.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Advisory Commission.</em>
-        </text>
-        <text>"Advisory Commission" means the Mayor's Anti-Animal Abuse Advisory Commission established under this subtitle.</text>
-      </para>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <num>55-2</num>
-      <heading>Commission established.</heading>
-      <text>There is a Mayor's Anti-Animal Abuse Advisory Commission.</text>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <num>55-3</num>
-      <heading>Advisory Commission membership.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Advisory Commission consists of 26 members.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Of these:</text>
-          <para>
-            <num>(i)</num>
-            <text>15 members are appointed by the Mayor in accordance with Article IV, § 6 of the Baltimore City Charter; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>11 members are agency representatives.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Appointed members.</em>
-        </text>
-        <text>The 15 appointed members of the Advisory Commission are as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>1 member representing each of the following 4 organizations:</text>
-          <para>
-            <num>(i)</num>
-            <text>Maryland SPCA;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>The Snyder Foundation for Animals;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>the ASPCA; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>the Baltimore Animal Rescue and Care Shelter.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>1 City Council member, nominated by the President of the City Council.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>1 judge.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>1 veterinarian practicing in Baltimore City.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>4 at-large members.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>4 at-large members, nominated by the President of the City Council.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Agency representatives.</em>
-        </text>
-        <text>The 11 agency representatives are the following, or their designated representatives:</text>
-        <para>
-          <num>(1)</num>
-          <text>the Director of the Bureau of Animal Control.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Health Commissioner.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the Director of Juvenile Services.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>the Director of Social Services.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>the Mayor.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>the President of the City Council.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>the State's Attorney for Baltimore City.</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>the Police Commissioner.</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>the Baltimore City Sheriff.</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>the Commissioner of Housing.</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>the CEO of the Baltimore City Public School System</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Appointment without regard to political affiliation.</em>
-        </text>
-        <text>The appointment of members must be made without regard to political affiliation.</text>
-      </para>
-      <annotation>(Ord. 10-369; Ord. 12-060.)</annotation>
-    </section>
-    <section>
-      <num>55-4</num>
-      <heading>Terms, compensation, vacancies.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Terms of office.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Advisory Commission members serve for a term of 4 years, concurrent with the terms of the Mayor and the City Council.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>At the end of a term, an Advisory Commission member continues to serve until a successor is appointed and qualifies.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Advisory Commission members may be reappointed, but may not serve more than 3 terms.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Compensation; expenses.</em>
-        </text>
-        <text>The members of the Advisory Commission:</text>
-        <para>
-          <num>(1)</num>
-          <text>serve without compensation; but</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>are entitled to reimbursement for reasonable expenses incurred in the performance of their duties, as provided in the Ordinance of Estimates.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Vacancies.</em>
-        </text>
-        <text>A member appointed to fill a vacancy in an unexpired term serves only for the remainder of that term.</text>
-      </para>
-      <annotation>(Ord. 10-369; Ord. 12-060; Ord. 16-503.)</annotation>
-    </section>
-    <section>
-      <num>55-5</num>
-      <heading>Chair; committees.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Chair.</em>
-        </text>
-        <text>The Mayor must designate a member of the Advisory Commission to serve as its Chair.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Committees.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Chair may appoint committees to assist the Advisory Commission in carrying out its functions and duties.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Non-members of the Commission may be designated by the Chair, with the consent of the Commission, to participate as members of committees of the Commission.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 10-369; Ord. 12-060.)</annotation>
-    </section>
-    <section>
-      <num>55-6</num>
-      <heading>Meetings; quorum.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>In general</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Advisory Commission meets once per month.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Advisory Commission may hold additional meetings, at the call of the Chair, as frequently as required to perform its duties.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>A majority of the members of the Advisory Commission constitutes a quorum for the transaction of business.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>An affirmative vote by the majority of a quorum is needed for any official action.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Rules of procedure.</em>
-        </text>
-        <text>The Advisory Commission may adopt rules of procedure to govern its meetings and procedures.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Failure to attend meetings.</em>
-        </text>
-        <text>If any member is absent from regularly scheduled meetings more than 3 times in 1 year, not counting absences excused by the Chair:</text>
-        <para>
-          <num>(1)</num>
-          <text>the member is considered to have resigned; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Chair must request that the member's appointing authority fill the resultant vacancy.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <text>§ 55-7.  {Reserved}</text>
-    </section>
-    <section>
-      <num>55-8</num>
-      <heading>Volunteers.</heading>
-      <text>The Advisory Commission may engage the services of volunteer workers and consultants, without salary.</text>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <num>55-9</num>
-      <heading>Budget.</heading>
-      <text>The Advisory Commission  may expend funds as authorized in the Ordinance of Estimates.</text>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <num>55-10</num>
-      <heading>Powers and duties.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>The Mayor's Anti-Animal Abuse Advisory Commission may undertake the activities described in this section.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Research and advise.</em>
-        </text>
-        <text>The Advisory Commission may research best practices in the following areas and provide recommendations to City agencies on each topic:</text>
-        <para>
-          <num>(1)</num>
-          <text>ways to eradicate animal abuse in the City of Baltimore, including dogfighting;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>methods of increasing awareness of animal cruelty laws;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>legislation to protect animals and prosecute abusers;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>training techniques for law enforcement officials on how to handle animal cruelty cases humanely and to ensure acquisition of the best evidence to prosecute abusers;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>steps to foster improved responses to incidents of animal cruelty; and</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>methods to improve training for animal control officers for their protection as well as the animals.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Monitor programs.</em>
-        </text>
-        <text>The Advisory Commission may:</text>
-        <para>
-          <num>(1)</num>
-          <text>review and monitor the successes and lessons learned in implementing its recommendations;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>make recommendations for improving the effectiveness of programs targeting animal abuse; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>review and monitor ongoing animal cruelty calls and provide recommendations to City agencies for  effective and timely investigation by and coordination among City agencies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Evaluate policies and programs</em>.</text>
-        <text>The Advisory Commission may review and evaluate the impact of existing and proposed policies, programs, and legislation affecting the effort to eradicate animal abuse in Baltimore.</text>
-      </para>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <text>§ 55-11.  {Reserved}</text>
-    </section>
-    <section>
-      <num>55-12</num>
-      <heading>Agency assistance.</heading>
-      <text>At the request of the Advisory Commission, all City officials and agencies must extend the services and facilities required for the performance of the Advisory Commission's duties, to the extent that those officials and agencies are able to do so given their personnel and budgets.</text>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-    <section>
-      <num>55-13</num>
-      <heading>Annual reports.</heading>
-      <text>The Advisory Commission must submit an annual report on its activities to the Mayor and City Council.</text>
-      <annotation>(Ord. 10-369.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>56</num>
-    <heading>Citizens Advisory Commission for Public Safety</heading>
-    <section>
-      <num>56-1</num>
-      <heading>Commission established.</heading>
-      <text>There is a Baltimore City Citizens Advisory Commission for Public Safety.</text>
-      <annotation>(Ord. 17-035.)</annotation>
-    </section>
-    <section>
-      <num>56-2</num>
-      <heading>Commission composition.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>In general</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Advisory Commission comprises 23 members.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Of these:</text>
-          <para>
-            <num>(i)</num>
-            <text>20 members are appointed by the Mayor in accordance with City Charter Article IV, § 6; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>3 are ex officio members.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Appointed members.</em>
-        </text>
-        <text>The members appointed by the Mayor are as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>a member of the Baltimore City House Delegation to the Maryland General Assembly, to be nominated by the Speaker of the House of Delegates;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>a member of the Baltimore City Senate Delegation to the Maryland General Assembly, to be nominated by the President of the Senate; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the following, to be nominated by the President of the City Council:</text>
-          <para>
-            <num>(i)</num>
-            <text>2 Baltimore City residents;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>a representative of the Hispanic community;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>a representative of the lesbian, gay, bisexual, and transgender community;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>an individual with expertise in the area of reentry after incarceration;</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>a representative of the Fraternal Order of Police;</text>
-          </para>
-          <para>
-            <num>(vi)</num>
-            <text>a representative of the Vanguard Justice Society;</text>
-          </para>
-          <para>
-            <num>(vii)</num>
-            <text>a resident of Baltimore City public housing;</text>
-          </para>
-          <para>
-            <num>(viii)</num>
-            <text>an individual at least 14 years old or older and under the age</text>
-            <text>of 21; and</text>
-          </para>
-          <para>
-            <num>(ix)</num>
-            <text>1 resident of each of the 9 police districts of Baltimore City.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Ex officio members.</em>
-        </text>
-        <text>The ex officio members are as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>the Chair of the City Council's Public Safety Committee or of any City Council Committee succeeding to the duties of the City Council's Public Safety Committee (or the Chair's designee) ;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Police Commissioner (or the Commissioner's designee); and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the Director of the Office of Civil Rights and Wage Enforcement or of any office or agency succeeding to the duties of the Office of Civil Rights and Wage Enforcement relevant to duties of the Citizens Advisory Commission for Public Safety (or the Director's designee) .</text>
-        </para>
-      </para>
-      <annotation>(Ord. 17-035; Ord. 17-068.)</annotation>
-    </section>
-    <section>
-      <num>56-3</num>
-      <heading>Term of appointed members.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Appointed members of the Advisory Commission serve for a term of 4 years, concurrent with the term of the Mayor.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>At the end of a term, an appointed member continues to serve until a successor is appointed and qualifies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Vacancies</em>.</text>
-        <text>A member appointed to fill a vacancy in a term:</text>
-        <para>
-          <num>(1)</num>
-          <text>must meet the same qualifications as that required for the member being succeeded; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>serves only for the rest of the term and until a successor is appointed and qualifies.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Term limits.</em>
-        </text>
-        <text>No appointed member may serve for more than 2 consecutive full terms.</text>
-      </para>
-      <annotation>(Ord. 17-035.)</annotation>
-    </section>
-    <section>
-      <num>56-4</num>
-      <heading>Officers; Committees.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Officers.</em>
-        </text>
-        <text>Annually, the Advisory Commission:</text>
-        <para>
-          <num>(1)</num>
-          <text>shall elect one of its members to serve as the Commission's Chair; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>and may elect from among its members a Vice-Chair and any other officers that the Commission considers necessary or appropriate.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <em>Committees.</em>
-        </text>
-        <text>The Advisory Commission may establish committees to assist it in carrying out its functions and duties.</text>
-      </para>
-      <annotation>(Ord. 17-035.)</annotation>
-    </section>
-    <section>
-      <num>56-5</num>
-      <heading>Meetings, quorum, etc.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>Meetings.</em>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Advisory Commission shall hold public meetings at least once quarterly.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>All meetings of the Commission must be conducted in accordance with the State Open Meetings Act (Title 3 of the General Provisions Article of the Maryland Code).</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Quorum</em>.</text>
-        <text>A majority of the Commission's authorized membership constitutes a quorum for the transaction of business.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Voting.</em>
-        </text>
-        <text>An affirmative vote by a majority of a quorum is needed for any official action.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <em>Rules of procedure.</em>
-        </text>
-        <text>The Commission may adopt rules of procedure for the conduct of its meetings.</text>
-      </para>
-      <annotation>(Ord. 17-035.)</annotation>
-    </section>
-    <section>
-      <num>56-6</num>
-      <heading>Community Interaction Recommendations Reports.</heading>
-      <para>
-        <num>(a)</num>
-        <text>
-          <em>In general.</em>
-        </text>
-        <text>In cooperation with the Baltimore City Police Department, the Advisory Commission shall develop annually a Community Interaction Recommendations Report.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Focus</em>.</text>
-        <text>The Report shall focus on making recommendations to create consistent positive interactions between police officers and community residents.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <em>Contents.</em>
-        </text>
-        <text>The report shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>recommend ways that police officers, by actively participating in neighborhood meetings and events, can bring police together with a wide array of City residents;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>identify ways to help build long–term consistent interaction between police officers and youth in Baltimore's schools, recreation centers, and other youth programs;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>identify ways that police officers can interact directly with members of the reentry community in a positive manner;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>recommend ways that emphasis can be placed on creating positive interactions with Baltimore's African-American, lesbian, gay, bisexual, and transgender, domestic-violence victim, public housing, and immigrant and refugee communities;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>recommend ways that emphasis can be placed on improving relationships between the Police Department and the small business community;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>provide ideas for citizen-involved training of police officers;</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>list and evaluate partnerships between the Police Department and nonprofit organizations and other non-law-enforcement entities;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>include recommendations for homeless and lesbian, gay, bisexual, and transgender community interactions;</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>include recommendations on how to recruit and retain City residents as police officers; and</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>identify ways to form and maintain lasting and coordinated relationships with colleges and universities located in Baltimore City, including Morgan State University and Coppin State University.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Annual submission</em>.</text>
-        <text>On or before November 15 of each year, the Advisory Commission shall submit its Report for the ensuing calendar year to the City Council and, in accordance with § 2-1246 of the State Government Article, the members of the Baltimore City House and Senate Delegations to the Maryland General Assembly.</text>
-      </para>
-      <annotation>(Ord. 17-035.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>57</num>
-    <heading>Office of LGBTQ Affairs</heading>
-    <section>
-      <num>57-1</num>
-      <heading>Definitions.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>In general</em>.</text>
-        <text>In this subtitle, the following terms have the meanings indicated.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Commission</em>.</text>
-        <text>"Commission" means the Baltimore City LGBTQ Commission.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Director</em>.</text>
-        <text>"Director" means the Director of the Office of LGBTQ Affairs.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Lesbian, gay, bisexual, transgender, and queer</em>; <em>LGBTQ</em>.</text>
-        <text>"Lesbian, gay, bisexual, transgender, and queer" or "LGBTQ" means individuals who identify themselves as lesbian, gay, bisexual, transgender, or queer, or individuals who are exploring their sexuality or sexual identity or who are concerned about applying a social label to themselves related to their sexuality or sexual identity.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>
-          <em>Office.</em>
-        </text>
-        <text>"Office" means the Baltimore City Office of LGBTQ Affairs.</text>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <text>§ 57-2. {Reserved}</text>
-    </section>
-    <section>
-      <num>57-3</num>
-      <heading>Office established.</heading>
-      <text>There is a Baltimore City Office of LGBTQ Affairs.</text>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <num>57-4</num>
-      <heading>Director.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>In general</em>.</text>
-        <text>The Director is responsible for the administration and oversight of the Office.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Appointment</em>.</text>
-        <text>The Director is appointed by the Mayor in accordance with Article IV, § 6 of the City Charter.</text>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <text>§ 57-5.  {Reserved}</text>
-    </section>
-    <section>
-      <num>57-6</num>
-      <heading>LGBTQ Commission.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Established</em>.</text>
-        <text>There is a Baltimore City LGBTQ Commission within the Office.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Duties of Commission</em>.</text>
-        <text>The Commission shall:</text>
-        <para>
-          <num>(1)</num>
-          <text>advise the Office and the Mayor and City Council on issues relating to the lesbian, gay, bisexual, transgender, and queer community; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>collaborate and consult with the Office on matters relating to the discharge of the Office's duties.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Composition</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text><em>In general</em>.</text>
-          <text>The Commission comprises at least 14 members, but no more than 25 members, appointed by the Mayor in accordance with Article IV, § 6 of the City Charter with:</text>
-          <para>
-            <num>(i)</num>
-            <text>2 members nominated by the City Council President; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>2 members nominated by the Comptroller.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
+          <num>(.5a)</num>
+          <heading>Article 5.  Finance, Property, and Procurement</heading>
           <text>
-            <em>Diversity.</em>
+            <table>
+              <tbody>
+                <tr>
+                  <td>Subtitle 11.  Fair Election Fund</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td>Subtitle 26A.  Labor Trafficking Notice Requirements</td>
+                  <td>$50</td>
+                </tr>
+              </tbody>
+            </table>
           </text>
-          <para>
-            <num>(i)</num>
-            <text>The Mayor shall appoint Commission members to represent the diversity of people and ideas within the Baltimore lesbian, gay, bisexual, transgender, and queer community.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>The Commission shall include, at a minimum, representation from lesbian, gay, bisexual, transgender, and queer community organizations representing health, social service, religious, and human rights issues and its members shall be representative of the diversity in the community with regard to socioeconomic status, religion, race, ethnicity, gender identification, age, and families.</text>
-          </para>
         </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text><em>Terms</em>.</text>
+        <para>
+          <num>(.5b)</num>
+          <heading>Article 7.  Natural Resources</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="3">Division I.  Floodplain Management</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">
+                    <p>Division VI.  Miscellaneous</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">
+                    <p>Subtitle 62.  Plastic Bag Reduction</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>1st offense</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>2nd offense in same 6-month period</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>3rd or subsequent offense in same 6-month period</td>
+                  <td>$1,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
         <para>
           <num>(1)</num>
-          <text>Commission members serve a term of 4 years, concurrent with the terms of the Mayor and the City Council.</text>
+          <heading>Article 13. Housing and Urban Renewal</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="4">Subtitle 4.  Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Non-owner-occupied dwelling units</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Rooming houses</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Vacant structures</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">Subtitle 5.  Licensing of Rental Dwellings</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">§ 5-4.  License required</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">§ 5-15.  <em>{Offenses there listed as cause for}</em></td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Denial, suspension, or revocation of license</td>
+                  <td>$750</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">All other provisions</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="3">Subtitle 8.  Rent Increases</td>
+                  <td>$1,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
         <para>
           <num>(2)</num>
-          <text>At the end of a term, a member continues to serve until a successor is appointed and qualifies.</text>
+          <heading>Article 15. Licensing and Regulation</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="2">Subtitle 12.  Commercial Parking Facilities</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Subtitle 13.  Special-Event Parking Lots</td>
+                  <td>$750</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Subtitle 17.  Street Vendors</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Subtitle 21.  Third-Party Food Delivery Platform</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td colspan="3">Subtitle 42.  Human Trafficking Notice Requirements</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>1st offense</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Subsequent offense</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Subtitle 43.  Public Restrooms</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="3">Subtitle 48.  Short-Term Residential Rentals</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>§ 48-6.  License required <em>{for host}</em></td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>§ 48-16.  <em>{Operational requirements for} </em>hosting platforms</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>§ 48-21.  <em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>All other provisions</td>
+                  <td>$250</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
         <para>
           <num>(3)</num>
-          <text>A member appointed to fill a vacancy in an unexpired term or to succeed a member who is holding over serves only for the remainder of that term.</text>
+          <heading>Article 19. Police Ordinances</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="5">§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> offense</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 7-2.  Vehicle alarms: Prohibited devices</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="4">§ 8-8.  False alarm fees.</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="3">Failure to pay-</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td>Residential users</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td>Non-residential users</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="4">All other provisions.</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="2">Users</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="2">Contractors, Monitors, Others</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 14-2.  Drinking or possessing open containers in public places – In general</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 14-3.  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 32-3.  Sales to minors [in proximity to liquor stores]</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 32-4.  Inducing minor to purchase</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="5">§ 32-5.  False representation by minor</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> or subsequent offense</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 41-2.  Outdoor telephones:  Prohibited placement</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 45-2.  Signs on or affecting public property: Posting prohibited</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 50-2.  Obstructing street, etc., or gutter</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td colspan="4">§ 50-3.  Merchandise projecting from building</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td colspan="5">§ 51-2.  Compliance with park rules</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> offense</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
+                  <td>$1,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text><em>Compensation; expenses</em>.</text>
-        <text>The members of the Commission:</text>
         <para>
-          <num>(1)</num>
-          <text>serve without compensation; but</text>
+          <num>(4)</num>
+          <heading>Article 23. Sanitation</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="3">§ 2-1.  Mixed refuse: Receptacles</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Residential properties</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Commercial properties</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 2-2.  Mixed refuse: Handling</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Residential properties</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Commercial properties</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 4-1 or § 4-2.  Receptacles on collection days</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Residential properties</td>
+                  <td>$  50</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td>Commercial properties</td>
+                  <td>$100</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>are entitled to reimbursement for reasonable expenses incurred in the performance of their duties, as provided in the Ordinance of Estimates.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text><em>Chair</em>.</text>
+          <num>(4a)</num>
+          <heading>Article 24.  Water</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="4">§ 21-1.  Rules and regulations <em>{to protect water supply and facilities}</em></td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">Watershed Regulations</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td><p>	Polluting or depositing trash, etc., in reservoir waters or tributaries</p></td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>	Trespassing or otherwise entering or traversing property in violation of rule or regulation</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>	Boating without a required permit or otherwise in violation of rule or regulation</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Hunting without a required permit or otherwise in violation of rule or regulation</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Fishing without a required permit or otherwise in violation of rule or regulation</td>
+                  <td>$  60</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Other recreational activity (horseback riding, bicycling, picnicking, etc.) in violation of rule or regulation</td>
+                  <td>$  60</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Smoking except where expressly allowed</td>
+                  <td>$  75</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>All other violations</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">All other rules and regulations of Department to protect water supply and facilities</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 21-2.  Suspension, etc., of certain uses</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 21-3.  Injuring fire hydrants</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 21-4.  Wrongful use after cut-off</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 21-5.  Refusal of entry</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td colspan="3">§ 21-6.  Interference with equipment; illegal use of water</td>
+                  <td>$500</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          </para>
+            <para>
+            <num>(4b)</num>
+            <heading>Article 26.  Surveys, Streets, and Highways</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>Subtitle 6.  Building Address Numbers</td>
+                    <td>$  25</td>
+                  </tr>
+                  <tr>
+                    <td>Subtitle 23.  Underground Conduit System</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5a)</num>
+            <heading>Article 31.  Transit and Traffic</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="5">Subtitle 14.  Valet Parking</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part II.  Valet Operator's License</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-7.  License required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-8(c). Liability insurance <em>{required}</em></td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part III.  Valet Parking Zone Permit</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-16.  Permit required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part IV.  Standards of Operation</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-31.  Licensed operator <em>{required}</em></td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-32.  <em>{Authorized} </em>locations and hours</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-33.  <em>{Required, prohibited uses of} </em>valet parking zones</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-34(a).  Attendants' qualifications</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-35.  Transporting and parking vehicles</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-36.  <em>{Required}</em> signage</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-37.  Permit and operator's license <em>{available for}</em> inspection</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-41(3).  Operators: Providing valet services in way that endangers public safety</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-41(4).  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-42(3).  Hosts: Providing or allowing valet services in way that endangers public safety</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-42(4).  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-43.  Any other violation that is cause for suspending or revoking a license or permit</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$300</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Subtitle 16.  Use-of-the-Road Regulations</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 16-12. Vehicles on sidewalks</td>
+                    <td>$ 50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Subtitle 38.  Dockless Vehicles</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-7(b)(2).  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-8(a).  Operating a dockless-vehicle-for-hire business without a permit</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-12.  Failure of provider to provide required data or reports</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-15.  Failure of provider to notify of data breach</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-18.  Unlawful operation of e-bike or e-scooter</td>
+                    <td>$ 20</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-19.  Unlawful parking of dockless vehicle</td>
+                    <td>$ 20</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-21.  Display of advertisements on dockless vehicles</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">§ 38-22.  Provider operational responsibilities:</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (1).  Failure to maintain 24-hour customer service phone support</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (2).  Failure to remove dockless vehicles from public rights-of-way between dusk and dawn, as determined in rules and regulations</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (3).  Failure to ensure that dockless vehicles are parked as required by law, rule, or regulation</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (4).  Failure to remove or reposition illegally parked dockless vehicles within required time</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (5).  Failure to ensure that dockless vehicles adhere to national safety standards</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (6).  Failure to ensure that provider operations adhere to equitable access requirements</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (7).  Failure to comply with any other requirement established by the Director</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5b)</num>
+            <heading>Article 32.  Zoning</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>§ 19-101.  Prohibited Conduct</td>
+                    <td>$500</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5c)</num>
+            <heading>Building, Fire, and Related Codes Article – Building Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="2">§ 105.11.  Post-work proof of disposal</td>
+                    <td>$1000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 114.14. Work without permit</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 115.3. Stop-work order:  Unlawful continuance</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3">§ 123.8.  Failure to comply with notice or citation</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>Unsafe structures {§ 116}</td>
+                    <td>$900</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>Condemnation proceedings {§ 120}</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>All other notices (excluding citations)</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1209.4  Diaper-Changing Amenities</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 3302.2. Construction Safeguards: Waste and debris</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 3808.  Traffic-Mitigation Enforcement</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Building, Fire, and Related Codes Article – Fire Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="3">§ 108.6.  Maintenance: Overcrowding</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>1-99 persons over capacity</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>100-199 persons over capacity</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>200 or more persons over capacity</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3">§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>2<sup>nd</sup> and subsequent offenses</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1111.  Unsafe buildings: General</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1001.2. Means of Egress: Minimum requirements</td>
+                    <td>$250</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(6a)</num>
+            <heading>Building, Fire, and Related Codes Article – Property Maintenance Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="4">Chapter 3.  General Requirements</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td colspan="2">§ 305.5.1.  Motor vehicles and trailers: Registered owner responsible</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">All other provisions</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td>Residential properties</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td>Commercial properties</td>
+                    <td>$100</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
         <para>
-          <num>(1)</num>
-          <text>The Commission shall elect a Chair from among its members.</text>
+          <num>(7)</num>
+          <heading>Health Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="5">Title 3:  Health Facilities</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5:  Limited-Service Pregnancy Centers</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 4:  Disease Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 6:  Screening for Lead Poisoning</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 4-601.  Parental Responsibility</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 5:  Nuisance Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  Nuisance Abatement</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-210.  Abatement notice</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Lead-Based Paint</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 5:  Bodily Wastes</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-501.  Spitting</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-503.  Urinating, etc. - In general</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-504.  Urinating, etc. - Parents</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Weeds</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 6:  Food Service Facilities</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  License Required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-201.  In general</td>
+                    <td>$300</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 5:  Miscellaneous Regulations</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-506.  Litter and rubbish prohibited</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-508.  Polystyrene foam products</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 7:  Waste Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Solid Waste Collection</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Landfills</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Prohibited Disposal</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Littering</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">Title 8:  Air Pollution</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 9:  Noise Regulation</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Basic Sound Level Standards</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Entertainment and Commercial Noise</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Amplified Sounds in Market Center</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 10:  Animal Control and Protection</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 1:  General Provisions</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-112. Obstructing, etc., officer; False Statements</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  Licensing</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Part I.  Dog and Cat Licenses</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">Part II.  Facility Licenses</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Animal fanciers</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>All other facilities</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 3:  General Care and Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-301.  Rabies – Vaccinations</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-302.  Rabies – Possible exposure</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-303.  Humane care required</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 10-307.  Restraints required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td>$600</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-313.  Animal waste</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Animal Protection</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5: Public Nuisance Animals</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-701.  Attack dogs</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-702.  Dangerous animals</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-706.  Vicious animals – Keeping prohibited</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 9:  Horse Riding and Driving</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-918.  Sick or injured horses</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 11:  Swimming Pools</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Public Swimming Pools</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 12:  Tobacco Products and Smoking Devices</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 1:  Indoor Smoking</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Person smoking</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Employer, other person in charge</td>
+                    <td>$750</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5:  Unlawful Distribution</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Flavored Tobacco Wrappings</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Mobile Vendors</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 8:  Smoking Near Playgrounds</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 9:  Nicotine Replacement Therapy Products</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 15:  Ephedrine Products</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Distribution to Minors</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Product Placement</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 16:  Psychoactive Substances</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Prohibited Conduct</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">Title 19:  Pesticides</td>
+                    <td>$250</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
         </para>
-        <para>
-          <num>(2)</num>
-          <text>The term of the Chair is 1 year.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Chair may be reelected.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text><em>Meetings</em>; <em>quorum</em>.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Commission shall meet at least monthly.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A majority of the members of the Commission constitutes a quorum for the transaction of business.</text>
-        </para>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <text>§ 57-7.  {Reserved}</text>
-    </section>
-    <section>
-      <num>57-8</num>
-      <heading>Staff and budget.</heading>
-      <para>
-        <num>(a)</num>
-        <text><em>Staff</em>.</text>
-        <text>The Office may employ staff in accordance with the Ordinance of Estimates.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text><em>Budget</em>.</text>
-        <text>The Office may expend funds authorized in the Ordinance of Estimates or any supplemental appropriations.</text>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <num>57-9</num>
-      <heading>Duties of the Office.</heading>
-      <text>In collaboration and consultation with the Commission, the Office shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>develop proposed City policy regarding civil rights issues affecting LGBTQ people;</text>
-        <para>
-          <num>(2)</num>
-          <text>coordinate and participate in the implementation of policies and programs consistent with the City's diversity and equity goals;</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>coordinate among City departments, agencies, offices, boards, and commissions to improve LGBTQ access to City services and to promote equality and safety for LGBTQ people;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>support the growth and development of the City's LGBTQ communities;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>review proposed legislation referred to the Office by the City Council, assessing its probable effect on City LGBTQ communities;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>serve as liaison between the City's LGBTQ communities and the City; and</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>perform any other duty required by the Mayor.</text>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-    <section>
-      <num>57-10</num>
-      <heading>Annual report.</heading>
-      <text>On or before June 30 of each year, the Office shall submit a report to the Mayor and City Council detailing:</text>
-      <para>
-        <num>(1)</num>
-        <text>the activities of the Office and the Commission; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>any specific policy or legislative proposals to advance the needs of LGBTQ communities in Baltimore or the goals of the Office.</text>
-      </para>
-      <annotation>(Ord. 21-028.)</annotation>
-    </section>
-  </container>
-  <container>
-    <prefix>Subtitle</prefix>
-    <num>58</num>
-    <heading>Coordinated Multi-Agency Code Inspections</heading>
-    <annotation type="Editor's Notes" dest="Container">Editor's Note: This subtitle was enacted by Ordinance 21-059, effective November 1, 2021, the date of its enactment..  Section 3 of Ord. 21-059 provides that the Ordinance "shall remain effective until a year after the date that it is enacted; and, immediately after that date, with no further action by the Mayor and City Council, this Ordinance will be abrogated and of no further effect".</annotation>
-    <section>
-      <num>58-1</num>
-      <heading>Scope of subtitle.</heading>
-      <text>This subtitle only applies to environmental citations issued to commercial properties for violations of:</text>
-      <para>
-        <num>(1)</num>
-        <text>Article 19, Subtitle 32 {"Minors – Sales in Proximity to Liquor Store"};</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Article 23 {"Sanitation"};</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Title 5, Subtitle 2 {"Nuisance Abatement"} of the Health Code;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Title 7 {"Waste Control"} of the Health Code;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Title 12 {"Tobacco Products and Smoking Devices"} of the Health Code; or</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Title 15 {"Ephedrine Products"} of the Health Code.</text>
-      </para>
-      <annotation>(Ord. 21-059.)</annotation>
-    </section>
-    <section>
-      <num>58-2</num>
-      <heading>Retention of records.</heading>
-      <text>The original or a copy of a citation listed in §58-1 of this subtitle must be filed and retained in the records of:</text>
-      <para>
-        <num>(1)</num>
-        <text>the City Administrator; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>the Department of Housing and Community Development for inclusion in its open data mapping application."</text>
-      </para>
-      <annotation>(Ord. 21-059.)</annotation>
-    </section>
-    <section>
-      <num>58-3</num>
-      <heading>Coordination of response.</heading>
-      <text>Within 30 days of receipt of an environmental citation described in §58-1 of this subtitle, the City Administrator may coordinate a multi-agency, comprehensive code inspection of the cited premises, as specified in subsection §58-4 of this subtitle.</text>
-      <annotation>(Ord. 21-059.)</annotation>
-    </section>
-    <section>
-      <num>58-4</num>
-      <heading>Multi-agency inspection team.</heading>
-      <para>
-        <num>(a)</num>
         <text>
-          <em>Composition.</em>
+          <em>(City Code, 1976/83, art. 1, §308.) (Ord. 98-326; Ord. 99-487; Ord. 99-491; Ord. 99-520; Ord. 99-547; Ord. 99-548; Ord. 00-030; Ord. 00-069; Ord. 00-118; Ord. 01-172; Ord. 01-176; Ord. 02-322; Ord. 02-475; Ord. 02-476; Ord. 03-572; Ord. 03-621; Ord. 04-672; Ord. 04-854; Ord. 06-183; Ord. 06-205; Ord. 06-232; Ord. 06-247; Ord. 07-392; Ord. 07-424; Ord. 07-430; Ord. 07-623; Ord. 08-040; Ord. 08-058; Ord. 08-063; Ord. 09-100; Ord. 09-113; Ord. 09-148; Ord. 09-169; Ord. 09-171; Ord. 09-172; Ord. 09-175; Ord. 09-217; Ord. 09-232; Ord. 09-234; Ord. 09-241; Ord. 09-252; Ord. 10-268; Ord. 10-340; Ord. 10-342; Ord. 11-414; Ord. 11-478; Ord. 11-520; Ord. 11-523; Ord. 11-529; Ord. 11-572; Ord. 11-573; Ord. 12-046; Ord. 12-061; Ord. 12-065; Ord. 13-093; Ord. 13-098; Ord. 13-111; Ord. 13-157; Ord. 13-161; Ord. 14-208;</em>
         </text>
-        <text>The multi-agency inspection team coordinated by the City Administrator under this subtitle shall include representatives from:</text>
-        <para>
-          <num>(1)</num>
-          <text>the Fire Department;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Department of Health; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the Department of Housing and Community Development.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
         <text>
-          <em>Duties.</em>
+          <em>Ord. 14-212; Ord. 14-237; Ord. 14-310; Ord. 15-389; Ord. 15-427; Ord. 16-440; Ord. 16-545; Ord. 16-581; Ord. 16-587; Ord. 17-015; Ord. 18-125; Ord. 18-130; Ord. 18-182; Ord. 19-217; Ord. 19-218; Ord. 19-251; Ord. 19-263; Ord. 19-264; Ord. 19-265; Ord. 20-338; Ord. 20-340; Ord. 20-337; Ord. 20-361; Ord. 20-364; Ord. 20-364A; Ord. 20-430; Ord. 21-001; Ord. 21-034;</em>
         </text>
-        <text>Each agency specified in this section shall inspect the premises to ensure compliance with <em>{the}</em> laws, rules, and regulations administered by that agency.</text>
-      </para>
-      <annotation>(Ord. 21-059.)</annotation>
-    </section>
-    <section>
-      <num>58-5</num>
-      <heading>Monthly notice to Councilmembers.</heading>
-      <text>No later than the 1<sup>st</sup> of each month, the City Administrator shall inform each councilmember of the number and specific locations of any multi-agency inspections conducted, if any, pursuant to this subtitle in the previous month within the respective councilmember's district.</text>
-      <annotation>(Ord. 21-059.)</annotation>
-    </section>
-    <section>
-      <num>58-6</num>
-      <heading>Quarterly report.</heading>
-      <text>The City Administrator shall submit a quarterly report to the Mayor and City Council detailing:</text>
-      <para>
-        <num>(1)</num>
-        <text>the number of multi-agency coordinated inspections conducted under this subtitle occurring in the previous quarter;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>the number and types of violations discovered as the result of multi-agency coordinated inspections under this subtitle in the previous quarter;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>any recommendations for legislative or administrative enhancements to improve community quality-of-life issues and multi-agency cooperation;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>a breakdown of the number of inspections conducted by City Council district;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>a map displaying the location of the citations; and</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>an agency-level breakdown of:</text>
-        <para>
-          <num>(i)</num>
-          <text>the amount of time between the initial complaint and the first inspection;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>the types of citations issued;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>the number of reinspections conducted within the time allotted; and</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>the outcome of inspections, including:</text>
-          <para>
-            <num>(A)</num>
-            <text>how many resulted in a citation being issued;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>how many violation notices were issued;</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>how many violations were abated within the time allotted; and</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>the number of outstanding citations and violations.</text>
-          </para>
-        </para>
-      </para>
-      <annotation>(Ord. 21-059.)</annotation>
+        <text><em>Ord. 21-039; Ord. 22-110; Ord. 22-124; Ord. 22-133.</em>)</text>
     </section>
   </container>
 </container>
