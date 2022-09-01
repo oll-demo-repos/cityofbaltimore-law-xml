@@ -9282,115 +9282,135 @@
       </para>
       <para>
         <num>(e)</num>
-        <heading>Provisions and penalties enumerated.</heading>
-        <text>(.5)  <strong><em><cite path="2">Article 2</cite>.  Consumer Protections</em></strong></text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Subtitle 16.  Ticket Sales - Charges by Operators and Agents</td>
-                <td>$750</td>
-              </tr>
-              <tr>
-                <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
-                <td>$750</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>(.5a)  <strong><em><cite path="5">Article 5</cite>.  Finance, Property, and Procurement</em></strong></text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Subtitle 11.  Fair Election Fund</td>
-                <td>$500</td>
-              </tr>
-              <tr>
-                <td>Subtitle 26A.  Labor Trafficking Notice Requirements</td>
-                <td>$50</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>(.5b)  <strong><em><cite path="7">Article 7</cite>.  Natural Resources</em></strong></text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Division I.  Floodplain Management</td>
-                <td>$500</td>
-              </tr>
-              <tr>
-                <td proof="needed" colspan="2">
-                  <p>Division VI.  Miscellaneous</p>
-                  <p>Subtitle 62.  Plastic Bag Reduction</p>
-                </td>
-              </tr>
-              <tr>
-                <td>1st offense</td>
-                <td>$250</td>
-              </tr>
-              <tr>
-                <td>2nd  offense in same 6-month period</td>
-                <td>$500</td>
-              </tr>
-              <tr>
-                <td>3rd or subsequent offense in same 6-month period</td>
-                <td>$1,000</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
+        <text><em>Provisions and penalties enumerated</em>.</text>
         <para>
-          <num>(1)</num>
-          <heading>Article 13.</heading>
-          <text>
-            <strong>
-              <em>Housing and Urban Renewal</em>
-            </strong>
-          </text>
+          <num>(.5)</num>
+          <heading>Article 2.  Consumer Protections</heading>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2">Subtitle 4.  Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</td>
-                </tr>
-                <tr>
-                  <td>Non-owner-occupied dwelling units</td>
-                  <td>$100</td>
-                </tr>
-                <tr>
-                  <td>Rooming houses</td>
-                  <td>$100</td>
-                </tr>
-                <tr>
-                  <td>Vacant structures</td>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td colspan="2">Subtitle 5.  Licensing of Rental Dwellings</td>
-                </tr>
-                <tr>
-                  <td><cite path="§5-4.">§ 5-4.</cite>  License required</td>
-                  <td>$1,000</td>
-                </tr>
-                <tr>
-                  <td proof="needed">
-                    <p>
-                      <cite path="§5-15.">§ 5-15.</cite>
-                      <em>{Offenses there listed as cause for}</em>
-                    </p>
-                    <p>Denial, suspension, or revocation of license</p>
-                  </td>
+                  <td>Subtitle 16.  Ticket Sales - Charges by Operators and Agents</td>
                   <td>$750</td>
                 </tr>
                 <tr>
-                  <td>All other provisions</td>
+                  <td>Subtitle 17.  Ticket Sales – Ticket Purchasing Software</td>
+                  <td>$750</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(.5a)</num>
+          <heading>Article 5.  Finance, Property, and Procurement</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>Subtitle 11.  Fair Election Fund</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>Subtitle 8.  Rent Increases</td>
+                  <td>Subtitle 26A.  Labor Trafficking Notice Requirements</td>
+                  <td>$50</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(.5b)</num>
+          <heading>Article 7.  Natural Resources</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="3">Division I.  Floodplain Management</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">
+                    <p>Division VI.  Miscellaneous</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">
+                    <p>Subtitle 62.  Plastic Bag Reduction</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>1st offense</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>2nd offense in same 6-month period</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>3rd or subsequent offense in same 6-month period</td>
+                  <td>$1,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <heading>Article 13. Housing and Urban Renewal</heading>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="4">Subtitle 4.  Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Non-owner-occupied dwelling units</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Rooming houses</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">Vacant structures</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="4">Subtitle 5.  Licensing of Rental Dwellings</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">§ 5-4.  License required</td>
+                  <td>$1,000</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3">§ 5-15.  <em>{Offenses there listed as cause for}</em></td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td>Denial, suspension, or revocation of license</td>
+                  <td>$750</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="2">All other provisions</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td colspan="3">Subtitle 8.  Rent Increases</td>
                   <td>$1,000</td>
                 </tr>
               </tbody>
@@ -9399,62 +9419,64 @@
         </para>
         <para>
           <num>(2)</num>
-          <heading>Article 15.</heading>
-          <text>
-            <strong>
-              <em>Licensing and Regulation</em>
-            </strong>
-          </text>
+          <heading>Article 15. Licensing and Regulation</heading>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td>Subtitle 12.  Commercial Parking Facilities</td>
+                  <td colspan="2">Subtitle 12.  Commercial Parking Facilities</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td>Subtitle 13.  Special-Event Parking Lots</td>
+                  <td colspan="2">Subtitle 13.  Special-Event Parking Lots</td>
                   <td>$750</td>
                 </tr>
                 <tr>
-                  <td>Subtitle 17.  Street Vendors</td>
+                  <td colspan="2">Subtitle 17.  Street Vendors</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>Subtitle 21.  Third-Party Food Delivery Platform</td>
+                  <td colspan="2">Subtitle 21.  Third-Party Food Delivery Platform</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 42.  Human Trafficking Notice Requirements</td>
+                  <td colspan="3">Subtitle 42.  Human Trafficking Notice Requirements</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>1st offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Subsequent offense</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Subtitle 43.  Public Restrooms</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 48.  Short-Term Residential Rentals</td>
+                  <td colspan="3">Subtitle 48.  Short-Term Residential Rentals</td>
                 </tr>
                 <tr>
-                  <td><cite path="§48-6.">§ 48-6.</cite>  License required <em>{for host}</em></td>
+                  <td> </td>
+                  <td>§ 48-6.  License required <em>{for host}</em></td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§48-16.">§ 48-16.</cite><em>{Operational requirements for} </em>hosting platforms</td>
+                  <td> </td>
+                  <td>§ 48-16.  <em>{Operational requirements for} </em>hosting platforms</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td><cite path="§48-21.">§ 48-21.</cite><em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
+                  <td> </td>
+                  <td>§ 48-21.  <em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
                   <td>$500</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>All other provisions</td>
                   <td>$250</td>
                 </tr>
@@ -9464,118 +9486,135 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading>Article 19.</heading>
-          <text>
-            <strong>
-              <em>Police Ordinances</em>
-            </strong>
-          </text>
+          <heading>Article 19. Police Ordinances</heading>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2"><cite path="§1-2.">§ 1-2.</cite>  Placement <em>{of advertising circulars} </em>without permission</td>
+                  <td colspan="5">§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</td>
                 </tr>
                 <tr>
-                  <td>1<sup>st</sup> offense</td>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td>2<sup>nd</sup> offense</td>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> offense</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td>3<sup>rd</sup> or subsequent offense</td>
+                  <td> </td>
+                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§7-2.">§ 7-2.</cite>  Vehicle alarms: Prohibited devices</td>
+                  <td colspan="4">§ 7-2.  Vehicle alarms: Prohibited devices</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
+                  <td colspan="5">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
                 </tr>
                 <tr>
-                  <td colspan="2"><cite path="§8-8.">§ 8-8.</cite>  False alarm fees.</td>
+                  <td> </td>
+                  <td colspan="4">§ 8-8.  False alarm fees.</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Failure to pay-</td>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="3">Failure to pay-</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
                   <td>Residential users</td>
                   <td>$100</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
                   <td>Non-residential users</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="2">All other provisions.</td>
+                  <td> </td>
+                  <td colspan="4">All other provisions.</td>
                 </tr>
                 <tr>
-                  <td>Users</td>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="2">Users</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td>Contractors, Monitors, Others</td>
+                  <td> </td>
+                  <td> </td>
+                  <td colspan="2">Contractors, Monitors, Others</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§14-2.">§ 14-2.</cite>  Drinking or possessing open containers in public places – In general</td>
+                  <td colspan="4">§ 14-2.  Drinking or possessing open containers in public places – In general</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td><cite path="§14-3.">§ 14-3.</cite>  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
+                  <td colspan="4">§ 14-3.  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td><cite path="§32-3.">§ 32-3.</cite>  Sales to minors [in proximity to liquor stores]</td>
+                  <td colspan="4">§ 32-3.  Sales to minors [in proximity to liquor stores]</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§32-4.">§ 32-4.</cite>  Inducing minor to purchase</td>
+                  <td colspan="4">§ 32-4.  Inducing minor to purchase</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="2"><cite path="§32-5.">§ 32-5.</cite>  False representation by minor</td>
+                  <td colspan="5">§ 32-5.  False representation by minor</td>
                 </tr>
                 <tr>
-                  <td>1<sup>st</sup> offense</td>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td>2<sup>nd</sup> or subsequent offense</td>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> or subsequent offense</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td><cite path="§41-2.">§ 41-2.</cite>  Outdoor telephones:  Prohibited placement</td>
+                  <td colspan="4">§ 41-2.  Outdoor telephones:  Prohibited placement</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§45-2.">§ 45-2.</cite>  Signs on or affecting public property: Posting prohibited</td>
+                  <td colspan="4">§ 45-2.  Signs on or affecting public property: Posting prohibited</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td><cite path="§50-2.">§ 50-2.</cite>  Obstructing street, etc., or gutter</td>
+                  <td colspan="4">§ 50-2.  Obstructing street, etc., or gutter</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td><cite path="§50-3.">§ 50-3.</cite>  Merchandise projecting from building</td>
+                  <td colspan="4">§ 50-3.  Merchandise projecting from building</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td colspan="2"><cite path="§51-2.">§ 51-2.</cite>  Compliance with park rules</td>
+                  <td colspan="5">§ 51-2.  Compliance with park rules</td>
                 </tr>
                 <tr>
-                  <td>1<sup>st</sup> offense</td>
+                  <td> </td>
+                  <td colspan="3">1<sup>st</sup> offense</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td>2<sup>nd</sup> offense</td>
+                  <td> </td>
+                  <td colspan="3">2<sup>nd</sup> offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>3<sup>rd</sup> or subsequent offense</td>
+                  <td> </td>
+                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
                   <td>$1,000</td>
                 </tr>
               </tbody>
@@ -9584,1114 +9623,1119 @@
         </para>
         <para>
           <num>(4)</num>
-          <heading>Article 23.</heading>
-          <text>
-            <strong>
-              <em>Sanitation</em>
-            </strong>
-          </text>
+          <heading>Article 23. Sanitation</heading>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2"><cite path="§2-1.">§ 2-1.</cite>  Mixed refuse: Receptacles</td>
+                  <td colspan="3">§ 2-1.  Mixed refuse: Receptacles</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Commercial properties</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2"><cite path="§2-2.">§ 2-2.</cite>  Mixed refuse: Handling</td>
+                  <td colspan="3">§ 2-2.  Mixed refuse: Handling</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Commercial properties</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2"><cite path="§4-1">§ 4-1</cite> or <cite path="§4-2.">§ 4-2.</cite>  Receptacles on collection days</td>
+                  <td colspan="3">§ 4-1 or § 4-2.  Receptacles on collection days</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
+                  <td> </td>
                   <td>Commercial properties</td>
                   <td>$100</td>
                 </tr>
               </tbody>
             </table>
           </text>
-          <text>(4a)  <strong><em><cite path="24">Article 24</cite>.  Water</em></strong></text>
+        </para>
+        <para>
+          <num>(4a)</num>
+          <heading>Article 24.  Water</heading>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2"><cite path="§21-1.">§ 21-1.</cite>  Rules and regulations <em>{to protect water supply and facilities}</em></td>
+                  <td colspan="4">§ 21-1.  Rules and regulations <em>{to protect water supply and facilities}</em></td>
                 </tr>
                 <tr>
-                  <td colspan="2">Watershed Regulations</td>
+                  <td> </td>
+                  <td colspan="3">Watershed Regulations</td>
                 </tr>
                 <tr>
-                  <td>Polluting or depositing trash, etc., in reservoir waters or tributaries</td>
+                  <td> </td>
+                  <td> </td>
+                  <td><p>	Polluting or depositing trash, etc., in reservoir waters or tributaries</p></td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>Trespassing or otherwise entering or traversing property in violation of rule or regulation</td>
+                  <td> </td>
+                  <td> </td>
+                  <td>	Trespassing or otherwise entering or traversing property in violation of rule or regulation</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td>Boating without a required permit or otherwise in violation of rule or regulation</td>
+                  <td> </td>
+                  <td> </td>
+                  <td>	Boating without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$100</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
                   <td>Hunting without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$100</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
                   <td>Fishing without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$  60</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
                   <td>Other recreational activity (horseback riding, bicycling, picnicking, etc.) in violation of rule or regulation</td>
                   <td>$  60</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
                   <td>Smoking except where expressly allowed</td>
                   <td>$  75</td>
                 </tr>
                 <tr>
+                  <td> </td>
+                  <td> </td>
                   <td>All other violations</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td>All other rules and regulations of Department to protect water supply and facilities</td>
+                  <td> </td>
+                  <td colspan="2">All other rules and regulations of Department to protect water supply and facilities</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td><cite path="§21-2.">§ 21-2.</cite>  Suspension, etc., of certain uses</td>
+                  <td colspan="3">§ 21-2.  Suspension, etc., of certain uses</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td><cite path="§21-3.">§ 21-3.</cite>  Injuring fire hydrants</td>
+                  <td colspan="3">§ 21-3.  Injuring fire hydrants</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td><cite path="§21-4.">§ 21-4.</cite>  Wrongful use after cut-off</td>
+                  <td colspan="3">§ 21-4.  Wrongful use after cut-off</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td><cite path="§21-5.">§ 21-5.</cite>  Refusal of entry</td>
+                  <td colspan="3">§ 21-5.  Refusal of entry</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td><cite path="§21-6.">§ 21-6.</cite>  Interference with equipment; illegal use of water</td>
+                  <td colspan="3">§ 21-6.  Interference with equipment; illegal use of water</td>
                   <td>$500</td>
                 </tr>
               </tbody>
             </table>
           </text>
-          <text>(4b) <strong><em><cite path="26">Article 26</cite>.  Surveys, Streets, and Highways</em></strong></text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>Subtitle 6.  Building Address Numbers</td>
-                  <td>$  25</td>
-                </tr>
-                <tr>
-                  <td>Subtitle 23.  Underground Conduit System</td>
-                  <td>$1,000</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>(5a)  <strong><em><cite path="31">Article 31</cite>.  Transit and Traffic</em></strong></text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>Subtitle 14.  Valet Parking</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>
-                    <em>Part II.  Valet Operator's License</em>
-                  </td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-7.">§ 14-7.</cite>  License required</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-8|(c)">§ 14-8(c)</cite>. Liability insurance <em>{required}</em></td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>
-                    <em>Part III.  Valet Parking Zone Permit</em>
-                  </td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-16.">§ 14-16.</cite>  Permit required</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td proof="needed"/>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>
-                    <em>Part IV.  Standards of Operation</em>
-                  </td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-31.">§ 14-31.</cite>  Licensed operator <em>{required}</em></td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td proof="needed"/>
-                  <td>$250</td>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-32.">§ 14-32.</cite><em>{Authorized} </em>locations and hours</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$400</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-33.">§ 14-33.</cite><em>{Required, prohibited uses of} </em>valet parking zones</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-34|(a)">§ 14-34(a)</cite>.  Attendants' qualifications</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$400</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-35.">§ 14-35.</cite>  Transporting and parking vehicles</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-36.">§ 14-36.</cite><em>{Required}</em> signage</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-37.">§ 14-37.</cite>  Permit and operator's license <em>{available for}</em></td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>inspection</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-41|(3)">§ 14-41(3)</cite>.  Operators: Providing valet services in way</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>that endangers public safety</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-41|(4)">§ 14-41(4)</cite>.  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-42|(3)">§ 14-42(3)</cite>.  Hosts: Providing or allowing valet services in way that endangers public safety</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-42|(4)">§ 14-42(4)</cite>.  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§14-43.">§ 14-43.</cite>  Any other violation that is cause for suspending or revoking a license or permit</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td>$150</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
-                  <td>$300</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 16.  Use-of-the-Road Regulations</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§16-12.">§ 16-12.</cite> Vehicles on sidewalks</td>
-                  <td>$ 50</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 38.  Dockless Vehicles</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-7|(b)|(2)">§ 38-7(b)(2)</cite>.  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
-                  <td proof="needed"/>
-                  <td>$1,000</td>
-                </tr>
-                <tr>
-                  <td><cite path="§38-8|(a)">§ 38-8(a)</cite>.  Operating a dockless-vehicle-for-hire business without a permit</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-12.">§ 38-12.</cite>  Failure of provider to provide required data or reports</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-15.">§ 38-15.</cite>  Failure of provider to notify of data breach</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-18.">§ 38-18.</cite>  Unlawful operation of e-bike or e-scooter</td>
-                  <td>$ 20</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-19.">§ 38-19.</cite>  Unlawful parking of dockless vehicle</td>
-                  <td>$ 20</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-21.">§ 38-21.</cite>  Display of advertisements on dockless vehicles</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§38-22.">§ 38-22.</cite>  Provider operational responsibilities:</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (1).  Failure to maintain 24-hour customer service phone support</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (2).  Failure to remove dockless vehicles from public rights-of-way between dusk and dawn, as determined in rules and regulations</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (3).  Failure to ensure that dockless vehicles are parked as required by law, rule, or regulation</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (4).  Failure to remove or reposition illegally parked dockless vehicles within required time</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (5).  Failure to ensure that dockless vehicles adhere to national safety standards</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (6).  Failure to ensure that provider operations adhere to equitable access requirements</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Item (7).  Failure to comply with any other requirement established by the Director</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>(5b) <strong><em><cite path="32">Article 32</cite>.  Zoning</em></strong></text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td><cite path="§19-101.">§ 19-101.</cite>  Prohibited Conduct</td>
-                  <td>$500</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>(5c) <strong><em>Building, Fire, and Related Codes Article –</em></strong></text>
-          <text>
-            <strong>
-              <em>Building Code</em>
-            </strong>
-          </text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>§ 105.11.  Post-work proof of disposal</td>
-                  <td>$1000</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 114.14. Work without permit</td>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 115.3. Stop-work order:  Unlawful continuance</td>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 123.8.  Failure to comply with notice or citation</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Unsafe structures {§ 116}</td>
-                  <td>$900</td>
-                </tr>
-                <tr>
-                  <td>Condemnation proceedings {§ 120}</td>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td>All other notices (excluding citations)</td>
-                  <td>$250</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 1209.4  Diaper-Changing Amenities</td>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 3302.2. Construction Safeguards: Waste and debris</td>
-                  <td>$250</td>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 3808.  Traffic-Mitigation Enforcement</td>
-                  <td>$1,000</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>
-            <strong>
-              <em>Building, Fire, and Related Codes Article –</em>
-            </strong>
-          </text>
-          <text>
-            <strong>
-              <em>Fire Code</em>
-            </strong>
-          </text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>§ 108.6.  Maintenance: Overcrowding</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1-99 persons over capacity</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>100-199 persons over capacity</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>200 or more persons over capacity</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td proof="needed"/>
-                  <td>$100</td>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> and subsequent offenses</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 1111.  Unsafe buildings: General</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 1001.2. Means of Egress: Minimum requirements</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>(6a) <strong><em>Building, Fire, and Related Codes Article –</em></strong></text>
-          <text>
-            <strong>
-              <em>Property Maintenance Code</em>
-            </strong>
-          </text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>Chapter 3.  General Requirements</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>§ 305.5.1.  Motor vehicles and trailers: Registered owner</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>responsible</td>
-                  <td>$150</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>All other provisions</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Residential properties</td>
-                  <td proof="needed"/>
-                  <td>$  50</td>
-                </tr>
-                <tr>
-                  <td>Commercial properties</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-        </para>
+          </para>
+            <para>
+            <num>(4b)</num>
+            <heading>Article 26.  Surveys, Streets, and Highways</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>Subtitle 6.  Building Address Numbers</td>
+                    <td>$  25</td>
+                  </tr>
+                  <tr>
+                    <td>Subtitle 23.  Underground Conduit System</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5a)</num>
+            <heading>Article 31.  Transit and Traffic</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="5">Subtitle 14.  Valet Parking</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part II.  Valet Operator's License</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-7.  License required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-8(c). Liability insurance <em>{required}</em></td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part III.  Valet Parking Zone Permit</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-16.  Permit required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">
+                      <em>Part IV.  Standards of Operation</em>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-31.  Licensed operator <em>{required}</em></td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-32.  <em>{Authorized} </em>locations and hours</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-33.  <em>{Required, prohibited uses of} </em>valet parking zones</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-34(a).  Attendants' qualifications</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-35.  Transporting and parking vehicles</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-36.  <em>{Required}</em> signage</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-37.  Permit and operator's license <em>{available for}</em> inspection</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-41(3).  Operators: Providing valet services in way that endangers public safety</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-41(4).  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-42(3).  Hosts: Providing or allowing valet services in way that endangers public safety</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-42(4).  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 14-43.  Any other violation that is cause for suspending or revoking a license or permit</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td>$300</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Subtitle 16.  Use-of-the-Road Regulations</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 16-12. Vehicles on sidewalks</td>
+                    <td>$ 50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Subtitle 38.  Dockless Vehicles</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-7(b)(2).  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-8(a).  Operating a dockless-vehicle-for-hire business without a permit</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-12.  Failure of provider to provide required data or reports</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-15.  Failure of provider to notify of data breach</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-18.  Unlawful operation of e-bike or e-scooter</td>
+                    <td>$ 20</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-19.  Unlawful parking of dockless vehicle</td>
+                    <td>$ 20</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">§ 38-21.  Display of advertisements on dockless vehicles</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">§ 38-22.  Provider operational responsibilities:</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (1).  Failure to maintain 24-hour customer service phone support</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (2).  Failure to remove dockless vehicles from public rights-of-way between dusk and dawn, as determined in rules and regulations</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (3).  Failure to ensure that dockless vehicles are parked as required by law, rule, or regulation</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (4).  Failure to remove or reposition illegally parked dockless vehicles within required time</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (5).  Failure to ensure that dockless vehicles adhere to national safety standards</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (6).  Failure to ensure that provider operations adhere to equitable access requirements</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Item (7).  Failure to comply with any other requirement established by the Director</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5b)</num>
+            <heading>Article 32.  Zoning</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td>§ 19-101.  Prohibited Conduct</td>
+                    <td>$500</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(5c)</num>
+            <heading>Building, Fire, and Related Codes Article – Building Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="2">§ 105.11.  Post-work proof of disposal</td>
+                    <td>$1000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 114.14. Work without permit</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 115.3. Stop-work order:  Unlawful continuance</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3">§ 123.8.  Failure to comply with notice or citation</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>Unsafe structures {§ 116}</td>
+                    <td>$900</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>Condemnation proceedings {§ 120}</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>All other notices (excluding citations)</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1209.4  Diaper-Changing Amenities</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 3302.2. Construction Safeguards: Waste and debris</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 3808.  Traffic-Mitigation Enforcement</td>
+                    <td>$1,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Building, Fire, and Related Codes Article – Fire Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="3">§ 108.6.  Maintenance: Overcrowding</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>1-99 persons over capacity</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>100-199 persons over capacity</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>200 or more persons over capacity</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="3">§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td>2<sup>nd</sup> and subsequent offenses</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1111.  Unsafe buildings: General</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">§ 1001.2. Means of Egress: Minimum requirements</td>
+                    <td>$250</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(6a)</num>
+            <heading>Building, Fire, and Related Codes Article – Property Maintenance Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="4">Chapter 3.  General Requirements</td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                    <td colspan="2">§ 305.5.1.  Motor vehicles and trailers: Registered owner responsible</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">All other provisions</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td>Residential properties</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td>Commercial properties</td>
+                    <td>$100</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
         <para>
           <num>(7)</num>
-          <text>
-            <strong>
-              <em>Health Code</em>
-            </strong>
-          </text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td>Title 3:  Health Facilities</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 5:  Limited-Service Pregnancy Centers</td>
-                  <td>$150</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 4:  Disease Control</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 6:  Screening for Lead Poisoning</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§4-601.">§ 4-601.</cite>  Parental Responsibility</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 5:  Nuisance Control</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Nuisance Abatement</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§5-210.">§ 5-210.</cite>  Abatement notice</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 4:  Lead-Based Paint</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 5:  Bodily Wastes</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§5-501.">§ 5-501.</cite>  Spitting</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§5-503.">§ 5-503.</cite>  Urinating, etc. - In general</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§5-504.">§ 5-504.</cite>  Urinating, etc. - Parents</td>
-                  <td>$150</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 7:  Weeds</td>
-                  <td>$  50</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 6:  Food Service Facilities</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  License Required</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§6-201.">§ 6-201.</cite>  In general</td>
-                  <td>$300</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 5:  Miscellaneous Regulations</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§6-506.">§ 6-506.</cite>  Litter and rubbish prohibited</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§6-508.">§ 6-508.</cite>  Polystyrene foam products</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>All other provisions</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 7:  Waste Control</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Solid Waste Collection</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 4:  Landfills</td>
-                  <td proof="needed"/>
-                  <td>$200</td>
-                </tr>
-                <tr>
-                  <td>Subtitle 6:  Prohibited Disposal</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 7:  Littering</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 8:  Air Pollution</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 9:  Noise Regulation</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Basic Sound Level Standards</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 3:  Entertainment and Commercial Noise</td>
-                  <td>$  50</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 4:  Amplified Sounds in Market Center</td>
-                  <td proof="needed"/>
-                  <td>$  50</td>
-                </tr>
-                <tr>
-                  <td>Title 10:  Animal Control and Protection</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 1:  General Provisions</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-112.">§ 10-112.</cite> Obstructing, etc., officer; False Statements</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Licensing</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Part I.  Dog and Cat Licenses</td>
-                  <td proof="needed"/>
-                  <td>$100</td>
-                </tr>
-                <tr>
-                  <td>Part II.  Facility Licenses</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Animal fanciers</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>All other facilities</td>
-                  <td proof="needed"/>
-                  <td>$250</td>
-                </tr>
-                <tr>
-                  <td>Subtitle 3:  General Care and Control</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-301.">§ 10-301.</cite>  Rabies – Vaccinations</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-302.">§ 10-302.</cite>  Rabies – Possible exposure</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-303.">§ 10-303.</cite>  Humane care required</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-307.">§ 10-307.</cite>  Restraints required</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>1<sup>st</sup> offense</td>
-                  <td proof="needed"/>
-                  <td>$200</td>
-                </tr>
-                <tr>
-                  <td>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup></td>
-                  <td>$400</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup></td>
-                  <td>$600</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-313.">§ 10-313.</cite>  Animal waste</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>All other provisions</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 4:  Animal Protection</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 5: Public Nuisance Animals</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-701.">§ 10-701.</cite>  Attack dogs</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-702.">§ 10-702.</cite>  Dangerous animals</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-706.">§ 10-706.</cite>  Vicious animals – Keeping prohibited</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 9:  Horse Riding and Driving</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td><cite path="§10-918.">§ 10-918.</cite>  Sick or injured horses</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>All other provisions</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 11:  Swimming Pools</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 3:  Public Swimming Pools</td>
-                  <td>$200</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 12:  Tobacco Products and Smoking Devices</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 1:  Indoor Smoking</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Person smoking</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Employer, other person in charge</td>
-                  <td>$750</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Sale of Unpackaged Cigarettes</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 5:  Unlawful Distribution</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 6:  Flavored Tobacco Wrappings</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 7:  Mobile Vendors</td>
-                  <td proof="needed"/>
-                  <td>$500</td>
-                </tr>
-                <tr>
-                  <td>Subtitle 8:  Smoking Near Playgrounds</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 9:  Nicotine Replacement Therapy Products</td>
-                  <td>$100</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 15:  Ephedrine Products</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Distribution to Minors</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 3:  Product Placement</td>
-                  <td>$500</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 16:  Psychoactive Substances</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Subtitle 2:  Prohibited Conduct</td>
-                  <td>$1,000</td>
-                  <td proof="needed"/>
-                </tr>
-                <tr>
-                  <td>Title 19:  Pesticides</td>
-                  <td>$250</td>
-                  <td proof="needed"/>
-                </tr>
-              </tbody>
-            </table>
-          </text>
+          <heading>Health Code</heading>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td colspan="5">Title 3:  Health Facilities</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5:  Limited-Service Pregnancy Centers</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 4:  Disease Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 6:  Screening for Lead Poisoning</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 4-601.  Parental Responsibility</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 5:  Nuisance Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  Nuisance Abatement</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-210.  Abatement notice</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Lead-Based Paint</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 5:  Bodily Wastes</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-501.  Spitting</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-503.  Urinating, etc. - In general</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 5-504.  Urinating, etc. - Parents</td>
+                    <td>$150</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Weeds</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 6:  Food Service Facilities</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  License Required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-201.  In general</td>
+                    <td>$300</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 5:  Miscellaneous Regulations</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-506.  Litter and rubbish prohibited</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 6-508.  Polystyrene foam products</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 7:  Waste Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Solid Waste Collection</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Landfills</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Prohibited Disposal</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Littering</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">Title 8:  Air Pollution</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 9:  Noise Regulation</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Basic Sound Level Standards</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Entertainment and Commercial Noise</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Amplified Sounds in Market Center</td>
+                    <td>$  50</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 10:  Animal Control and Protection</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 1:  General Provisions</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-112. Obstructing, etc., officer; False Statements</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 2:  Licensing</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Part I.  Dog and Cat Licenses</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">Part II.  Facility Licenses</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>Animal fanciers</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>All other facilities</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 3:  General Care and Control</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-301.  Rabies – Vaccinations</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-302.  Rabies – Possible exposure</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-303.  Humane care required</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="3">§ 10-307.  Restraints required</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>1<sup>st</sup> offense</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td>$400</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td> </td>
+                    <td>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td>$600</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-313.  Animal waste</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Animal Protection</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5: Public Nuisance Animals</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-701.  Attack dogs</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-702.  Dangerous animals</td>
+                    <td>$250</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-706.  Vicious animals – Keeping prohibited</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 9:  Horse Riding and Driving</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">§ 10-918.  Sick or injured horses</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">All other provisions</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 11:  Swimming Pools</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Public Swimming Pools</td>
+                    <td>$200</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 12:  Tobacco Products and Smoking Devices</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="4">Subtitle 1:  Indoor Smoking</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Person smoking</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td> </td>
+                    <td colspan="2">Employer, other person in charge</td>
+                    <td>$750</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 5:  Unlawful Distribution</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 6:  Flavored Tobacco Wrappings</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 7:  Mobile Vendors</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 8:  Smoking Near Playgrounds</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 9:  Nicotine Replacement Therapy Products</td>
+                    <td>$100</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 15:  Ephedrine Products</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Distribution to Minors</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 3:  Product Placement</td>
+                    <td>$500</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">Title 16:  Psychoactive Substances</td>
+                  </tr>
+                  <tr>
+                    <td> </td>
+                    <td colspan="3">Subtitle 2:  Prohibited Conduct</td>
+                    <td>$1,000</td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">Title 19:  Pesticides</td>
+                    <td>$250</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
         </para>
-        <text>
-          <em>(City Code, 1976/83, art. 1, §308.) (Ord. 98-326; Ord. 99-487; Ord. 99-491; Ord. 99-520; Ord. 99-547; Ord. 99-548; Ord. 00-030; Ord. 00-069; Ord. 00-118; Ord. 01-172; Ord. 01-176; Ord. 02-322; Ord. 02-475; Ord. 02-476; Ord. 03-572; Ord. 03-621; Ord. 04-672; Ord. 04-854; Ord. 06-183; Ord. 06-205; Ord. 06-232; Ord. 06-247; Ord. 07-392; Ord. 07-424; Ord. 07-430; Ord. 07-623; Ord. 08-040; Ord. 08-058; Ord. 08-063; Ord. 09-100; Ord. 09-113; Ord. 09-148; Ord. 09-169; Ord. 09-171; Ord. 09-172; Ord. 09-175; Ord. 09-217; Ord. 09-232; Ord. 09-234; Ord. 09-241; Ord. 09-252; Ord. 10-268; Ord. 10-340; Ord. 10-342; Ord. 11-414; Ord. 11-478; Ord. 11-520; Ord. 11-523; Ord. 11-529; Ord. 11-572; Ord. 11-573; Ord. 12-046; Ord. 12-061; Ord. 12-065; Ord. 13-093; Ord. 13-098; Ord. 13-111; Ord. 13-157; Ord. 13-161; Ord. 14-208;</em>
-        </text>
-        <text>
-          <em>Ord. 14-212; Ord. 14-237; Ord. 14-310; Ord. 15-389; Ord. 15-427; Ord. 16-440; Ord. 16-545; Ord. 16-581; Ord. 16-587; Ord. 17-015; Ord. 18-125; Ord. 18-130; Ord. 18-182; Ord. 19-217; Ord. 19-218; Ord. 19-251; Ord. 19-263; Ord. 19-264; Ord. 19-265; Ord. 20-338; Ord. 20-340; Ord. 20-337; Ord. 20-361; Ord. 20-364; Ord. 20-364A; Ord. 20-430; Ord. 21-001; Ord. 21-034;</em>
-        </text>
-        <text><em>Ord. 21-039; Ord. 22-110; Ord. 22-124; Ord. 22-133.</em>)</text>
-      </para>
+        <annotation type="History">Ord. 98-326; Ord. 99-487; Ord. 99-491; Ord. 99-520; Ord. 99-547; Ord. 99-548; Ord. 00-030; Ord. 00-069; Ord. 00-118; Ord. 01-172; Ord. 01-176; Ord. 02-322; Ord. 02-475; Ord. 02-476; Ord. 03-572; Ord. 03-621; Ord. 04-672; Ord. 04-854; Ord. 06-183; Ord. 06-205; Ord. 06-232; Ord. 06-247; Ord. 07-392; Ord. 07-424; Ord. 07-430; Ord. 07-623; Ord. 08-040; Ord. 08-058; Ord. 08-063; Ord. 09-100; Ord. 09-113; Ord. 09-148; Ord. 09-169; Ord. 09-171; Ord. 09-172; Ord. 09-175; Ord. 09-217; Ord. 09-232; Ord. 09-234; Ord. 09-241; Ord. 09-252; Ord. 10-268; Ord. 10-340; Ord. 10-342; Ord. 11-414; Ord. 11-478; Ord. 11-520; Ord. 11-523; Ord. 11-529; Ord. 11-572; Ord. 11-573; Ord. 12-046; Ord. 12-061; Ord. 12-065; Ord. 13-093; Ord. 13-098; Ord. 13-111; Ord. 13-157; Ord. 13-161; Ord. 14-208; Ord. 14-212; Ord. 14-237; Ord. 14-310; Ord. 15-389; Ord. 15-427; Ord. 16-440; Ord. 16-545; Ord. 16-581; Ord. 16-587; Ord. 17-015; Ord. 18-125; Ord. 18-130; Ord. 18-182; Ord. 19-217; Ord. 19-218; Ord. 19-251; Ord. 19-263; Ord. 19-264; Ord. 19-265; Ord. 20-338; Ord. 20-340; Ord. 20-337; Ord. 20-361; Ord. 20-364; Ord. 20-364A; Ord. 20-430; Ord. 21-001; Ord. 21-034; Ord. 21-039; Ord. 22-110; Ord. 22-124; Ord. 22-133</annotation>
+        <annotation type="History">City Code, 1976/83, art. 1, §308</annotation>
     </section>
   </container>
 </container>
