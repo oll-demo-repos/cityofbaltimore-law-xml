@@ -60,7 +60,7 @@
         <annotation type="History">City Code, 1927, art. 1, §§32, 33, 42; 1950, art. 1, §4; 1966, art. 1, §3; 1976/83, art. 1, §3.) (Ord. 05-011; Ord. 08-140; Ord. 50-1217; Ord. 70-809; Ord. 80-151; Ord. 99-947; Ord. 09-217</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§1-4">
       <num>1-4</num>
       <heading>Committee on Legislative Investigations.</heading>
       <para>
@@ -98,7 +98,7 @@
         <heading>Oaths and subpoenas.</heading>
         <para>
           <num>(1)</num>
-          <text>In undertaking any study or investigation under this section, the Committee may:</text>
+          <text>In undertaking any study or investigation under <cite path="§1-4">this section</cite>, the Committee may:</text>
           <para>
             <num>(i)</num>
             <text>on motion approved by a majority of its members, issue subpoenas:</text>
@@ -144,7 +144,7 @@
       <para>
         <num>(e)</num>
         <heading>Service of subpoena.</heading>
-        <text>A subpoena issued under this section shall be served:</text>
+        <text>A subpoena issued under <cite path="§1-4">this section</cite> shall be served:</text>
         <para>
           <num>(1)</num>
           <text>in the manner provided by law for service of a subpoena in a civil action;</text>
@@ -166,7 +166,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>a copy of this section and of any rules adopted by the Committee under this section.</text>
+            <text>a copy of <cite path="§1-4">this section</cite> and of any rules adopted by the Committee under <cite path="§1-4">this section</cite>.</text>
           </para>
         </para>
       </para>
@@ -175,7 +175,7 @@
         <heading>Enforcement of oaths and subpoenas.</heading>
         <para>
           <num>(1)</num>
-          <text>If a person subpoenaed under this section fails to comply with the subpoena or fails to testify on any matter on which the person may be lawfully interrogated:</text>
+          <text>If a person subpoenaed under <cite path="§1-4">this section</cite> fails to comply with the subpoena or fails to testify on any matter on which the person may be lawfully interrogated:</text>
           <para>
             <num>(i)</num>
             <text>the Committee may petition the Circuit Court of Baltimore City to order compliance with the subpoena; and</text>
@@ -203,17 +203,17 @@
         <heading>Committee rules.</heading>
         <para>
           <num>(1)</num>
-          <text>The Committee may adopt rules to govern its procedures under this section, including the conduct of hearings under this section.</text>
+          <text>The Committee may adopt rules to govern its procedures under <cite path="§1-4">this section</cite>, including the conduct of hearings under <cite path="§1-4">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>These rules may not be inconsistent with the provisions of this section or of any other applicable law.</text>
+          <text>These rules may not be inconsistent with the provisions of <cite path="§1-4">this section</cite> or of any other applicable law.</text>
         </para>
       </para>
       <para>
         <num>(h)</num>
         <heading>Reports and recommendations.</heading>
-        <text>On completion of a study or investigation under this section, the Committee shall report to the members of the City Council, the Mayor, and the Board of Estimates:</text>
+        <text>On completion of a study or investigation under <cite path="§1-4">this section</cite>, the Committee shall report to the members of the City Council, the Mayor, and the Board of Estimates:</text>
         <para>
           <num>(1)</num>
           <text>the results of that study or investigation; and</text>
@@ -274,7 +274,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §6.) (Ord. 76-080</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§1-7">
       <num>1-7</num>
       <heading>Disorderly conduct prohibited.</heading>
       <para>
@@ -287,11 +287,11 @@
         <heading>Penalties.</heading>
         <para>
           <num>(1)</num>
-          <text>Any person who continues to violate the prohibitions of this section after a request for order by the presiding officer shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of  not more than $500 or be confined in jail for a period of not more than 60 days or be both fined and imprisoned in the discretion of the court.</text>
+          <text>Any person who continues to violate the prohibitions of <cite path="§1-7">this section</cite> after a request for order by the presiding officer shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be subject to a fine of  not more than $500 or be confined in jail for a period of not more than 60 days or be both fined and imprisoned in the discretion of the court.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Any person violating the provisions of this section after having been convicted of a prior violation of this section  occurring within the preceding 12 months shall be fined not less than $100 for each violation and may be imprisoned for not more than 10 days if the fine is not paid.</text>
+          <text>Any person violating the provisions of <cite path="§1-7">this section</cite> after having been convicted of a prior violation of <cite path="§1-7">this section</cite>  occurring within the preceding 12 months shall be fined not less than $100 for each violation and may be imprisoned for not more than 10 days if the fine is not paid.</text>
         </para>
       </para>
       <annotations>
@@ -418,7 +418,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in § 2-2 of this subtitle.</text>
+            <text>shall have such qualifications, duties, and responsibilities as may be prescribed from time to time by the Oversight Committee as provided in <cite path="§2-2">§ 2-2</cite> of this subtitle.</text>
           </para>
         </para>
         <para>
@@ -429,7 +429,7 @@
       <para>
         <num>(b)</num>
         <heading>Reports.</heading>
-        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to § 2-2 of this subtitle.</text>
+        <text>The Director shall report to the Oversight Committee concerning the operations of the Office of Council Services in a manner specified in the policies and procedures adopted by the Council pursuant to <cite path="§2-2">§ 2-2</cite> of this subtitle.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -521,7 +521,7 @@
     <section>
       <num>3-3</num>
       <heading>Resolution required.</heading>
-      <text>None of the items of expense embraced in § 3-2 of this subtitle shall be paid unless authorized by resolution or resolutions of the City Council.</text>
+      <text>None of the items of expense embraced in <cite path="§3-2">§ 3-2</cite> of this subtitle shall be paid unless authorized by resolution or resolutions of the City Council.</text>
       <annotations>
         <annotation type="History">City Code, 1893, art. 1, §34; 1927, art. 1, §46; 1950, art. 1, §7; 1966, art. 1, §10; 1976/83, art. 1, §13.) (Ord. 1881-056</annotation>
       </annotations>
@@ -532,7 +532,7 @@
       <text>All bills of expenses:</text>
       <para>
         <num>(1)</num>
-        <text>shall be presented to the City Council, whether incurred by special or standing committees of the Council or officers of the body, in virtue of § 3-3; and</text>
+        <text>shall be presented to the City Council, whether incurred by special or standing committees of the Council or officers of the body, in virtue of <cite path="§3-3">§ 3-3</cite>; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -556,7 +556,7 @@
     <prefix>Subtitle</prefix>
     <num>5</num>
     <heading>Claims and Litigation</heading>
-    <section>
+    <section cache:ref-path="§5-1">
       <num>5-1</num>
       <heading>Definitions.</heading>
       <para>
@@ -631,7 +631,7 @@
         <para>
           <num>(2)</num>
           <heading>Inclusions.</heading>
-          <text>"Employee" also means an employee of any agency or board included within the scope of subsection (b) {"Agency"} of this section.</text>
+          <text>"Employee" also means an employee of any agency or board included within the scope of <cite path="§5-1|(b)">subsection (b)</cite> {"Agency"} of <cite path="§5-1">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -677,7 +677,7 @@
         <para>
           <num>(2)</num>
           <heading>Inclusions.</heading>
-          <text>"Official" also includes the Chief Executive Officer, Chief Operating Officer, Chief Financial Officer, Executive Director, Executive Secretary, or Administrator of any agency or board included within the scope of subsection (b) {"Agency"} of this section.</text>
+          <text>"Official" also includes the Chief Executive Officer, Chief Operating Officer, Chief Financial Officer, Executive Director, Executive Secretary, or Administrator of any agency or board included within the scope of <cite path="§5-1|(b)">subsection (b)</cite> {"Agency"} of <cite path="§5-1">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -703,7 +703,7 @@
         <annotation type="History">Ord. 19-320; Ord.  22-125</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§5-2">
       <num>5-2</num>
       <heading>Website reports – Civil actions involving alleged police misconduct.</heading>
       <para>
@@ -747,7 +747,7 @@
       <para>
         <num>(c)</num>
         <heading>Time and scope of report.</heading>
-        <text>The semi-annual reports required under this section must be posted as follows:</text>
+        <text>The semi-annual reports required under <cite path="§5-2">this section</cite> must be posted as follows:</text>
         <para>
           <num>(i)</num>
           <text>on or before July 31, covering the preceding five-year period through June 30 prior to the report date; and</text>
@@ -761,7 +761,7 @@
         <annotation type="History">Ord. 19-320</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§5-3">
       <num>5-3</num>
       <heading>Website reports – Civil actions involving unlawful discrimination.</heading>
       <para>
@@ -805,7 +805,7 @@
       <para>
         <num>(c)</num>
         <heading>Time and scope of report.</heading>
-        <text>The semi-annual reports required under this section must be posted as follows:</text>
+        <text>The semi-annual reports required under <cite path="§5-3">this section</cite> must be posted as follows:</text>
         <para>
           <num>(i)</num>
           <text>on or before July 31, covering the preceding five-year period through June 30 prior to the report date; and</text>
@@ -819,13 +819,13 @@
         <annotation type="History">Ord. 19-320</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§5-4">
       <num>5-4</num>
       <heading>Reports to City Council on significant litigation.</heading>
       <para>
         <num>(a)</num>
         <heading>Significant litigation defined.</heading>
-        <text>In this section, "significant litigation" means:</text>
+        <text>In <cite path="§5-4">this section</cite>, "significant litigation" means:</text>
         <para>
           <num>(1)</num>
           <text>any suit, action, or legal proceeding in a state or federal court;</text>
@@ -881,7 +881,7 @@
         <annotation type="History">Ord. 19-320</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§5-5">
       <num>5-5</num>
       <heading>Certain non-disparagement clauses prohibited.</heading>
       <para>
@@ -937,7 +937,7 @@
       <para>
         <num>(c)</num>
         <heading>Enforcement prohibited.</heading>
-        <text>The Baltimore City Department of Law may not enforce or threaten to enforce any provision in a previously executed settlement agreement that would be prohibited under this section.</text>
+        <text>The Baltimore City Department of Law may not enforce or threaten to enforce any provision in a previously executed settlement agreement that would be prohibited under <cite path="§5-5">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 19-320</annotation>
@@ -994,7 +994,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §64.) (Ord. 71-1006; Ord. 13-175</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§6-3">
       <num>6-3</num>
       <heading>Yearly meetings required.</heading>
       <para>
@@ -1010,7 +1010,7 @@
       <para>
         <num>(c)</num>
         <heading>Exception.</heading>
-        <text>The provisions of this section shall not apply to the Board of Estimates.</text>
+        <text>The provisions of <cite path="§6-3">this section</cite> shall not apply to the Board of Estimates.</text>
       </para>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §65.) (Ord. 72-181</annotation>
@@ -1024,7 +1024,7 @@
         <annotation type="History">Ord. 08-008</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§6-4">
       <num>6-4</num>
       <heading>Notice of meetings.</heading>
       <para>
@@ -1067,7 +1067,7 @@
       <para>
         <num>(d)</num>
         <heading>Failure to comply.</heading>
-        <text>If any department, board, or commission fails to furnish written notice of meetings as provided in this section, such meeting will be deemed to have no legal standing.</text>
+        <text>If any department, board, or commission fails to furnish written notice of meetings as provided in <cite path="§6-4">this section</cite>, such meeting will be deemed to have no legal standing.</text>
       </para>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §66.) (Ord. 72-181</annotation>
@@ -1095,7 +1095,7 @@
       <heading>{Repealed}</heading>
     </section>
     <annotations>
-      <annotation type="Editor's Notes">State law imposes greater restraints than does the ensuing § 6-1 on the authority of public bodies to meet in "executive session". The State law also contains provisions governing notices, minutes, and the like.  See generally State General Provisions Article, Title 3 {"State Open Meetings Act"}</annotation>
+      <annotation type="Editor's Notes">State law imposes greater restraints than does the ensuing <cite path="§6-1">§ 6-1</cite> on the authority of public bodies to meet in "executive session". The State law also contains provisions governing notices, minutes, and the like.  See generally State General Provisions Article, Title 3 {"State Open Meetings Act"}.</annotation>
     </annotations>
   </container>
   <container>
@@ -1126,7 +1126,7 @@
         <annotation type="History">City Code, 1879, art. 1, §47; 1893, art. 1, §52; 1927, art. 1, §61; 1950, art. 1, §10; 1966, art. 1, §12; 1976/83, art. 1, §15.) (Ord. 1863-058</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§7-2">
       <num>7-2</num>
       <heading>Registration with Selective Service System.</heading>
       <para>
@@ -1137,7 +1137,7 @@
       <para>
         <num>(b)</num>
         <heading>Employment conditioned on compliance.</heading>
-        <text>A male born after December 31, 1959, may not be employed by the City until any documentation required by subsection (a) of this section has been submitted.</text>
+        <text>A male born after December 31, 1959, may not be employed by the City until any documentation required by <cite path="§7-2|(a)">subsection (a)</cite> of <cite path="§7-2">this section</cite> has been submitted.</text>
       </para>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §15A.) (Ord. 98-328</annotation>
@@ -1193,7 +1193,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §16A.) (Ord. 82-635</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§7-7">
       <num>7-7</num>
       <heading>Residence address.</heading>
       <para>
@@ -1209,16 +1209,16 @@
       <para>
         <num>(c)</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out this section.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance must adopt rules and regulations to carry out <cite path="§7-7">this section</cite>.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§7-7">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </para>
       <annotations>
         <annotation type="History">Ord. 01-244; Text Conformed 02/09/21</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§7-8">
       <num>7-8</num>
       <heading>Hiring preference for persons with disabilities.</heading>
       <para>
@@ -1240,7 +1240,7 @@
       <para>
         <num>(b)</num>
         <heading>"Disability" defined.</heading>
-        <text>In this section, "disability" has the meaning stated in the Americans with Disabilities Act, 42 USCS  § 12101 et seq.</text>
+        <text>In <cite path="§7-8">this section</cite>, "disability" has the meaning stated in the Americans with Disabilities Act, 42 USCS  § 12101 et seq.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1250,7 +1250,7 @@
       <para>
         <num>(d)</num>
         <heading>Contents of standards.</heading>
-        <text>The standards adopted under this section:</text>
+        <text>The standards adopted under <cite path="§7-8">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>must define a person with a disability eligible for the preference as:</text>
@@ -1283,7 +1283,7 @@
       <para>
         <num>(e)</num>
         <heading>Limitation of preference.</heading>
-        <text>The standards adopted under this section may apply the preference to an applicant only after the applicant has been ranked among the highest in merit-based examinations.</text>
+        <text>The standards adopted under <cite path="§7-8">this section</cite> may apply the preference to an applicant only after the applicant has been ranked among the highest in merit-based examinations.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 11-424</annotation>
@@ -1293,7 +1293,7 @@
       <num>7-9</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§7-10">
       <num>7-10</num>
       <heading>Residency requirements – City officials generally.</heading>
       <para>
@@ -1302,7 +1302,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>In this section, the following terms have the meanings indicated.</text>
+          <text>In <cite path="§7-10">this section</cite>, the following terms have the meanings indicated.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1329,7 +1329,7 @@
         <text>Every official:</text>
         <para>
           <num>(1)</num>
-          <text>must be a resident and registered voter of Baltimore City at the time of his or her appointment, except only as otherwise authorized by subsection (c) of this section; and</text>
+          <text>must be a resident and registered voter of Baltimore City at the time of his or her appointment, except only as otherwise authorized by <cite path="§7-10|(c)">subsection (c)</cite> of <cite path="§7-10">this section</cite>; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1342,7 +1342,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>Subsection (b)(1) of this section does not apply to an official who, before her or his appointment, signs a declaration of intent to become a City resident and registered voter within 6 months of the effective date of her or his appointment.</text>
+          <text><cite path="§7-10|(b)|(1)">Subsection (b)(1)</cite> of <cite path="§7-10">this section</cite> does not apply to an official who, before her or his appointment, signs a declaration of intent to become a City resident and registered voter within 6 months of the effective date of her or his appointment.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1376,18 +1376,18 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>as added by Chapter 776, Acts of 2017, "an at-will supervisory employee [who] reports directly to the head of a unit".  {LG § 1-201(a) and(b)(1)}.</text>
-        <text>This § 7-10 was enacted by Ordinance 18-111, effective April 26, 2018, in accord with and by authority of LG § 1-201, as amended by Ch. 776, Acts of 2017.  Section 2 of Ord. 18-111 (based on Section 2 of Ch. 776) contains the following "grandfather clause":</text>
+        <text>as added by Chapter 776, Acts of 2017, "an at-will supervisory employee [who] reports directly to the head of a unit".  {LG <cite path="§1-201|(a)">§ 1-201(a)</cite> and(b)(1)}.</text>
+        <text>This <cite path="§7-10">§ 7-10</cite> was enacted by Ordinance 18-111, effective April 26, 2018, in accord with and by authority of LG <cite path="§1-201">§ 1-201</cite>, as amended by Ch. 776, Acts of 2017.  Section 2 of Ord. 18-111 (based on Section 2 of Ch. 776) contains the following "grandfather clause":</text>
         <text>[T]his Ordinance applies only prospectively and may not be applied or interpreted to have any effect on or application to the continued employment at the same level of any individual who, before the effective date of this Ordinance, is employed by the City as an "official", as that term is defined in this Ordinance.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 18-111; Ord. 20-415</annotation>
       </annotations>
       <annotations>
-        <annotation type="Editor's Notes">State Local Government Article ("LG") § 1-201 generally prohibits "a county or municipality [from] requir[ing] an employee to reside within the State, county, or municipality ... as a condition of employment" {LG § 1-201(b)(1)}, subject only to exceptions for:</annotation>
+        <annotation type="Editor's Notes">State Local Government Article ("LG") <cite path="§1-201">§ 1-201</cite> generally prohibits "a county or municipality [from] requir[ing] an employee to reside within the State, county, or municipality ... as a condition of employment" {LG <cite path="§1-201|(b)|(1)">§ 1-201(b)(1)</cite>}, subject only to exceptions for:</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§7-11">
       <num>7-11</num>
       <heading>Residency requirements – Police Department command staff.</heading>
       <para>
@@ -1396,7 +1396,7 @@
         <para>
           <num>(1)</num>
           <heading>In general.</heading>
-          <text>In this section, the following terms have the meanings indicated.</text>
+          <text>In <cite path="§7-11">this section</cite>, the following terms have the meanings indicated.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1419,7 +1419,7 @@
         <para>
           <num>(1)</num>
           <heading>Scope.</heading>
-          <text>Nothing in this section applies to a command staff member who:</text>
+          <text>Nothing in <cite path="§7-11">this section</cite> applies to a command staff member who:</text>
           <para>
             <num>(i)</num>
             <text>on January 1, 2022, held the rank of colonel; and</text>
@@ -1433,7 +1433,7 @@
         <para>
           <num>(2)</num>
           <heading>In general.</heading>
-          <text>Except as provided in subsection (c) of this section, each command staff member must:</text>
+          <text>Except as provided in <cite path="§7-11|(c)">subsection (c)</cite> of <cite path="§7-11">this section</cite>, each command staff member must:</text>
           <para>
             <num>(i)</num>
             <text>be a resident and registered voter of Baltimore City at the time of the command staff member's appointment; and</text>
@@ -1452,12 +1452,12 @@
       <para>
         <num>(c)</num>
         <heading>Waiver of residency requirements.</heading>
-        <text>If a command staff member is married to an individual who is employed by a governmental entity that has similar residency requirements as those in subsection (b) of this section, the Police Commissioner or the Police Commissioner's designee may grant that command staff member a waiver from the requirements in subsection (b) of this section.</text>
+        <text>If a command staff member is married to an individual who is employed by a governmental entity that has similar residency requirements as those in <cite path="§7-11|(b)">subsection (b)</cite> of <cite path="§7-11">this section</cite>, the Police Commissioner or the Police Commissioner's designee may grant that command staff member a waiver from the requirements in <cite path="§7-11|(b)">subsection (b)</cite> of <cite path="§7-11">this section</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>Termination for failure to comply.</heading>
-        <text>If a command staff member fails to comply with this section the command staff member is automatically terminated.</text>
+        <text>If a command staff member fails to comply with <cite path="§7-11">this section</cite> the command staff member is automatically terminated.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -1473,7 +1473,7 @@
         <annotation type="History">Ord. 20-415</annotation>
       </annotations>
       <annotations>
-        <annotation type="Editor's Notes">This § 7-11 was enacted by Ordinance 20-415, effective January 1, 2022, in accord with and by authority of the PLL of Baltimore City § 16-1(6), (7), and (8), and § 16-2A, as amended by Ch.  512, Acts of 2020.  Section 2 of Ord. 20-415 contains the following "grandfather clause":</annotation>
+        <annotation type="Editor's Notes">This <cite path="§7-11">§ 7-11</cite> was enacted by Ordinance 20-415, effective January 1, 2022, in accord with and by authority of the PLL of Baltimore City <cite path="§16-1|(6)">§ 16-1(6)</cite>, (7), and (8), and <cite path="§16-2">§ 16-2</cite>A, as amended by Ch.  512, Acts of 2020.  Section 2 of Ord. 20-415 contains the following "grandfather clause":</annotation>
       </annotations>
     </section>
   </container>
@@ -1614,7 +1614,7 @@
       <num>8-2</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§8-3">
       <num>8-3</num>
       <heading>Whistleblower protection against retaliatory personnel action.</heading>
       <para>
@@ -1625,7 +1625,7 @@
       <para>
         <num>(b)</num>
         <heading>Exceptions.</heading>
-        <text>This section  does not prohibit a supervisor from taking any personnel action against a whistleblower if the supervisor would have taken the personnel action regardless of whether the employee made the covered disclosure.</text>
+        <text><cite path="§8-3">This section</cite>  does not prohibit a supervisor from taking any personnel action against a whistleblower if the supervisor would have taken the personnel action regardless of whether the employee made the covered disclosure.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 19-308</annotation>
@@ -1635,24 +1635,24 @@
       <num>8-4</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§8-5">
       <num>8-5</num>
       <heading>Applicability of complaint procedures.</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>This complaint procedures provisions in § 8-6 et seq. of this subtitle do not apply to any non-probationary member of the Civil Service who has been discharged from the Civil Service, reduced in pay or position, or suspended for longer than 30 days.</text>
+        <text>This complaint procedures provisions in <cite path="§8-6">§ 8-6</cite> et seq. of this subtitle do not apply to any non-probationary member of the Civil Service who has been discharged from the Civil Service, reduced in pay or position, or suspended for longer than 30 days.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Jurisdiction of Civil Service Commission.</heading>
         <para>
           <num>(1)</num>
-          <text>The Civil Service Commission has jurisdiction over personnel actions described in subsection (a) of this section, as provided in City Charter Article VII §§ 94 through 104.</text>
+          <text>The Civil Service Commission has jurisdiction over personnel actions described in <cite path="§8-5|(a)">subsection (a)</cite> of <cite path="§8-5">this section</cite>, as provided in City Charter Article VII §§ 94 through 104.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by Article X of the Charter of Baltimore City.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of § 8-3 of this subtitle.</text>
+          <text>On the Civil Service Commission's request, the Office of the Inspector General may investigate allegations made to the Civil Service Commission regarding retaliatory personnel actions and provide the Office's findings to the Commission at or before a Commission hearing to the extent permitted by Article X of the Charter of Baltimore City.  The Inspector General's findings shall state whether the Inspector General believes the personnel actions were in violation of <cite path="§8-3">§ 8-3</cite> of this subtitle.</text>
         </para>
       </para>
       <para>
@@ -1660,18 +1660,18 @@
         <heading>Civil Service Commission findings.</heading>
         <para>
           <num>(1)</num>
-          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle.</text>
+          <text>During a Civil Service Commission hearing, the Commission may find that the personnel action described in <cite path="§8-5|(a)">subsection (a)</cite> of <cite path="§8-5">this section</cite> violates <cite path="§8-3">§ 8-3</cite> of this subtitle.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If the Commission finds that the personnel action described in subsection (a) of this section violates § 8-3 of this subtitle, this finding may be considered by the Commission in disposing of the matter before it.</text>
+          <text>If the Commission finds that the personnel action described in <cite path="§8-5|(a)">subsection (a)</cite> of <cite path="§8-5">this section</cite> violates <cite path="§8-3">§ 8-3</cite> of this subtitle, this finding may be considered by the Commission in disposing of the matter before it.</text>
         </para>
       </para>
       <annotations>
         <annotation type="History">Ord. 19-308</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§8-6">
       <num>8-6</num>
       <heading>Complaint process.</heading>
       <para>
@@ -1691,11 +1691,11 @@
         <heading>Personnel officer's responsibilities.</heading>
         <para>
           <num>(1)</num>
-          <text>Within 5 business days after receiving a complaint under this section, the personnel officer who received the complaint must give the whistleblower written notice of the complaint's receipt.</text>
+          <text>Within 5 business days after receiving a complaint under <cite path="§8-6">this section</cite>, the personnel officer who received the complaint must give the whistleblower written notice of the complaint's receipt.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Within 10 business days after receiving a complaint under this section, the personnel officer who received the complaint must notify the agency head or the appropriate appointing authority of the agency to the complaint <em>{sic}</em>.</text>
+          <text>Within 10 business days after receiving a complaint under <cite path="§8-6">this section</cite>, the personnel officer who received the complaint must notify the agency head or the appropriate appointing authority of the agency to the complaint <em>{sic}</em>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1753,7 +1753,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An appeal filed with the Inspector General under either paragraph (1)(i) or paragraph (1)(ii) of this subsection must be filed within 30 days from when the personnel officer should have presented or actually presented the whistleblower with the written findings of the personnel officer's investigation.</text>
+          <text>An appeal filed with the Inspector General under either paragraph (1)(i) or paragraph (1)(ii) of this <cite path="§8-6">subsection </cite>must be filed within 30 days from when the personnel officer should have presented or actually presented the whistleblower with the written findings of the personnel officer's investigation.</text>
         </para>
       </para>
       <annotations>
@@ -1766,7 +1766,7 @@
       <para>
         <num>(a)</num>
         <heading>Notice of receipt of complaint.</heading>
-        <text>Within 5 business days after receiving a written complaint or appeal under § 8-6(c) or (f) of this subtitle, the Office of the Inspector General must give the whistleblower written notice of the complaint's or appeal's receipt.</text>
+        <text>Within 5 business days after receiving a written complaint or appeal under <cite path="§8-6|(c)">§ 8-6(c)</cite> or (f) of this subtitle, the Office of the Inspector General must give the whistleblower written notice of the complaint's or appeal's receipt.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1846,12 +1846,12 @@
       <num>8-9</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§8-10">
       <num>8-10</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Inspector General must adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of <cite path="§8-10">this section</cite> to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
       <annotations>
         <annotation type="History">Ord. 19-308; Text Conformed 02/09/21</annotation>
@@ -1994,7 +1994,7 @@
       <para>
         <num>(h)</num>
         <heading>Protected information.</heading>
-        <text>"Protected information" means any dataset or part of a dataset to which an agency is required or authorized to deny access pursuant to the Maryland Public Information Act (Title 4 of the State Code General Provisions Article) or any other applicable law.</text>
+        <text>"Protected information" means any dataset or part of a dataset to which an agency is required or authorized to deny access pursuant to the Maryland Public Information Act (<cite doc="Md. Code" path="ggp">Title 4 of the State Code General Provisions Article</cite>) or any other applicable law.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -2010,12 +2010,12 @@
         <annotation type="History">Ord. 16-463</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§9-2">
       <num>9-2</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City's Chief Data Officer may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of <cite path="§9-2">this section</cite> to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
       <annotations>
         <annotation type="History">Ord. 16-463; Text Conformed 05/5/21</annotation>
@@ -2181,7 +2181,7 @@
       <num>9-10 to 9-14</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§9-15">
       <num>9-15</num>
       <heading>Program disclaimers.</heading>
       <para>
@@ -2216,7 +2216,7 @@
       <para>
         <num>(d)</num>
         <heading>Display of disclaimers.</heading>
-        <text>The City shall conspicuously publish on the Open Data Portal the disclaimers contained in subsections (a) through (c) of this section.</text>
+        <text>The City shall conspicuously publish on the Open Data Portal the disclaimers contained in subsections (a) through (c) of <cite path="§9-15">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 16-463</annotation>
@@ -2339,7 +2339,7 @@
       <para>
         <num>(h)</num>
         <heading>State Archivist.</heading>
-        <text>"State Archivist" means the individual appointed under Maryland State Government Article, § 9-1005, or that individual's designee.</text>
+        <text>"State Archivist" means the individual appointed under <cite doc="Md. Code" path="gsg|9-1005">Maryland State Government Article, § 9-1005</cite>, or that individual's designee.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 20-407; Ord. 22-125</annotation>
@@ -2361,7 +2361,7 @@
         <annotation type="History">Ord. 20-407</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§10-6">
       <num>10-6</num>
       <heading>City Records Management Officer: Duties.</heading>
       <para>
@@ -2416,7 +2416,7 @@
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the City Records Management Officer must adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§10-6">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </para>
       <annotations>
@@ -2460,18 +2460,18 @@
         <annotation type="History">Ord. 20-407</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§10-10">
       <num>10-10</num>
       <heading>Disposal of records.</heading>
       <para>
         <num>(a)</num>
         <heading>Scope of section.</heading>
-        <text>Nothing in this section applies to any record that has been transferred to the custody of the Maryland State Archives.</text>
+        <text>Nothing in <cite path="§10-10">this section</cite> applies to any record that has been transferred to the custody of the Maryland State Archives.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>In general.</heading>
-        <text>Except as provided in this section or in an approved Record Retention and Disposition Schedule, records created or received by an agency in the course of official City business are the property of the Mayor and City Council of Baltimore and may not be destroyed, sold, transferred, or otherwise disposed of.</text>
+        <text>Except as provided in <cite path="§10-10">this section</cite> or in an approved Record Retention and Disposition Schedule, records created or received by an agency in the course of official City business are the property of the Mayor and City Council of Baltimore and may not be destroyed, sold, transferred, or otherwise disposed of.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2495,11 +2495,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The Certificate of Disposal required by this section must set forth a list of the disposed records and a certification that the records were disposed of in accordance with this subtitle.</text>
+          <text>The Certificate of Disposal required by <cite path="§10-10">this section</cite> must set forth a list of the disposed records and a certification that the records were disposed of in accordance with this subtitle.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>The City Records Management Officer shall transmit a copy of any Certificate of Disposal received under this subsection to the State Archivist.</text>
+          <text>The City Records Management Officer shall transmit a copy of any Certificate of Disposal received under this <cite path="§10-10">subsection </cite>to the State Archivist.</text>
         </para>
       </para>
       <para>
@@ -3145,7 +3145,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §143.) (Ord. 67-1091; Ord. 68-152; Ord. 75-816; Ord. 79-1210; Ord. 99-526; Ord. 15-435</annotation>
       </annotations>
       <annotations>
-        <annotation type="Editor's Notes">Ord. 15-435 repealed §§ 17-3 through 17-7, which described no-longer extant Bureaus, and renumbered § 17-8 to be § 17-3</annotation>
+        <annotation type="Editor's Notes">Ord. 15-435 repealed §<cite path="§17-3">§ 17-3</cite> through 17-7, which described no-longer extant Bureaus, and renumbered <cite path="§17-8">§ 17-8</cite> to be <cite path="§17-3.">§ 17-3.</cite></annotation>
       </annotations>
     </section>
     <section>
@@ -3195,7 +3195,7 @@
       <para>
         <num>(a)</num>
         <heading>Designation of initial Director.</heading>
-        <text>The Director of said Office initially shall be the same person who is, at the time of the passage of this ordinance, Director of the Civil Defense Division of the Fire Department; and also the same person appointed as Civil Defense Director of Baltimore City by the Governor, upon recommendation of the Mayor of said City, as provided by Article 16A, § 7 of the Maryland Code.</text>
+        <text>The Director of said Office initially shall be the same person who is, at the time of the passage of this ordinance, Director of the Civil Defense Division of the Fire Department; and also the same person appointed as Civil Defense Director of Baltimore City by the Governor, upon recommendation of the Mayor of said City, as provided by <cite path="16">Article 16</cite>A, § 7 of the Maryland Code.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3581,13 +3581,13 @@
         <annotation type="History">City Code, 1976/83, art. 1, §184.) (Ord. 83-955; Ord. 06-359</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§20-6">
       <num>20-6</num>
       <heading>Powers and duties.</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The Baltimore City Commission for Women shall undertake the activities described in this section.</text>
+        <text>The Baltimore City Commission for Women shall undertake the activities described in <cite path="§20-6">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3707,7 +3707,7 @@
       <para>
         <num>(e)</num>
         <heading>Neighborhood Block Watch block or area.</heading>
-        <text>"Neighborhood Block Watch block or area" shall mean a block or an area designated in an application filed pursuant to § 21-3 in which signs provided for in this subtitle may be erected.</text>
+        <text>"Neighborhood Block Watch block or area" shall mean a block or an area designated in an application filed pursuant to <cite path="§21-3">§ 21-3</cite> in which signs provided for in this subtitle may be erected.</text>
       </para>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §191.) (Ord. 82-696</annotation>
@@ -3984,7 +3984,7 @@
           <annotation type="History">City Code, 1976/83, art. 1, §211(a)(1) - (3).) (Ord. 86-781; Ord. 04-820; Ord. 12-003</annotation>
         </annotations>
       </section>
-      <section>
+      <section cache:ref-path="§22-6">
         <num>22-6</num>
         <heading>Terms, organization, meetings, etc.</heading>
         <para>
@@ -4049,7 +4049,7 @@
           <heading>Rules and regulations.</heading>
           <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Commission may adopt rules and regulations to govern its meetings and operations.</text>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§22-6">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </para>
         <annotations>
@@ -4476,7 +4476,7 @@
           <annotation type="History">Ord. 20-341</annotation>
         </annotations>
       </section>
-      <section>
+      <section cache:ref-path="§22-21">
         <num>22-21</num>
         <heading>Trauma-informed care training.</heading>
         <para>
@@ -4485,7 +4485,7 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>In this section, the following terms have the meanings indicated.</text>
+            <text>In <cite path="§22-21">this section</cite>, the following terms have the meanings indicated.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4628,17 +4628,17 @@
           <heading>Departmental cooperation.</heading>
           <para>
             <num>(1)</num>
-            <text>The Baltimore City Department of Health shall provide any technical advisory support to designated agency staff in order for those individuals to carry out their duties under subsection (c)(1) of this section.</text>
+            <text>The Baltimore City Department of Health shall provide any technical advisory support to designated agency staff in order for those individuals to carry out their duties under <cite path="§22-21|(c)|(1)">subsection (c)(1)</cite> of <cite path="§22-21">this section</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Department of Human Resources shall ensure compliance with the requirements of this section and report to the Task Force as necessary any difficulties regarding agency implementation.</text>
+            <text>The Department of Human Resources shall ensure compliance with the requirements of <cite path="§22-21">this section</cite> and report to the Task Force as necessary any difficulties regarding agency implementation.</text>
           </para>
         </para>
         <para>
           <num>(e)</num>
           <heading>Progress report to Task Force.</heading>
-          <text>On or before March 31 of each year, each agency head shall submit to the Task Force a progress report detailing its agency's progress and compliance with subsection (c) of this section.</text>
+          <text>On or before March 31 of each year, each agency head shall submit to the Task Force a progress report detailing its agency's progress and compliance with <cite path="§22-21|(c)">subsection (c)</cite> of <cite path="§22-21">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 20-341</annotation>
@@ -4650,11 +4650,11 @@
         <text>On or before June 30 of each year, utilizing its established evaluation and assessment metrics and its expertise, the Task Force shall submit a report to the Mayor and City Council containing:</text>
         <para>
           <num>(1)</num>
-          <text>an assessment of the implementation of trauma-informed care within each agency as defined in § 22-21(a)(2) of this subtitle;</text>
+          <text>an assessment of the implementation of trauma-informed care within each agency as defined in <cite path="§22-21|(a)|(2)">§ 22-21(a)(2)</cite> of this subtitle;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>an assessment of the trauma-responsiveness of each agency as defined in § 22-21(a)(2) of this subtitle; and</text>
+          <text>an assessment of the trauma-responsiveness of each agency as defined in <cite path="§22-21|(a)|(2)">§ 22-21(a)(2)</cite> of this subtitle; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -4731,7 +4731,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §243.) (Ord. 93-237</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§23-4">
       <num>23-4</num>
       <heading>Members; associates.</heading>
       <para>
@@ -4771,7 +4771,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Each member appointed under paragraph (1)(iii)C of this subsection must work or reside in the City.</text>
+          <text>Each member appointed under paragraph (1)(iii)C of this <cite path="§23-4">subsection </cite>must work or reside in the City.</text>
         </para>
       </para>
       <para>
@@ -4903,7 +4903,7 @@
         <heading>Officers.</heading>
         <para>
           <num>(1)</num>
-          <text>The Mayor shall designate an appointed member, representing the membership category identified in § 23-4(a)(3)(i), as Chair of the Commission.</text>
+          <text>The Mayor shall designate an appointed member, representing the membership category identified in <cite path="§23-4|(a)|(3)|(i)">§ 23-4(a)(3)(i)</cite>, as Chair of the Commission.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5204,7 +5204,7 @@
         <annotation type="History">Ord. 09-101</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§25-6">
       <num>25-6</num>
       <heading>Rules and regulations.</heading>
       <para>
@@ -5232,7 +5232,7 @@
           <num>(4)</num>
           <text>procedures for monitoring the use of grant funds.</text>
           <annotations>
-            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+            <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of <cite path="§25-6">this section</cite> to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
           </annotations>
         </para>
       </para>
@@ -5326,7 +5326,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §281.) (Ord. 95-615</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§26-4">
       <num>26-4</num>
       <heading>Composition.</heading>
       <para>
@@ -5455,7 +5455,7 @@
       <para>
         <num>(d)</num>
         <heading>City Council Districts.</heading>
-        <text>Of the members appointed under subsection (b), 1 shall be appointed from each of the 6 Councilmanic districts.</text>
+        <text>Of the members appointed under <cite path="§26-4|(b)">subsection (b)</cite>, 1 shall be appointed from each of the 6 Councilmanic districts.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -5801,7 +5801,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Such award may be a lump sum payment in the discretion of the Board or in its discretion may be made in periodic payments not exceeding the amount of such person's net or take-home wages, salary, or other earned income at the time of such occurrence, or the amount of the special death benefits payable upon the death of a beginning or 1<sup>st</sup> -year patrolman of the Baltimore City Police Department, as provided, and in the manner provided in Article 22, § 34(i) of the City Code, whichever is less.</text>
+          <text>Such award may be a lump sum payment in the discretion of the Board or in its discretion may be made in periodic payments not exceeding the amount of such person's net or take-home wages, salary, or other earned income at the time of such occurrence, or the amount of the special death benefits payable upon the death of a beginning or 1<sup>st</sup> -year patrolman of the Baltimore City Police Department, as provided, and in the manner provided in <cite path="22">Article 22</cite>, § 34(i) of the City Code, whichever is less.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -5812,7 +5812,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §140(c).) (Ord. 67-1126</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§27-4">
       <num>27-4</num>
       <heading>Procedures.</heading>
       <para>
@@ -5830,7 +5830,7 @@
       <para>
         <num>(b)</num>
         <heading>Review and report by Law Department.</heading>
-        <text>Upon receiving a claim filed under the provisions of this section, the Board shall refer such claim to the Law Department for full investigation and prompt report to the Board.</text>
+        <text>Upon receiving a claim filed under the provisions of <cite path="§27-4">this section</cite>, the Board shall refer such claim to the Law Department for full investigation and prompt report to the Board.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -5846,12 +5846,12 @@
         <annotation type="History">City Code, 1976/83, art. 1, §140(d).) (Ord. 67-1126</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§27-5">
       <num>27-5</num>
       <heading>Rules and regulations.</heading>
-      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates may adopt and from time to time change reasonable rules and regulations for the administration of this section which are not in conflict with the intent and specific wording hereof.</text>
+      <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board of Estimates may adopt and from time to time change reasonable rules and regulations for the administration of <cite path="§27-5">this section</cite> which are not in conflict with the intent and specific wording hereof.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of <cite path="§27-5">this section</cite> to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §140(e).) (Ord. 67-1126; Text Conformed 02/09/21</annotation>
@@ -5972,7 +5972,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>contract for and purchase goods and services without being subject to approval by the Board of Estimates, but subject to the provisions of Article 5 of the City Code governing the prevailing wage and governing City policy on encouraging and achieving goals for Minority and Women's Business Enterprises' participation in the contracting activities of the Authority;</text>
+          <text>contract for and purchase goods and services without being subject to approval by the Board of Estimates, but subject to the provisions of <cite path="5">Article 5</cite> of the City Code governing the prevailing wage and governing City policy on encouraging and achieving goals for Minority and Women's Business Enterprises' participation in the contracting activities of the Authority;</text>
         </para>
         <para>
           <num>(9)</num>
@@ -6137,7 +6137,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of § 28-3(b)(8) of this subtitle;</text>
+          <text>hire and retain the employees, agents, and contractors needed to perform the functions of the Executive Director, subject to the requirements of <cite path="§28-3|(b)|(8)">§ 28-3(b)(8)</cite> of this subtitle;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -6166,7 +6166,7 @@
       <num>29-1 to 29-9</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§29-10">
       <num>29-10</num>
       <heading>Biennial violence prevention strategy plan.</heading>
       <para>
@@ -6245,7 +6245,7 @@
         <para>
           <num>(2)</num>
           <heading>Qualification.</heading>
-          <text>Only the entities listed in paragraph (1) of this subsection that are municipal agencies as defined in City Charter Article I, ྷ 2(j) {"Definitions: Municipal agency"} are required to assist and participate with the Baltimore City Department of Health in this endeavor.</text>
+          <text>Only the entities listed in paragraph (1) of this <cite path="§29-10">subsection </cite>that are municipal agencies as defined in City Charter Article I, ྷ 2(j) {"Definitions: Municipal agency"} are required to assist and participate with the Baltimore City Department of Health in this endeavor.</text>
         </para>
       </para>
       <para>
@@ -6253,7 +6253,7 @@
         <heading>Contents.</heading>
         <para>
           <num>(1)</num>
-          <text>The plan required by this section shall focus on the social determinative outcomes of health, as described by the Centers for Disease Control and Prevention, by:</text>
+          <text>The plan required by <cite path="§29-10">this section</cite> shall focus on the social determinative outcomes of health, as described by the Centers for Disease Control and Prevention, by:</text>
           <para>
             <num>(i)</num>
             <text>analyzing available City data regarding criminal justice, health, education, public works, transportation, housing, lead paint, drug overdoses, and any other relevant dataset;</text>
@@ -6277,7 +6277,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>After the initial plan, each subsequent plan under this section must include an analysis, utilizing qualitative and quantitative data, of the specific strategies outlined in the previous plan in order to assess the effectiveness of those strategies.</text>
+          <text>After the initial plan, each subsequent plan under <cite path="§29-10">this section</cite> must include an analysis, utilizing qualitative and quantitative data, of the specific strategies outlined in the previous plan in order to assess the effectiveness of those strategies.</text>
         </para>
       </para>
       <para>
@@ -6285,7 +6285,7 @@
         <text><em>Publication of plan and comment</em>.</text>
         <para>
           <num>(1)</num>
-          <text>The plan required by this section shall be posted prominently for public comment on the City's website for no less than 30 days prior to its submission to the City Council.</text>
+          <text>The plan required by <cite path="§29-10">this section</cite> shall be posted prominently for public comment on the City's website for no less than 30 days prior to its submission to the City Council.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -6713,7 +6713,7 @@
         <text>Subject to the availability of funds, individuals selected to participate in the Cadet Post shall receive a benefits and compensation package as determined by the Board of Estimates.</text>
       </para>
     </section>
-    <section>
+    <section cache:ref-path="§29A-5">
       <num>29A-5</num>
       <heading>Annual Report.</heading>
       <para>
@@ -6784,7 +6784,7 @@
       <para>
         <num>(c)</num>
         <heading>Publication of reports.</heading>
-        <text>On or before June 30 of each year, the Baltimore City Fire Department shall publish copies of the reports described in this section on the Department's website.</text>
+        <text>On or before June 30 of each year, the Baltimore City Fire Department shall publish copies of the reports described in <cite path="§29A-5">this section</cite> on the Department's website.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 22-147</annotation>
@@ -6837,13 +6837,13 @@
         <annotation type="History">City Code, 1976/83, art. 1, §138(a)(2nd par.).) (Ord. 70-885</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§30-3">
       <num>30-3</num>
       <heading>Rules and regulations.</heading>
       <para>
         <num>(a)</num>
         <heading>Board may adopt.</heading>
-        <text>The Board is authorized and empowered to promulgate and adopt suitable rules and regulations for the implementation of this section.</text>
+        <text>The Board is authorized and empowered to promulgate and adopt suitable rules and regulations for the implementation of <cite path="§30-3">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6870,7 +6870,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §138(b).) (Ord. 70-885</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§30-4">
       <num>30-4</num>
       <heading>Procedures.</heading>
       <para>
@@ -6900,7 +6900,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Where there is a dispute as to whether a retiree's medical condition is service-connected and should be compensated under this section, a decision of the Board after full investigation shall be deemed final and conclusive.</text>
+          <text>Where there is a dispute as to whether a retiree's medical condition is service-connected and should be compensated under <cite path="§30-4">this section</cite>, a decision of the Board after full investigation shall be deemed final and conclusive.</text>
         </para>
       </para>
       <annotations>
@@ -7324,7 +7324,7 @@
         <para>
           <num>(b)</num>
           <heading>Standards.</heading>
-          <text>When posted on City streets or on state or federally supported roads entering Baltimore City, such signs shall conform with the standards set forth in § 28-44 of the Federal Highway Administration's Manual on Uniform Traffic Control Devices for Streets and Highways.</text>
+          <text>When posted on City streets or on state or federally supported roads entering Baltimore City, such signs shall conform with the standards set forth in <cite path="§28-44">§ 28-44</cite> of the Federal Highway Administration's Manual on Uniform Traffic Control Devices for Streets and Highways.</text>
         </para>
         <annotations>
           <annotation type="History">City Code, 1976/83, art. 3, §3(c).) (Ord. 92-012</annotation>
@@ -7667,7 +7667,7 @@
             <para>
               <num>(C)</num>
               <text>by January 1, 2045, net-zero emissions, as defined in</text>
-              <text>§ 34-1(f) of this subtitle;</text>
+              <text><cite path="§34-1|(f)">§ 34-1(f)</cite> of this subtitle;</text>
             </para>
           </para>
           <para>
@@ -7767,7 +7767,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>manage the activities, as described in City Code Article 5, Subtitle 34, of the Commission on Sustainability;</text>
+        <text>manage the activities, as described in City Code <cite path="5">Article 5</cite>, Subtitle 34, of the Commission on Sustainability;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -7781,7 +7781,7 @@
         <annotation type="History">Ord. 07-484</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§34-12">
       <num>34-12</num>
       <heading>Director's powers and duties – Rules and regulations.</heading>
       <para>
@@ -7789,7 +7789,7 @@
         <heading>In general.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§34-12">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </para>
       <para>
@@ -7806,7 +7806,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>by January 1, 2045, net-zero emissions, as defined in § 34-1(f) of this subtitle.</text>
+          <text>by January 1, 2045, net-zero emissions, as defined in <cite path="§34-1|(f)">§ 34-1(f)</cite> of this subtitle.</text>
         </para>
       </para>
       <annotations>
@@ -7853,7 +7853,7 @@
         <annotation type="History">City Code, 1879, art. 1, §59; 1893, art. 1, §66; 1927, art. 1, §87; 1950, art. 1, §26; 1966, art. 1, §102; 1976/83, art. 1, §105.) (Ord. 1858-008; Ord. 1865-028</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§35-3">
       <num>35-3</num>
       <heading>City Seal - prohibited uses.</heading>
       <para>
@@ -7871,7 +7871,7 @@
       <para>
         <num>(b)</num>
         <heading>Penalties.</heading>
-        <text>Any person violating the provisions of this section shall be guilty of a misdemeanor and shall be subject to a fine of $500 for each offense, said fine to be collected as other fines for the violation of City Ordinances are collected.</text>
+        <text>Any person violating the provisions of <cite path="§35-3">this section</cite> shall be guilty of a misdemeanor and shall be subject to a fine of $500 for each offense, said fine to be collected as other fines for the violation of City Ordinances are collected.</text>
       </para>
       <annotations>
         <annotation type="History">City Code, 1927, art. 1, §88; 1950, art. 1, §27; 1966, art. 1, §103; 1976/83, art. 1, §106.) (Ord. 22-697</annotation>
@@ -7989,7 +7989,7 @@
     <prefix>Subtitle</prefix>
     <num>37</num>
     <heading>Nonprofit Event Discount</heading>
-    <section>
+    <section cache:ref-path="§37-1">
       <num>37-1</num>
       <heading>Discount on City services, permits, and equipment costs for nonprofit events.</heading>
       <para>
@@ -8005,7 +8005,7 @@
           <heading>Qualifying organizations.</heading>
           <para>
             <num>(i)</num>
-            <text>An organization qualifies for the 50% discount required by paragraph (1) of this subsection if it is:</text>
+            <text>An organization qualifies for the 50% discount required by paragraph (1) of this <cite path="§37-1">subsection </cite>if it is:</text>
             <para>
               <num>(A)</num>
               <text>a nonprofit, tax-exempt charitable or religious organization; or</text>
@@ -8017,14 +8017,14 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Organizations eligible for the 50% discount required by paragraph (1) of this subsection include:</text>
+            <text>Organizations eligible for the 50% discount required by paragraph (1) of this <cite path="§37-1">subsection </cite>include:</text>
             <para>
               <num>(A)</num>
               <text>the Mayor's Office of Minority and Women-Owned Business Development's Main Street programs;</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>Retail Business District Business Associations established under City Code Article 14, § 11-9 {"Business Associations"};</text>
+              <text>Retail Business District Business Associations established under City Code <cite path="14">Article 14</cite>, <cite path="§11-9">§ 11-9</cite> {"Business Associations"};</text>
             </para>
             <para>
               <num>(C)</num>
@@ -8044,12 +8044,12 @@
       <para>
         <num>(b)</num>
         <heading>Documentation to be provided.</heading>
-        <text>The sponsoring organization must submit satisfactory evidence to the Director of Transportation, or the Director's designee, documenting its qualifications for the discount provided by this section at the time that it requests City services, permits, or equipment for its event.</text>
+        <text>The sponsoring organization must submit satisfactory evidence to the Director of Transportation, or the Director's designee, documenting its qualifications for the discount provided by <cite path="§37-1">this section</cite> at the time that it requests City services, permits, or equipment for its event.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Exclusions.</heading>
-        <text>The following types of events are not eligible for the 50% discount required by this section:</text>
+        <text>The following types of events are not eligible for the 50% discount required by <cite path="§37-1">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>pub crawls; and</text>
@@ -8087,12 +8087,12 @@
         <annotation type="History">Ord. 17-102</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§37-3">
       <num>37-3</num>
       <heading>Rules and regulations.</heading>
       <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Director of Finance may adopt rules and regulations to carry out this subtitle.</text>
       <annotations>
-        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+        <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of <cite path="§37-3">this section</cite> to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
       </annotations>
       <annotations>
         <annotation type="History">Ord. 17-102; Text Conformed 02/09/21</annotation>
@@ -8180,7 +8180,7 @@
         <annotation type="History">Ord. 16-586</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§38-3">
       <num>38-3</num>
       <heading>Program administration.</heading>
       <para>
@@ -8193,7 +8193,7 @@
         <heading>Rules and regulations.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, MOIT may adopt rules and regulations to carry out this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§38-3">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </para>
       <annotations>
@@ -8206,7 +8206,7 @@
       <para>
         <num>(a)</num>
         <heading>Available to all City residents.</heading>
-        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of § 38-8 {"Eligibility for identity card"} of this subtitle for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
+        <text>MOIT must make a Baltimore City ID Card available to any resident of Baltimore City who can meet the requirements of <cite path="§38-8">§ 38-8</cite> {"Eligibility for identity card"} of this subtitle for establishing his or her identity and residency, regardless of his or her race, color, creed, age, national origin, alienage or citizenship status, gender, sexual orientation, disability, marital status, partnership status, source of lawful income, housing status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, or conviction or arrest record.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -8427,7 +8427,7 @@
       <para>
         <num>(a)</num>
         <heading>Documents not to be retained.</heading>
-        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under § 38-8 {"Eligibility for identity card"} of this subtitle.</text>
+        <text>Baltimore City may not retain originals or copies of documents provided by an applicant to prove his or her identity or residency under <cite path="§38-8">§ 38-8</cite> {"Eligibility for identity card"} of this subtitle.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -8490,7 +8490,7 @@
       <num>38-12</num>
       <heading>{Reserved}</heading>
     </section>
-    <section>
+    <section cache:ref-path="§38-13">
       <num>38-13</num>
       <heading>Counterfeit and fraudulent Baltimore City ID Cards.</heading>
       <para>
@@ -8513,7 +8513,7 @@
       <para>
         <num>(b)</num>
         <heading>Civil penalty.</heading>
-        <text>Any person who violates any provision of this section is subject to a civil penalty of $100 that may be enforced by issuance of a civil citation under Subtitle 41 {"Civil Citations"} of this article.</text>
+        <text>Any person who violates any provision of <cite path="§38-13">this section</cite> is subject to a civil penalty of $100 that may be enforced by issuance of a civil citation under Subtitle 41 {"Civil Citations"} of this article.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 16-586</annotation>
@@ -8715,7 +8715,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>a Special Enforcement Officer appointed under City Code Article 19, § 71-1 {"Special Enforcement Officers: Appointment; duties"}; or</text>
+          <text>a Special Enforcement Officer appointed under City Code <cite path="19">Article 19</cite>, <cite path="§71-1">§ 71-1</cite> {"Special Enforcement Officers: Appointment; duties"}; or</text>
         </para>
         <para>
           <num>(3)</num>
@@ -8750,7 +8750,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §295.) (Ord. 98-326; Ord. 12-084; Ord. 16-503; Ord.  22-125</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§40-2">
       <num>40-2</num>
       <heading>Board established.</heading>
       <para>
@@ -8805,7 +8805,7 @@
       <para>
         <num>(c)</num>
         <heading>Qualifications of appointed members.</heading>
-        <text>Of the members appointed under subsection (b)(3) of this section:</text>
+        <text>Of the members appointed under <cite path="§40-2|(b)|(3)">subsection (b)(3)</cite> of <cite path="§40-2">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>2 members must be appointed from the general public; and</text>
@@ -8847,7 +8847,7 @@
       <para>
         <num>(e)</num>
         <heading>Compensation; expenses.</heading>
-        <text>The members appointed under subsection (b)(3) of this section:</text>
+        <text>The members appointed under <cite path="§40-2|(b)|(3)">subsection (b)(3)</cite> of <cite path="§40-2">this section</cite>:</text>
         <para>
           <num>(1)</num>
           <text>serve without compensation; but</text>
@@ -8918,12 +8918,12 @@
     <section>
       <num>40-5</num>
       <heading>General jurisdiction of Board.</heading>
-      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in § 40-14 of this subtitle, including any rules and regulations adopted under them.</text>
+      <text>The Board has full authority to enforce, in accordance with the provisions of this subtitle, the sanitation, environmental, health, safety, and other quality-of-life provisions of law listed in <cite path="§40-14">§ 40-14</cite> of this subtitle, including any rules and regulations adopted under them.</text>
       <annotations>
         <annotation type="History">City Code, 1976/83, art. 1, §299.) (Ord. 98-326</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§40-6">
       <num>40-6</num>
       <heading>Rulemaking authority.</heading>
       <para>
@@ -8931,7 +8931,7 @@
         <heading>In general.</heading>
         <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article, the Board must adopt and, from time to time, may amend rules and regulations necessary or appropriate to carry out its powers and duties under this subtitle.</text>
         <annotations>
-          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this subsection to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations</annotation>
+          <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of this <cite path="§40-6">subsection </cite>to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
         </annotations>
       </para>
       <para>
@@ -9069,7 +9069,7 @@
         <annotation type="History">City Code, 1976/83, art. 1, §301.) (Ord. 98-326; Ord. 02-362; Ord. 07-425; Ord. 12-084; Ord. 16-503</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§40-8">
       <num>40-8</num>
       <heading>Default by person cited.</heading>
       <para>
@@ -9088,7 +9088,7 @@
       <para>
         <num>(b)</num>
         <heading>Board order; default penalty.</heading>
-        <text>Under either of the circumstances described in subsection (a) of this section, the Board may:</text>
+        <text>Under either of the circumstances described in <cite path="§40-8|(a)">subsection (a)</cite> of <cite path="§40-8">this section</cite>, the Board may:</text>
         <para>
           <num>(1)</num>
           <text>render a default decision and order against the person cited; and</text>
@@ -9105,7 +9105,7 @@
             <text>an additional, default penalty equal to the lesser of:</text>
             <para>
               <num>(A)</num>
-              <text>50% of the prescribed prepayable fine for every 30 days that, after notice of default is mailed under subsection (c) of this section, the citation remains unsatisfied;</text>
+              <text>50% of the prescribed prepayable fine for every 30 days that, after notice of default is mailed under <cite path="§40-8|(c)">subsection (c)</cite> of <cite path="§40-8">this section</cite>, the citation remains unsatisfied;</text>
             </para>
             <para>
               <num>(B)</num>
@@ -9235,20 +9235,20 @@
         <annotation type="History">City Code, 1976/83, art. 1, §307.) (Ord. 98-326</annotation>
       </annotations>
     </section>
-    <section>
+    <section cache:ref-path="§40-14">
       <num>40-14</num>
       <heading>Violations to which subtitle applies.</heading>
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
-        <text>The jurisdiction and authority of the Board extends to each of the provisions of the Baltimore City Code that are specified in subsection (e) of this section, as those provisions may be amended from time to time, including any rules and regulations adopted under them from time to time.</text>
+        <text>The jurisdiction and authority of the Board extends to each of the provisions of the Baltimore City Code that are specified in <cite path="§40-14|(e)">subsection (e)</cite> of <cite path="§40-14">this section</cite>, as those provisions may be amended from time to time, including any rules and regulations adopted under them from time to time.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Prepayable fines.</heading>
         <para>
           <num>(1)</num>
-          <text>The basic prepayable civil fine for violation of a provision is as specified next to the listing of that provision in subsection (e) of this section.</text>
+          <text>The basic prepayable civil fine for violation of a provision is as specified next to the listing of that provision in <cite path="§40-14|(e)">subsection (e)</cite> of <cite path="§40-14">this section</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -9278,12 +9278,12 @@
       <para>
         <num>(d)</num>
         <heading>Prior notice not required.</heading>
-        <text>Notwithstanding any other provision of the City Code to the contrary, notice need not be given before issuance and enforcement of an environmental citation for any of the provisions listed in subsection (e) of this section.</text>
+        <text>Notwithstanding any other provision of the City Code to the contrary, notice need not be given before issuance and enforcement of an environmental citation for any of the provisions listed in <cite path="§40-14|(e)">subsection (e)</cite> of <cite path="§40-14">this section</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
         <heading>Provisions and penalties enumerated.</heading>
-        <text>(.5)  <strong><em>Article 2.  Consumer Protections</em></strong></text>
+        <text>(.5)  <strong><em><cite path="2">Article 2</cite>.  Consumer Protections</em></strong></text>
         <text>
           <table>
             <tbody>
@@ -9298,7 +9298,7 @@
             </tbody>
           </table>
         </text>
-        <text>(.5a)  <strong><em>Article 5.  Finance, Property, and Procurement</em></strong></text>
+        <text>(.5a)  <strong><em><cite path="5">Article 5</cite>.  Finance, Property, and Procurement</em></strong></text>
         <text>
           <table>
             <tbody>
@@ -9313,7 +9313,7 @@
             </tbody>
           </table>
         </text>
-        <text>(.5b)  <strong><em>Article 7.  Natural Resources</em></strong></text>
+        <text>(.5b)  <strong><em><cite path="7">Article 7</cite>.  Natural Resources</em></strong></text>
         <text>
           <table>
             <tbody>
@@ -9372,12 +9372,15 @@
                   <td colspan="2">Subtitle 5.  Licensing of Rental Dwellings</td>
                 </tr>
                 <tr>
-                  <td>§ 5-4.  License required</td>
+                  <td><cite path="§5-4.">§ 5-4.</cite>  License required</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
                   <td proof="needed">
-                    <p>§ 5-15.  <em>{Offenses there listed as cause for}</em></p>
+                    <p>
+                      <cite path="§5-15.">§ 5-15.</cite>
+                      <em>{Offenses there listed as cause for}</em>
+                    </p>
                     <p>Denial, suspension, or revocation of license</p>
                   </td>
                   <td>$750</td>
@@ -9440,15 +9443,15 @@
                   <td colspan="2">Subtitle 48.  Short-Term Residential Rentals</td>
                 </tr>
                 <tr>
-                  <td>§ 48-6.  License required <em>{for host}</em></td>
+                  <td><cite path="§48-6.">§ 48-6.</cite>  License required <em>{for host}</em></td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 48-16.  <em>{Operational requirements for} </em>hosting platforms</td>
+                  <td><cite path="§48-16.">§ 48-16.</cite><em>{Operational requirements for} </em>hosting platforms</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td>§ 48-21.  <em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
+                  <td><cite path="§48-21.">§ 48-21.</cite><em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
                   <td>$500</td>
                 </tr>
                 <tr>
@@ -9471,7 +9474,7 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2">§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</td>
+                  <td colspan="2"><cite path="§1-2.">§ 1-2.</cite>  Placement <em>{of advertising circulars} </em>without permission</td>
                 </tr>
                 <tr>
                   <td>1<sup>st</sup> offense</td>
@@ -9486,14 +9489,14 @@
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 7-2.  Vehicle alarms: Prohibited devices</td>
+                  <td><cite path="§7-2.">§ 7-2.</cite>  Vehicle alarms: Prohibited devices</td>
                   <td>$100</td>
                 </tr>
                 <tr>
                   <td colspan="2">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
                 </tr>
                 <tr>
-                  <td colspan="2">§ 8-8.  False alarm fees.</td>
+                  <td colspan="2"><cite path="§8-8.">§ 8-8.</cite>  False alarm fees.</td>
                 </tr>
                 <tr>
                   <td colspan="2">Failure to pay-</td>
@@ -9518,23 +9521,23 @@
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 14-2.  Drinking or possessing open containers in public places – In general</td>
+                  <td><cite path="§14-2.">§ 14-2.</cite>  Drinking or possessing open containers in public places – In general</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td>§ 14-3.  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
+                  <td><cite path="§14-3.">§ 14-3.</cite>  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td>§ 32-3.  Sales to minors [in proximity to liquor stores]</td>
+                  <td><cite path="§32-3.">§ 32-3.</cite>  Sales to minors [in proximity to liquor stores]</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 32-4.  Inducing minor to purchase</td>
+                  <td><cite path="§32-4.">§ 32-4.</cite>  Inducing minor to purchase</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="2">§ 32-5.  False representation by minor</td>
+                  <td colspan="2"><cite path="§32-5.">§ 32-5.</cite>  False representation by minor</td>
                 </tr>
                 <tr>
                   <td>1<sup>st</sup> offense</td>
@@ -9545,23 +9548,23 @@
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td>§ 41-2.  Outdoor telephones:  Prohibited placement</td>
+                  <td><cite path="§41-2.">§ 41-2.</cite>  Outdoor telephones:  Prohibited placement</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 45-2.  Signs on or affecting public property: Posting prohibited</td>
+                  <td><cite path="§45-2.">§ 45-2.</cite>  Signs on or affecting public property: Posting prohibited</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td>§ 50-2.  Obstructing street, etc., or gutter</td>
+                  <td><cite path="§50-2.">§ 50-2.</cite>  Obstructing street, etc., or gutter</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td>§ 50-3.  Merchandise projecting from building</td>
+                  <td><cite path="§50-3.">§ 50-3.</cite>  Merchandise projecting from building</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td colspan="2">§ 51-2.  Compliance with park rules</td>
+                  <td colspan="2"><cite path="§51-2.">§ 51-2.</cite>  Compliance with park rules</td>
                 </tr>
                 <tr>
                   <td>1<sup>st</sup> offense</td>
@@ -9591,7 +9594,7 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2">§ 2-1.  Mixed refuse: Receptacles</td>
+                  <td colspan="2"><cite path="§2-1.">§ 2-1.</cite>  Mixed refuse: Receptacles</td>
                 </tr>
                 <tr>
                   <td>Residential properties</td>
@@ -9602,7 +9605,7 @@
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2">§ 2-2.  Mixed refuse: Handling</td>
+                  <td colspan="2"><cite path="§2-2.">§ 2-2.</cite>  Mixed refuse: Handling</td>
                 </tr>
                 <tr>
                   <td>Residential properties</td>
@@ -9613,7 +9616,7 @@
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="2">§ 4-1 or § 4-2.  Receptacles on collection days</td>
+                  <td colspan="2"><cite path="§4-1">§ 4-1</cite> or <cite path="§4-2.">§ 4-2.</cite>  Receptacles on collection days</td>
                 </tr>
                 <tr>
                   <td>Residential properties</td>
@@ -9626,12 +9629,12 @@
               </tbody>
             </table>
           </text>
-          <text>(4a)  <strong><em>Article 24.  Water</em></strong></text>
+          <text>(4a)  <strong><em><cite path="24">Article 24</cite>.  Water</em></strong></text>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2">§ 21-1.  Rules and regulations <em>{to protect water supply and facilities}</em></td>
+                  <td colspan="2"><cite path="§21-1.">§ 21-1.</cite>  Rules and regulations <em>{to protect water supply and facilities}</em></td>
                 </tr>
                 <tr>
                   <td colspan="2">Watershed Regulations</td>
@@ -9673,29 +9676,29 @@
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td>§ 21-2.  Suspension, etc., of certain uses</td>
+                  <td><cite path="§21-2.">§ 21-2.</cite>  Suspension, etc., of certain uses</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td>§ 21-3.  Injuring fire hydrants</td>
+                  <td><cite path="§21-3.">§ 21-3.</cite>  Injuring fire hydrants</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td>§ 21-4.  Wrongful use after cut-off</td>
+                  <td><cite path="§21-4.">§ 21-4.</cite>  Wrongful use after cut-off</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td>§ 21-5.  Refusal of entry</td>
+                  <td><cite path="§21-5.">§ 21-5.</cite>  Refusal of entry</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td>§ 21-6.  Interference with equipment; illegal use of water</td>
+                  <td><cite path="§21-6.">§ 21-6.</cite>  Interference with equipment; illegal use of water</td>
                   <td>$500</td>
                 </tr>
               </tbody>
             </table>
           </text>
-          <text>(4b) <strong><em>Article 26.  Surveys, Streets, and Highways</em></strong></text>
+          <text>(4b) <strong><em><cite path="26">Article 26</cite>.  Surveys, Streets, and Highways</em></strong></text>
           <text>
             <table>
               <tbody>
@@ -9710,7 +9713,7 @@
               </tbody>
             </table>
           </text>
-          <text>(5a)  <strong><em>Article 31.  Transit and Traffic</em></strong></text>
+          <text>(5a)  <strong><em><cite path="31">Article 31</cite>.  Transit and Traffic</em></strong></text>
           <text>
             <table>
               <tbody>
@@ -9727,7 +9730,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-7.  License required</td>
+                  <td><cite path="§14-7.">§ 14-7.</cite>  License required</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9742,7 +9745,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-8(c). Liability insurance <em>{required}</em></td>
+                  <td><cite path="§14-8|(c)">§ 14-8(c)</cite>. Liability insurance <em>{required}</em></td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9764,7 +9767,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-16.  Permit required</td>
+                  <td><cite path="§14-16.">§ 14-16.</cite>  Permit required</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9786,7 +9789,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-31.  Licensed operator <em>{required}</em></td>
+                  <td><cite path="§14-31.">§ 14-31.</cite>  Licensed operator <em>{required}</em></td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9801,7 +9804,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-32.  <em>{Authorized} </em>locations and hours</td>
+                  <td><cite path="§14-32.">§ 14-32.</cite><em>{Authorized} </em>locations and hours</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9816,7 +9819,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-33.  <em>{Required, prohibited uses of} </em>valet parking zones</td>
+                  <td><cite path="§14-33.">§ 14-33.</cite><em>{Required, prohibited uses of} </em>valet parking zones</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9831,7 +9834,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-34(a).  Attendants' qualifications</td>
+                  <td><cite path="§14-34|(a)">§ 14-34(a)</cite>.  Attendants' qualifications</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9846,7 +9849,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-35.  Transporting and parking vehicles</td>
+                  <td><cite path="§14-35.">§ 14-35.</cite>  Transporting and parking vehicles</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9861,7 +9864,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-36.  <em>{Required}</em> signage</td>
+                  <td><cite path="§14-36.">§ 14-36.</cite><em>{Required}</em> signage</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9876,7 +9879,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-37.  Permit and operator's license <em>{available for}</em></td>
+                  <td><cite path="§14-37.">§ 14-37.</cite>  Permit and operator's license <em>{available for}</em></td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9896,7 +9899,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-41(3).  Operators: Providing valet services in way</td>
+                  <td><cite path="§14-41|(3)">§ 14-41(3)</cite>.  Operators: Providing valet services in way</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9921,7 +9924,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-41(4).  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  <td><cite path="§14-41|(4)">§ 14-41(4)</cite>.  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9936,7 +9939,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-42(3).  Hosts: Providing or allowing valet services in way that endangers public safety</td>
+                  <td><cite path="§14-42|(3)">§ 14-42(3)</cite>.  Hosts: Providing or allowing valet services in way that endangers public safety</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9951,7 +9954,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-42(4).  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                  <td><cite path="§14-42|(4)">§ 14-42(4)</cite>.  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9966,7 +9969,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 14-43.  Any other violation that is cause for suspending or revoking a license or permit</td>
+                  <td><cite path="§14-43.">§ 14-43.</cite>  Any other violation that is cause for suspending or revoking a license or permit</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -9986,7 +9989,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 16-12. Vehicles on sidewalks</td>
+                  <td><cite path="§16-12.">§ 16-12.</cite> Vehicles on sidewalks</td>
                   <td>$ 50</td>
                   <td proof="needed"/>
                 </tr>
@@ -9996,42 +9999,42 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-7(b)(2).  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
+                  <td><cite path="§38-7|(b)|(2)">§ 38-7(b)(2)</cite>.  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
                   <td proof="needed"/>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td>§ 38-8(a).  Operating a dockless-vehicle-for-hire business without a permit</td>
+                  <td><cite path="§38-8|(a)">§ 38-8(a)</cite>.  Operating a dockless-vehicle-for-hire business without a permit</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-12.  Failure of provider to provide required data or reports</td>
+                  <td><cite path="§38-12.">§ 38-12.</cite>  Failure of provider to provide required data or reports</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-15.  Failure of provider to notify of data breach</td>
+                  <td><cite path="§38-15.">§ 38-15.</cite>  Failure of provider to notify of data breach</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-18.  Unlawful operation of e-bike or e-scooter</td>
+                  <td><cite path="§38-18.">§ 38-18.</cite>  Unlawful operation of e-bike or e-scooter</td>
                   <td>$ 20</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-19.  Unlawful parking of dockless vehicle</td>
+                  <td><cite path="§38-19.">§ 38-19.</cite>  Unlawful parking of dockless vehicle</td>
                   <td>$ 20</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-21.  Display of advertisements on dockless vehicles</td>
+                  <td><cite path="§38-21.">§ 38-21.</cite>  Display of advertisements on dockless vehicles</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 38-22.  Provider operational responsibilities:</td>
+                  <td><cite path="§38-22.">§ 38-22.</cite>  Provider operational responsibilities:</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -10073,12 +10076,12 @@
               </tbody>
             </table>
           </text>
-          <text>(5b) <strong><em>Article 32.  Zoning</em></strong></text>
+          <text>(5b) <strong><em><cite path="32">Article 32</cite>.  Zoning</em></strong></text>
           <text>
             <table>
               <tbody>
                 <tr>
-                  <td>§ 19-101.  Prohibited Conduct</td>
+                  <td><cite path="§19-101.">§ 19-101.</cite>  Prohibited Conduct</td>
                   <td>$500</td>
                 </tr>
               </tbody>
@@ -10308,7 +10311,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 4-601.  Parental Responsibility</td>
+                  <td><cite path="§4-601.">§ 4-601.</cite>  Parental Responsibility</td>
                   <td>$100</td>
                   <td proof="needed"/>
                 </tr>
@@ -10323,7 +10326,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 5-210.  Abatement notice</td>
+                  <td><cite path="§5-210.">§ 5-210.</cite>  Abatement notice</td>
                   <td>$100</td>
                   <td proof="needed"/>
                 </tr>
@@ -10338,17 +10341,17 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 5-501.  Spitting</td>
+                  <td><cite path="§5-501.">§ 5-501.</cite>  Spitting</td>
                   <td>$100</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 5-503.  Urinating, etc. - In general</td>
+                  <td><cite path="§5-503.">§ 5-503.</cite>  Urinating, etc. - In general</td>
                   <td>$500</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 5-504.  Urinating, etc. - Parents</td>
+                  <td><cite path="§5-504.">§ 5-504.</cite>  Urinating, etc. - Parents</td>
                   <td>$150</td>
                   <td proof="needed"/>
                 </tr>
@@ -10368,7 +10371,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 6-201.  In general</td>
+                  <td><cite path="§6-201.">§ 6-201.</cite>  In general</td>
                   <td>$300</td>
                   <td proof="needed"/>
                 </tr>
@@ -10378,12 +10381,12 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 6-506.  Litter and rubbish prohibited</td>
+                  <td><cite path="§6-506.">§ 6-506.</cite>  Litter and rubbish prohibited</td>
                   <td>$200</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 6-508.  Polystyrene foam products</td>
+                  <td><cite path="§6-508.">§ 6-508.</cite>  Polystyrene foam products</td>
                   <td>$200</td>
                   <td proof="needed"/>
                 </tr>
@@ -10453,7 +10456,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-112. Obstructing, etc., officer; False Statements</td>
+                  <td><cite path="§10-112.">§ 10-112.</cite> Obstructing, etc., officer; False Statements</td>
                   <td>$500</td>
                   <td proof="needed"/>
                 </tr>
@@ -10488,22 +10491,22 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-301.  Rabies – Vaccinations</td>
+                  <td><cite path="§10-301.">§ 10-301.</cite>  Rabies – Vaccinations</td>
                   <td>$250</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-302.  Rabies – Possible exposure</td>
+                  <td><cite path="§10-302.">§ 10-302.</cite>  Rabies – Possible exposure</td>
                   <td>$250</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-303.  Humane care required</td>
+                  <td><cite path="§10-303.">§ 10-303.</cite>  Humane care required</td>
                   <td>$500</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-307.  Restraints required</td>
+                  <td><cite path="§10-307.">§ 10-307.</cite>  Restraints required</td>
                   <td proof="needed"/>
                   <td proof="needed"/>
                 </tr>
@@ -10523,7 +10526,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-313.  Animal waste</td>
+                  <td><cite path="§10-313.">§ 10-313.</cite>  Animal waste</td>
                   <td>$200</td>
                   <td proof="needed"/>
                 </tr>
@@ -10553,17 +10556,17 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-701.  Attack dogs</td>
+                  <td><cite path="§10-701.">§ 10-701.</cite>  Attack dogs</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-702.  Dangerous animals</td>
+                  <td><cite path="§10-702.">§ 10-702.</cite>  Dangerous animals</td>
                   <td>$250</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-706.  Vicious animals – Keeping prohibited</td>
+                  <td><cite path="§10-706.">§ 10-706.</cite>  Vicious animals – Keeping prohibited</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
@@ -10573,7 +10576,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td>§ 10-918.  Sick or injured horses</td>
+                  <td><cite path="§10-918.">§ 10-918.</cite>  Sick or injured horses</td>
                   <td>$1,000</td>
                   <td proof="needed"/>
                 </tr>
