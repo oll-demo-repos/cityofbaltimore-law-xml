@@ -9326,36 +9326,29 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="3">Division I.  Floodplain Management</td>
+                  <td>Division I.  Floodplain Management</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">
+                  <td colspan="2">
                     <p>Division VI.  Miscellaneous</p>
                   </td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">
+                  <td colspan="2" class="text-indent-1">
                     <p>Subtitle 62.  Plastic Bag Reduction</p>
                   </td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>1st offense</td>
+                  <td class="text-indent-2">1st offense</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>2nd offense in same 6-month period</td>
+                  <td class="text-indent-2">2nd offense in same 6-month period</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>3rd or subsequent offense in same 6-month period</td>
+                  <td class="text-indent-2">3rd or subsequent offense in same 6-month period</td>
                   <td>$1,000</td>
                 </tr>
               </tbody>
@@ -9369,48 +9362,40 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="4">Subtitle 4.  Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</td>
+                  <td colspan="2">Subtitle 4.  Registration of Non-Owner-Occupied Dwellings, Rooming Houses, and Vacant Structures</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">Non-owner-occupied dwelling units</td>
+                  <td class="text-indent-1">Non-owner-occupied dwelling units</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">Rooming houses</td>
+                  <td class="text-indent-1">Rooming houses</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">Vacant structures</td>
+                  <td class="text-indent-1">Vacant structures</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">Subtitle 5.  Licensing of Rental Dwellings</td>
+                  <td colspan="2">Subtitle 5.  Licensing of Rental Dwellings</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">§ 5-4.  License required</td>
+                  <td class="text-indent-1">§ 5-4.  License required</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">§ 5-15.  <em>{Offenses there listed as cause for}</em></td>
+                  <td colspan="2" class="text-indent-1">§ 5-15.  <em>{Offenses there listed as cause for}</em></td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>Denial, suspension, or revocation of license</td>
+                  <td class="text-indent-2">Denial, suspension, or revocation of license</td>
                   <td>$750</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">All other provisions</td>
+                  <td class="text-indent-1">All other provisions</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="3">Subtitle 8.  Rent Increases</td>
+                  <td>Subtitle 8.  Rent Increases</td>
                   <td>$1,000</td>
                 </tr>
               </tbody>
@@ -9424,60 +9409,53 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="2">Subtitle 12.  Commercial Parking Facilities</td>
+                  <td>Subtitle 12.  Commercial Parking Facilities</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 13.  Special-Event Parking Lots</td>
+                  <td>Subtitle 13.  Special-Event Parking Lots</td>
                   <td>$750</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 17.  Street Vendors</td>
+                  <td>Subtitle 17.  Street Vendors</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="2">Subtitle 21.  Third-Party Food Delivery Platform</td>
+                  <td>Subtitle 21.  Third-Party Food Delivery Platform</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td colspan="3">Subtitle 42.  Human Trafficking Notice Requirements</td>
+                  <td colspan="2">Subtitle 42.  Human Trafficking Notice Requirements</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>1st offense</td>
+                  <td class="text-indent-1">1st offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Subsequent offense</td>
+                  <td class="text-indent-1">Subsequent offense</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Subtitle 43.  Public Restrooms</td>
+                  <td class="text-indent-1">Subtitle 43.  Public Restrooms</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="3">Subtitle 48.  Short-Term Residential Rentals</td>
+                  <td colspan="2">Subtitle 48.  Short-Term Residential Rentals</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>§ 48-6.  License required <em>{for host}</em></td>
+                  <td class="text-indent-1">§ 48-6.  License required <em>{for host}</em></td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>§ 48-16.  <em>{Operational requirements for} </em>hosting platforms</td>
+                  <td class="text-indent-1">§ 48-16.  <em>{Operational requirements for} </em>hosting platforms</td>
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>§ 48-21.  <em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
+                  <td class="text-indent-1">§ 48-21.  <em>{Offenses there listed as cause for</em>} denial, suspension, or revocation of license</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>All other provisions</td>
+                  <td class="text-indent-1">All other provisions</td>
                   <td>$250</td>
                 </tr>
               </tbody>
@@ -9491,130 +9469,108 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="5">§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</td>
+                  <td colspan="2">§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td class="text-indent-1">1<sup>st</sup> offense</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">2<sup>nd</sup> offense</td>
+                  <td class="text-indent-1">2<sup>nd</sup> offense</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
+                  <td class="text-indent-1">3<sup>rd</sup> or subsequent offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 7-2.  Vehicle alarms: Prohibited devices</td>
+                  <td>§ 7-2.  Vehicle alarms: Prohibited devices</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="5">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
+                  <td colspan="2">Subtitle 8.  Burglar Alarms - Registration and Regulation</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="4">§ 8-8.  False alarm fees.</td>
+                  <td colspan="2" class="text-indent-1">§ 8-8.  False alarm fees.</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td colspan="3">Failure to pay-</td>
+                  <td colspan="2" class="text-indent-2" >Failure to pay-</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td> </td>
-                  <td>Residential users</td>
+                  <td class="text-indent-3">Residential users</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td> </td>
-                  <td>Non-residential users</td>
+                  <td class="text-indent-3">Non-residential users</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="4">All other provisions.</td>
+                  <td colspan="2"  class="text-indent-1">All other provisions.</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td colspan="2">Users</td>
+                  <td class="text-indent-2">Users</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td colspan="2">Contractors, Monitors, Others</td>
+                  <td class="text-indent-2">Contractors, Monitors, Others</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 14-2.  Drinking or possessing open containers in public places – In general</td>
+                  <td>§ 14-2.  Drinking or possessing open containers in public places – In general</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 14-3.  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
+                  <td>§ 14-3.  Drinking or possessing open containers in public places – Parents or guardians of minors</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 32-3.  Sales to minors [in proximity to liquor stores]</td>
+                  <td>§ 32-3.  Sales to minors [in proximity to liquor stores]</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 32-4.  Inducing minor to purchase</td>
+                  <td>§ 32-4.  Inducing minor to purchase</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="5">§ 32-5.  False representation by minor</td>
+                  <td colspan="2">§ 32-5.  False representation by minor</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td class="text-indent-1">1<sup>st</sup> offense</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">2<sup>nd</sup> or subsequent offense</td>
+                  <td class="text-indent-1">2<sup>nd</sup> or subsequent offense</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 41-2.  Outdoor telephones:  Prohibited placement</td>
+                  <td>§ 41-2.  Outdoor telephones:  Prohibited placement</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 45-2.  Signs on or affecting public property: Posting prohibited</td>
+                  <td>§ 45-2.  Signs on or affecting public property: Posting prohibited</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 50-2.  Obstructing street, etc., or gutter</td>
+                  <td>§ 50-2.  Obstructing street, etc., or gutter</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td colspan="4">§ 50-3.  Merchandise projecting from building</td>
+                  <td>§ 50-3.  Merchandise projecting from building</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td colspan="5">§ 51-2.  Compliance with park rules</td>
+                  <td colspan="2">§ 51-2.  Compliance with park rules</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">1<sup>st</sup> offense</td>
+                  <td class="text-indent-1">1<sup>st</sup> offense</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">2<sup>nd</sup> offense</td>
+                  <td class="text-indent-1">2<sup>nd</sup> offense</td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">3<sup>rd</sup> or subsequent offense</td>
+                  <td class="text-indent-1">3<sup>rd</sup> or subsequent offense</td>
                   <td>$1,000</td>
                 </tr>
               </tbody>
@@ -9628,42 +9584,36 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="3">§ 2-1.  Mixed refuse: Receptacles</td>
+                  <td colspan="2">§ 2-1.  Mixed refuse: Receptacles</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Residential properties</td>
+                  <td class="text-indent-1">Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Commercial properties</td>
+                  <td class="text-indent-1">Commercial properties</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 2-2.  Mixed refuse: Handling</td>
+                  <td colspan="2">§ 2-2.  Mixed refuse: Handling</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Residential properties</td>
+                  <td class="text-indent-1">Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Commercial properties</td>
+                  <td class="text-indent-1">Commercial properties</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 4-1 or § 4-2.  Receptacles on collection days</td>
+                  <td colspan="2">§ 4-1 or § 4-2.  Receptacles on collection days</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Residential properties</td>
+                  <td class="text-indent-1">Residential properties</td>
                   <td>$  50</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td>Commercial properties</td>
+                  <td class="text-indent-1">Commercial properties</td>
                   <td>$100</td>
                 </tr>
               </tbody>
@@ -9677,83 +9627,65 @@
             <table>
               <tbody>
                 <tr>
-                  <td colspan="4">§ 21-1.  Rules and regulations <em>{to protect water supply and facilities}</em></td>
+                  <td colspan="2">§ 21-1.  Rules and regulations <em>{to protect water supply and facilities}</em></td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="3">Watershed Regulations</td>
+                  <td colspan="2" class="text-indent-1">Watershed Regulations</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td><p>	Polluting or depositing trash, etc., in reservoir waters or tributaries</p></td>
+                  <td class="text-indent-2"><p>	Polluting or depositing trash, etc., in reservoir waters or tributaries</p></td>
                   <td>$500</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>	Trespassing or otherwise entering or traversing property in violation of rule or regulation</td>
+                  <td class="text-indent-2">	Trespassing or otherwise entering or traversing property in violation of rule or regulation</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>	Boating without a required permit or otherwise in violation of rule or regulation</td>
+                  <td class="text-indent-2">	Boating without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>Hunting without a required permit or otherwise in violation of rule or regulation</td>
+                  <td class="text-indent-2">Hunting without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>Fishing without a required permit or otherwise in violation of rule or regulation</td>
+                  <td class="text-indent-2">Fishing without a required permit or otherwise in violation of rule or regulation</td>
                   <td>$  60</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>Other recreational activity (horseback riding, bicycling, picnicking, etc.) in violation of rule or regulation</td>
+                  <td class="text-indent-2">Other recreational activity (horseback riding, bicycling, picnicking, etc.) in violation of rule or regulation</td>
                   <td>$  60</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>Smoking except where expressly allowed</td>
+                  <td class="text-indent-2">Smoking except where expressly allowed</td>
                   <td>$  75</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td> </td>
-                  <td>All other violations</td>
+                  <td class="text-indent-2">All other violations</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td> </td>
-                  <td colspan="2">All other rules and regulations of Department to protect water supply and facilities</td>
+                  <td class="text-indent-1">All other rules and regulations of Department to protect water supply and facilities</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 21-2.  Suspension, etc., of certain uses</td>
+                  <td>§ 21-2.  Suspension, etc., of certain uses</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 21-3.  Injuring fire hydrants</td>
+                  <td>§ 21-3.  Injuring fire hydrants</td>
                   <td>$250</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 21-4.  Wrongful use after cut-off</td>
+                  <td>§ 21-4.  Wrongful use after cut-off</td>
                   <td>$150</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 21-5.  Refusal of entry</td>
+                  <td>§ 21-5.  Refusal of entry</td>
                   <td>$100</td>
                 </tr>
                 <tr>
-                  <td colspan="3">§ 21-6.  Interference with equipment; illegal use of water</td>
+                  <td>§ 21-6.  Interference with equipment; illegal use of water</td>
                   <td>$500</td>
                 </tr>
               </tbody>
@@ -9785,401 +9717,255 @@
               <table>
                 <tbody>
                   <tr>
-                    <td colspan="5">Subtitle 14.  Valet Parking</td>
+                    <td colspan="2">Subtitle 14.  Valet Parking</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">
+                    <td colspan="2" class="text-indent-1">
                       <em>Part II.  Valet Operator's License</em>
                     </td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-7.  License required</td>
+                    <td colspan="2" class="text-indent-2">§ 14-7.  License required</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-8(c). Liability insurance <em>{required}</em></td>
+                    <td colspan="2" class="text-indent-2">§ 14-8(c). Liability insurance <em>{required}</em></td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">
+                    <td colspan="2" class="text-indent-1">
                       <em>Part III.  Valet Parking Zone Permit</em>
                     </td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-16.  Permit required</td>
+                    <td colspan="2" class="text-indent-2">§ 14-16.  Permit required</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">
+                    <td colspan="2" class="text-indent-1">
                       <em>Part IV.  Standards of Operation</em>
                     </td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-31.  Licensed operator <em>{required}</em></td>
+                    <td colspan="2" class="text-indent-2">§ 14-31.  Licensed operator <em>{required}</em></td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-32.  <em>{Authorized} </em>locations and hours</td>
+                    <td colspan="2" class="text-indent-2">§ 14-32.  <em>{Authorized} </em>locations and hours</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$400</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-33.  <em>{Required, prohibited uses of} </em>valet parking zones</td>
+                    <td colspan="2" class="text-indent-2">§ 14-33.  <em>{Required, prohibited uses of} </em>valet parking zones</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-34(a).  Attendants' qualifications</td>
+                    <td colspan="2" class="text-indent-2">§ 14-34(a).  Attendants' qualifications</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$400</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-35.  Transporting and parking vehicles</td>
+                    <td colspan="2" class="text-indent-2">§ 14-35.  Transporting and parking vehicles</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-36.  <em>{Required}</em> signage</td>
+                    <td colspan="2" class="text-indent-2">§ 14-36.  <em>{Required}</em> signage</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-37.  Permit and operator's license <em>{available for}</em> inspection</td>
+                    <td colspan="2" class="text-indent-2">§ 14-37.  Permit and operator's license <em>{available for}</em> inspection</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-41(3).  Operators: Providing valet services in way that endangers public safety</td>
+                    <td colspan="2" class="text-indent-2">§ 14-41(3).  Operators: Providing valet services in way that endangers public safety</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-41(4).  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                    <td colspan="2" class="text-indent-2">§ 14-41(4).  Operators: Providing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-42(3).  Hosts: Providing or allowing valet services in way that endangers public safety</td>
+                    <td colspan="2" class="text-indent-2">§ 14-42(3).  Hosts: Providing or allowing valet services in way that endangers public safety</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-42(4).  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
+                    <td colspan="2" class="text-indent-2">§ 14-42(4).  Hosts: Providing or allowing valet services that unreasonably disrupt vehicular or pedestrian traffic</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 14-43.  Any other violation that is cause for suspending or revoking a license or permit</td>
+                    <td colspan="2" class="text-indent-2">§ 14-43.  Any other violation that is cause for suspending or revoking a license or permit</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$150</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> or subsequent offense within 12 months of 1<sup>st</sup></td>
                     <td>$300</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Subtitle 16.  Use-of-the-Road Regulations</td>
+                    <td colspan="2">Subtitle 16.  Use-of-the-Road Regulations</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 16-12. Vehicles on sidewalks</td>
+                    <td class="text-indent-1">§ 16-12. Vehicles on sidewalks</td>
                     <td>$ 50</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Subtitle 38.  Dockless Vehicles</td>
+                    <td colspan="2">Subtitle 38.  Dockless Vehicles</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-7(b)(2).  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
+                    <td class="text-indent-1">§ 38-7(b)(2).  Exceeding the maximum number or type of dockless vehicles permitted to operate</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-8(a).  Operating a dockless-vehicle-for-hire business without a permit</td>
+                    <td class="text-indent-1">§ 38-8(a).  Operating a dockless-vehicle-for-hire business without a permit</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-12.  Failure of provider to provide required data or reports</td>
+                    <td class="text-indent-1">§ 38-12.  Failure of provider to provide required data or reports</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-15.  Failure of provider to notify of data breach</td>
+                    <td class="text-indent-1">§ 38-15.  Failure of provider to notify of data breach</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-18.  Unlawful operation of e-bike or e-scooter</td>
+                    <td class="text-indent-1">§ 38-18.  Unlawful operation of e-bike or e-scooter</td>
                     <td>$ 20</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-19.  Unlawful parking of dockless vehicle</td>
+                    <td class="text-indent-1">§ 38-19.  Unlawful parking of dockless vehicle</td>
                     <td>$ 20</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">§ 38-21.  Display of advertisements on dockless vehicles</td>
+                    <td class="text-indent-1">§ 38-21.  Display of advertisements on dockless vehicles</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">§ 38-22.  Provider operational responsibilities:</td>
+                    <td colspan="2" class="text-indent-1">§ 38-22.  Provider operational responsibilities:</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (1).  Failure to maintain 24-hour customer service phone support</td>
+                    <td class="text-indent-2">Item (1).  Failure to maintain 24-hour customer service phone support</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (2).  Failure to remove dockless vehicles from public rights-of-way between dusk and dawn, as determined in rules and regulations</td>
+                    <td class="text-indent-2">Item (2).  Failure to remove dockless vehicles from public rights-of-way between dusk and dawn, as determined in rules and regulations</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (3).  Failure to ensure that dockless vehicles are parked as required by law, rule, or regulation</td>
+                    <td class="text-indent-2">Item (3).  Failure to ensure that dockless vehicles are parked as required by law, rule, or regulation</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (4).  Failure to remove or reposition illegally parked dockless vehicles within required time</td>
+                    <td class="text-indent-2">Item (4).  Failure to remove or reposition illegally parked dockless vehicles within required time</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (5).  Failure to ensure that dockless vehicles adhere to national safety standards</td>
+                    <td class="text-indent-2">Item (5).  Failure to ensure that dockless vehicles adhere to national safety standards</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (6).  Failure to ensure that provider operations adhere to equitable access requirements</td>
+                    <td class="text-indent-2">Item (6).  Failure to ensure that provider operations adhere to equitable access requirements</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Item (7).  Failure to comply with any other requirement established by the Director</td>
+                    <td class="text-indent-2">Item (7).  Failure to comply with any other requirement established by the Director</td>
                     <td>$1,000</td>
                   </tr>
                 </tbody>
@@ -10207,45 +9993,42 @@
               <table>
                 <tbody>
                   <tr>
-                    <td colspan="2">§ 105.11.  Post-work proof of disposal</td>
+                    <td>§ 105.11.  Post-work proof of disposal</td>
                     <td>$1000</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 114.14. Work without permit</td>
+                    <td>§ 114.14. Work without permit</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 115.3. Stop-work order:  Unlawful continuance</td>
+                    <td>§ 115.3. Stop-work order:  Unlawful continuance</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td colspan="3">§ 123.8.  Failure to comply with notice or citation</td>
+                    <td colspan="2">§ 123.8.  Failure to comply with notice or citation</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>Unsafe structures {§ 116}</td>
+                    <td class="text-indent-1">Unsafe structures {§ 116}</td>
                     <td>$900</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>Condemnation proceedings {§ 120}</td>
+                    <td class="text-indent-1">Condemnation proceedings {§ 120}</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>All other notices (excluding citations)</td>
+                    <td class="text-indent-1">All other notices (excluding citations)</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 1209.4  Diaper-Changing Amenities</td>
+                    <td>§ 1209.4  Diaper-Changing Amenities</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 3302.2. Construction Safeguards: Waste and debris</td>
+                    <td>§ 3302.2. Construction Safeguards: Waste and debris</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 3808.  Traffic-Mitigation Enforcement</td>
+                    <td>§ 3808.  Traffic-Mitigation Enforcement</td>
                     <td>$1,000</td>
                   </tr>
                 </tbody>
@@ -10259,42 +10042,37 @@
               <table>
                 <tbody>
                   <tr>
-                    <td colspan="3">§ 108.6.  Maintenance: Overcrowding</td>
+                    <td colspan="2">§ 108.6.  Maintenance: Overcrowding</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>1-99 persons over capacity</td>
+                    <td class="text-indent-1">1-99 persons over capacity</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>100-199 persons over capacity</td>
+                    <td class="text-indent-1">100-199 persons over capacity</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>200 or more persons over capacity</td>
+                    <td class="text-indent-1">200 or more persons over capacity</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td colspan="3">§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
+                    <td colspan="2">§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-1">1<sup>st</sup> offense</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td>2<sup>nd</sup> and subsequent offenses</td>
+                    <td class="text-indent-1">2<sup>nd</sup> and subsequent offenses</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 1111.  Unsafe buildings: General</td>
+                    <td>§ 1111.  Unsafe buildings: General</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td colspan="2">§ 1001.2. Means of Egress: Minimum requirements</td>
+                    <td>§ 1001.2. Means of Egress: Minimum requirements</td>
                     <td>$250</td>
                   </tr>
                 </tbody>
@@ -10308,27 +10086,21 @@
               <table>
                 <tbody>
                   <tr>
-                    <td colspan="4">Chapter 3.  General Requirements</td>
+                    <td colspan="2">Chapter 3.  General Requirements</td>
                   </tr>
                   <tr>
-                    <td></td>
-                    <td colspan="2">§ 305.5.1.  Motor vehicles and trailers: Registered owner responsible</td>
+                    <td class="text-indent-1">§ 305.5.1.  Motor vehicles and trailers: Registered owner responsible</td>
                     <td>$150</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">All other provisions</td>
+                    <td colspan="2" class="text-indent-1">All other provisions</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td>Residential properties</td>
+                    <td class="text-indent-2">Residential properties</td>
                     <td>$  50</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td>Commercial properties</td>
+                    <td class="text-indent-2">Commercial properties</td>
                     <td>$100</td>
                   </tr>
                 </tbody>
@@ -10342,391 +10114,291 @@
               <table>
                 <tbody>
                   <tr>
-                    <td colspan="5">Title 3:  Health Facilities</td>
+                    <td colspan="2">Title 3:  Health Facilities</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 5:  Limited-Service Pregnancy Centers</td>
+                    <td class="text-indent-1">Subtitle 5:  Limited-Service Pregnancy Centers</td>
                     <td>$150</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 4:  Disease Control</td>
+                    <td colspan="2">Title 4:  Disease Control</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 6:  Screening for Lead Poisoning</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 6:  Screening for Lead Poisoning</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 4-601.  Parental Responsibility</td>
+                    <td class="text-indent-2">§ 4-601.  Parental Responsibility</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 5:  Nuisance Control</td>
+                    <td colspan="2">Title 5:  Nuisance Control</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 2:  Nuisance Abatement</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 2:  Nuisance Abatement</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 5-210.  Abatement notice</td>
+                    <td class="text-indent-2">§ 5-210.  Abatement notice</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 4:  Lead-Based Paint</td>
+                    <td class="text-indent-1">Subtitle 4:  Lead-Based Paint</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 5:  Bodily Wastes</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 5:  Bodily Wastes</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 5-501.  Spitting</td>
+                    <td class="text-indent-2">§ 5-501.  Spitting</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 5-503.  Urinating, etc. - In general</td>
+                    <td class="text-indent-2">§ 5-503.  Urinating, etc. - In general</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 5-504.  Urinating, etc. - Parents</td>
+                    <td class="text-indent-2">§ 5-504.  Urinating, etc. - Parents</td>
                     <td>$150</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 7:  Weeds</td>
+                    <td class="text-indent-1">Subtitle 7:  Weeds</td>
                     <td>$  50</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 6:  Food Service Facilities</td>
+                    <td colspan="2">Title 6:  Food Service Facilities</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 2:  License Required</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 2:  License Required</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 6-201.  In general</td>
+                    <td class="text-indent-2">§ 6-201.  In general</td>
                     <td>$300</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 5:  Miscellaneous Regulations</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 5:  Miscellaneous Regulations</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 6-506.  Litter and rubbish prohibited</td>
+                    <td class="text-indent-2">§ 6-506.  Litter and rubbish prohibited</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 6-508.  Polystyrene foam products</td>
+                    <td class="text-indent-2">§ 6-508.  Polystyrene foam products</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">All other provisions</td>
+                    <td class="text-indent-2">All other provisions</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 7:  Waste Control</td>
+                    <td colspan="2">Title 7:  Waste Control</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 2:  Solid Waste Collection</td>
+                    <td class="text-indent-1">Subtitle 2:  Solid Waste Collection</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 4:  Landfills</td>
+                    <td class="text-indent-1">Subtitle 4:  Landfills</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 6:  Prohibited Disposal</td>
+                    <td class="text-indent-1">Subtitle 6:  Prohibited Disposal</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 7:  Littering</td>
+                    <td class="text-indent-1">Subtitle 7:  Littering</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td colspan="4">Title 8:  Air Pollution</td>
+                    <td>Title 8:  Air Pollution</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 9:  Noise Regulation</td>
+                    <td colspan="2">Title 9:  Noise Regulation</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 2:  Basic Sound Level Standards</td>
+                    <td class="text-indent-1">Subtitle 2:  Basic Sound Level Standards</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 3:  Entertainment and Commercial Noise</td>
+                    <td class="text-indent-1">Subtitle 3:  Entertainment and Commercial Noise</td>
                     <td>$  50</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 4:  Amplified Sounds in Market Center</td>
+                    <td class="text-indent-1">Subtitle 4:  Amplified Sounds in Market Center</td>
                     <td>$  50</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 10:  Animal Control and Protection</td>
+                    <td colspan="2">Title 10:  Animal Control and Protection</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 1:  General Provisions</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 1:  General Provisions</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-112. Obstructing, etc., officer; False Statements</td>
+                    <td class="text-indent-2">§ 10-112. Obstructing, etc., officer; False Statements</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 2:  Licensing</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 2:  Licensing</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Part I.  Dog and Cat Licenses</td>
+                    <td class="text-indent-2">Part I.  Dog and Cat Licenses</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">Part II.  Facility Licenses</td>
+                    <td colspan="2" class="text-indent-2">Part II.  Facility Licenses</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>Animal fanciers</td>
+                    <td class="text-indent-3">Animal fanciers</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>All other facilities</td>
+                    <td class="text-indent-3">All other facilities</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 3:  General Care and Control</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 3:  General Care and Control</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-301.  Rabies – Vaccinations</td>
+                    <td class="text-indent-2">§ 10-301.  Rabies – Vaccinations</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-302.  Rabies – Possible exposure</td>
+                    <td class="text-indent-2">§ 10-302.  Rabies – Possible exposure</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-303.  Humane care required</td>
+                    <td class="text-indent-2">§ 10-303.  Humane care required</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="3">§ 10-307.  Restraints required</td>
+                    <td colspan="2" class="text-indent-2">§ 10-307.  Restraints required</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>1<sup>st</sup> offense</td>
+                    <td class="text-indent-3">1<sup>st</sup> offense</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>2<sup>nd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">2<sup>nd</sup> offense within 12 months of 1<sup>st</sup></td>
                     <td>$400</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td> </td>
-                    <td>3<sup>rd</sup> offense within 12 months of 1<sup>st</sup></td>
+                    <td class="text-indent-3">3<sup>rd</sup> offense within 12 months of 1<sup>st</sup></td>
                     <td>$600</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-313.  Animal waste</td>
+                    <td class="text-indent-2">§ 10-313.  Animal waste</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">All other provisions</td>
+                    <td class="text-indent-2">All other provisions</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 4:  Animal Protection</td>
+                    <td class="text-indent-1">Subtitle 4:  Animal Protection</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 5: Public Nuisance Animals</td>
+                    <td class="text-indent-1">Subtitle 5: Public Nuisance Animals</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
+                    <td class="text-indent-1">Subtitle 6:  Wild Animals, etc.; Prohibited Animals</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 7: Attack Dogs; Dangerous and Vicious Animals</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-701.  Attack dogs</td>
+                    <td class="text-indent-2">§ 10-701.  Attack dogs</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-702.  Dangerous animals</td>
+                    <td class="text-indent-2">§ 10-702.  Dangerous animals</td>
                     <td>$250</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-706.  Vicious animals – Keeping prohibited</td>
+                    <td class="text-indent-2">§ 10-706.  Vicious animals – Keeping prohibited</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 9:  Horse Riding and Driving</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 9:  Horse Riding and Driving</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">§ 10-918.  Sick or injured horses</td>
+                    <td class="text-indent-2">§ 10-918.  Sick or injured horses</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">All other provisions</td>
+                    <td class="text-indent-2">All other provisions</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 11:  Swimming Pools</td>
+                    <td colspan="2">Title 11:  Swimming Pools</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 3:  Public Swimming Pools</td>
+                    <td class="text-indent-1">Subtitle 3:  Public Swimming Pools</td>
                     <td>$200</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 12:  Tobacco Products and Smoking Devices</td>
+                    <td colspan="2">Title 12:  Tobacco Products and Smoking Devices</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="4">Subtitle 1:  Indoor Smoking</td>
+                    <td colspan="2" class="text-indent-1">Subtitle 1:  Indoor Smoking</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Person smoking</td>
+                    <td class="text-indent-2">Person smoking</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td> </td>
-                    <td colspan="2">Employer, other person in charge</td>
+                    <td class="text-indent-2">Employer, other person in charge</td>
                     <td>$750</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
+                    <td class="text-indent-1">Subtitle 2:  Sale of Unpackaged Cigarettes</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
+                    <td class="text-indent-1">Subtitle 4:  Placement of Tobacco Products and Smoking Devices</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 5:  Unlawful Distribution</td>
+                    <td class="text-indent-1">Subtitle 5:  Unlawful Distribution</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 6:  Flavored Tobacco Wrappings</td>
+                    <td class="text-indent-1">Subtitle 6:  Flavored Tobacco Wrappings</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 7:  Mobile Vendors</td>
+                    <td class="text-indent-1">Subtitle 7:  Mobile Vendors</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 8:  Smoking Near Playgrounds</td>
+                    <td class="text-indent-1">Subtitle 8:  Smoking Near Playgrounds</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 9:  Nicotine Replacement Therapy Products</td>
+                    <td class="text-indent-1">Subtitle 9:  Nicotine Replacement Therapy Products</td>
                     <td>$100</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 15:  Ephedrine Products</td>
+                    <td colspan="2">Title 15:  Ephedrine Products</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 2:  Distribution to Minors</td>
+                    <td class="text-indent-1">Subtitle 2:  Distribution to Minors</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 3:  Product Placement</td>
+                    <td class="text-indent-1">Subtitle 3:  Product Placement</td>
                     <td>$500</td>
                   </tr>
                   <tr>
-                    <td colspan="5">Title 16:  Psychoactive Substances</td>
+                    <td colspan="2">Title 16:  Psychoactive Substances</td>
                   </tr>
                   <tr>
-                    <td> </td>
-                    <td colspan="3">Subtitle 2:  Prohibited Conduct</td>
+                    <td class="text-indent-1">Subtitle 2:  Prohibited Conduct</td>
                     <td>$1,000</td>
                   </tr>
                   <tr>
-                    <td colspan="4">Title 19:  Pesticides</td>
+                    <td>Title 19:  Pesticides</td>
                     <td>$250</td>
                   </tr>
                 </tbody>
